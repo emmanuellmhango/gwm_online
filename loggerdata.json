@@ -8,24 +8,10 @@
   },
   {
     "uid": 416244498,
-    "date": "12/31/2024",
-    "water_level": 2.7012,
-    "temperature": 27.415,
-    "conductivity": 895.8
-  },
-  {
-    "uid": 416244498,
     "date": "1/1/2025",
     "water_level": 3.3367,
     "temperature": 27.416,
     "conductivity": 895.7
-  },
-  {
-    "uid": 416244498,
-    "date": "1/1/2025",
-    "water_level": 2.7276,
-    "temperature": 27.412,
-    "conductivity": 896.7
   },
   {
     "uid": 416244498,
@@ -36,24 +22,10 @@
   },
   {
     "uid": 416244498,
-    "date": "1/2/2025",
-    "water_level": 2.8033,
-    "temperature": 27.415,
-    "conductivity": 896.6
-  },
-  {
-    "uid": 416244498,
     "date": "1/3/2025",
     "water_level": 3.066,
     "temperature": 27.416,
     "conductivity": 896.9
-  },
-  {
-    "uid": 416244498,
-    "date": "1/3/2025",
-    "water_level": 2.8676,
-    "temperature": 27.413,
-    "conductivity": 895.9
   },
   {
     "uid": 416244498,
@@ -64,24 +36,10 @@
   },
   {
     "uid": 416244498,
-    "date": "1/4/2025",
-    "water_level": 2.8288,
-    "temperature": 27.412,
-    "conductivity": 895.4
-  },
-  {
-    "uid": 416244498,
     "date": "1/5/2025",
     "water_level": 3.1118,
     "temperature": 27.412,
     "conductivity": 894.5
-  },
-  {
-    "uid": 416244498,
-    "date": "1/5/2025",
-    "water_level": 3.045,
-    "temperature": 27.414,
-    "conductivity": 895.2
   },
   {
     "uid": 416244498,
@@ -92,24 +50,10 @@
   },
   {
     "uid": 416244498,
-    "date": "1/6/2025",
-    "water_level": 2.9519,
-    "temperature": 27.412,
-    "conductivity": 895.2
-  },
-  {
-    "uid": 416244498,
     "date": "1/7/2025",
     "water_level": 3.0586,
     "temperature": 27.413,
     "conductivity": 895.6
-  },
-  {
-    "uid": 416244498,
-    "date": "1/7/2025",
-    "water_level": 2.891,
-    "temperature": 27.411,
-    "conductivity": 893.9
   },
   {
     "uid": 416244498,
@@ -120,24 +64,10 @@
   },
   {
     "uid": 416244498,
-    "date": "1/8/2025",
-    "water_level": 2.8462,
-    "temperature": 27.411,
-    "conductivity": 894.8
-  },
-  {
-    "uid": 416244498,
     "date": "1/9/2025",
     "water_level": 3.1085,
     "temperature": 27.409,
     "conductivity": 894.5
-  },
-  {
-    "uid": 416244498,
-    "date": "1/9/2025",
-    "water_level": 2.8765,
-    "temperature": 27.412,
-    "conductivity": 894.1
   },
   {
     "uid": 416244498,
@@ -148,24 +78,10 @@
   },
   {
     "uid": 416244498,
-    "date": "1/10/2025",
-    "water_level": 2.9268,
-    "temperature": 27.41,
-    "conductivity": 893.4
-  },
-  {
-    "uid": 416244498,
     "date": "1/11/2025",
     "water_level": 3.2593,
     "temperature": 27.411,
     "conductivity": 894.2
-  },
-  {
-    "uid": 416244498,
-    "date": "1/11/2025",
-    "water_level": 2.9401,
-    "temperature": 27.41,
-    "conductivity": 894.7
   },
   {
     "uid": 416244498,
@@ -176,24 +92,10 @@
   },
   {
     "uid": 416244498,
-    "date": "1/12/2025",
-    "water_level": 3.0503,
-    "temperature": 27.413,
-    "conductivity": 894.3
-  },
-  {
-    "uid": 416244498,
     "date": "1/13/2025",
     "water_level": 3.1774,
     "temperature": 27.41,
     "conductivity": 894.6
-  },
-  {
-    "uid": 416244498,
-    "date": "1/13/2025",
-    "water_level": 3.1081,
-    "temperature": 27.41,
-    "conductivity": 894.5
   },
   {
     "uid": 416244498,
@@ -204,24 +106,10 @@
   },
   {
     "uid": 416244498,
-    "date": "1/14/2025",
-    "water_level": 3.0338,
-    "temperature": 27.41,
-    "conductivity": 893.6
-  },
-  {
-    "uid": 416244498,
     "date": "1/15/2025",
     "water_level": 3.2922,
     "temperature": 27.411,
     "conductivity": 894
-  },
-  {
-    "uid": 416244498,
-    "date": "1/15/2025",
-    "water_level": 2.9863,
-    "temperature": 27.409,
-    "conductivity": 893.8
   },
   {
     "uid": 416244498,
@@ -232,24 +120,10 @@
   },
   {
     "uid": 416244498,
-    "date": "1/16/2025",
-    "water_level": 3.0327,
-    "temperature": 27.411,
-    "conductivity": 894.2
-  },
-  {
-    "uid": 416244498,
     "date": "1/17/2025",
     "water_level": 3.3392,
     "temperature": 27.41,
     "conductivity": 894.4
-  },
-  {
-    "uid": 416244498,
-    "date": "1/17/2025",
-    "water_level": 3.0866,
-    "temperature": 27.41,
-    "conductivity": 894
   },
   {
     "uid": 416244498,
@@ -260,13 +134,6 @@
   },
   {
     "uid": 416244498,
-    "date": "1/18/2025",
-    "water_level": 3.0518,
-    "temperature": 27.411,
-    "conductivity": 893.4
-  },
-  {
-    "uid": 416244498,
     "date": "1/19/2025",
     "water_level": 3.2005,
     "temperature": 27.409,
@@ -274,22 +141,8 @@
   },
   {
     "uid": 416244498,
-    "date": "1/19/2025",
-    "water_level": 3.0371,
-    "temperature": 27.408,
-    "conductivity": 892.4
-  },
-  {
-    "uid": 416244498,
     "date": "1/20/2025",
     "water_level": 3.227,
-    "temperature": 27.409,
-    "conductivity": 893.5
-  },
-  {
-    "uid": 416244498,
-    "date": "1/20/2025",
-    "water_level": 2.9916,
     "temperature": 27.409,
     "conductivity": 893.5
   },
@@ -302,24 +155,10 @@
   },
   {
     "uid": 416244498,
-    "date": "1/21/2025",
-    "water_level": 3.1307,
-    "temperature": 27.408,
-    "conductivity": 892.4
-  },
-  {
-    "uid": 416244498,
     "date": "1/22/2025",
     "water_level": 3.351,
     "temperature": 27.409,
     "conductivity": 892.2
-  },
-  {
-    "uid": 416244498,
-    "date": "1/22/2025",
-    "water_level": 3.2818,
-    "temperature": 27.407,
-    "conductivity": 893.1
   },
   {
     "uid": 416244498,
@@ -330,24 +169,10 @@
   },
   {
     "uid": 416244498,
-    "date": "1/23/2025",
-    "water_level": 3.1009,
-    "temperature": 27.407,
-    "conductivity": 892.4
-  },
-  {
-    "uid": 416244498,
     "date": "1/24/2025",
     "water_level": 3.083,
     "temperature": 27.407,
     "conductivity": 893.2
-  },
-  {
-    "uid": 416244498,
-    "date": "1/24/2025",
-    "water_level": 2.8614,
-    "temperature": 27.406,
-    "conductivity": 892.8
   },
   {
     "uid": 416244498,
@@ -358,24 +183,10 @@
   },
   {
     "uid": 416244498,
-    "date": "1/25/2025",
-    "water_level": 2.7295,
-    "temperature": 27.406,
-    "conductivity": 892.3
-  },
-  {
-    "uid": 416244498,
     "date": "1/26/2025",
     "water_level": 3.2491,
     "temperature": 27.408,
     "conductivity": 892.7
-  },
-  {
-    "uid": 416244498,
-    "date": "1/26/2025",
-    "water_level": 2.6899,
-    "temperature": 27.408,
-    "conductivity": 891.2
   },
   {
     "uid": 416244498,
@@ -386,24 +197,10 @@
   },
   {
     "uid": 416244498,
-    "date": "1/27/2025",
-    "water_level": 2.5899,
-    "temperature": 27.408,
-    "conductivity": 892.4
-  },
-  {
-    "uid": 416244498,
     "date": "1/28/2025",
     "water_level": 2.7516,
     "temperature": 27.411,
     "conductivity": 890.8
-  },
-  {
-    "uid": 416244498,
-    "date": "1/28/2025",
-    "water_level": 2.3611,
-    "temperature": 27.411,
-    "conductivity": 892
   },
   {
     "uid": 416244498,
@@ -414,24 +211,10 @@
   },
   {
     "uid": 416244498,
-    "date": "1/29/2025",
-    "water_level": 2.272,
-    "temperature": 27.411,
-    "conductivity": 891.9
-  },
-  {
-    "uid": 416244498,
     "date": "1/30/2025",
     "water_level": 2.7935,
     "temperature": 27.414,
     "conductivity": 892.1
-  },
-  {
-    "uid": 416244498,
-    "date": "1/30/2025",
-    "water_level": 2.3715,
-    "temperature": 27.412,
-    "conductivity": 891.6
   },
   {
     "uid": 416244498,
@@ -442,24 +225,10 @@
   },
   {
     "uid": 416244498,
-    "date": "1/31/2025",
-    "water_level": 2.329,
-    "temperature": 27.411,
-    "conductivity": 890.8
-  },
-  {
-    "uid": 416244498,
     "date": "2/1/2025",
     "water_level": 2.4351,
     "temperature": 27.412,
     "conductivity": 890.5
-  },
-  {
-    "uid": 416244498,
-    "date": "2/1/2025",
-    "water_level": 2.1164,
-    "temperature": 27.41,
-    "conductivity": 891.8
   },
   {
     "uid": 416244498,
@@ -470,24 +239,10 @@
   },
   {
     "uid": 416244498,
-    "date": "2/2/2025",
-    "water_level": 2.081,
-    "temperature": 27.412,
-    "conductivity": 891.8
-  },
-  {
-    "uid": 416244498,
     "date": "2/3/2025",
     "water_level": 2.2482,
     "temperature": 27.412,
     "conductivity": 890.7
-  },
-  {
-    "uid": 416244498,
-    "date": "2/3/2025",
-    "water_level": 2.2679,
-    "temperature": 27.413,
-    "conductivity": 889.6
   },
   {
     "uid": 416244498,
@@ -498,24 +253,10 @@
   },
   {
     "uid": 416244498,
-    "date": "2/4/2025",
-    "water_level": 2.0514,
-    "temperature": 27.411,
-    "conductivity": 891.3
-  },
-  {
-    "uid": 416244498,
     "date": "2/5/2025",
     "water_level": 2.1889,
     "temperature": 27.412,
     "conductivity": 892
-  },
-  {
-    "uid": 416244498,
-    "date": "2/5/2025",
-    "water_level": 2.0457,
-    "temperature": 27.413,
-    "conductivity": 891.8
   },
   {
     "uid": 416244498,
@@ -525,23 +266,9 @@
     "conductivity": 890.7
   },
   {
-    "uid": 416244498,
-    "date": "2/6/2025",
-    "water_level": 2.1851,
-    "temperature": 27.411,
-    "conductivity": 890.1
-  },
-  {
     "uid": 236565562,
     "date": "12/31/2024",
     "water_level": 16.181,
-    "temperature": 24.243,
-    "conductivity": 225
-  },
-  {
-    "uid": 236565562,
-    "date": "12/31/2024",
-    "water_level": 16.0624,
     "temperature": 24.243,
     "conductivity": 225
   },
@@ -554,24 +281,10 @@
   },
   {
     "uid": 236565562,
-    "date": "1/1/2025",
-    "water_level": 16.0603,
-    "temperature": 24.243,
-    "conductivity": 225.3
-  },
-  {
-    "uid": 236565562,
     "date": "1/2/2025",
     "water_level": 16.1666,
     "temperature": 24.246,
     "conductivity": 226.7
-  },
-  {
-    "uid": 236565562,
-    "date": "1/2/2025",
-    "water_level": 16.0617,
-    "temperature": 24.242,
-    "conductivity": 226.6
   },
   {
     "uid": 236565562,
@@ -582,24 +295,10 @@
   },
   {
     "uid": 236565562,
-    "date": "1/3/2025",
-    "water_level": 16.1269,
-    "temperature": 24.243,
-    "conductivity": 225.7
-  },
-  {
-    "uid": 236565562,
     "date": "1/4/2025",
     "water_level": 16.1782,
     "temperature": 24.241,
     "conductivity": 225.2
-  },
-  {
-    "uid": 236565562,
-    "date": "1/4/2025",
-    "water_level": 16.1215,
-    "temperature": 24.24,
-    "conductivity": 224.8
   },
   {
     "uid": 236565562,
@@ -610,22 +309,8 @@
   },
   {
     "uid": 236565562,
-    "date": "1/5/2025",
-    "water_level": 16.0875,
-    "temperature": 24.24,
-    "conductivity": 224.6
-  },
-  {
-    "uid": 236565562,
     "date": "1/6/2025",
     "water_level": 16.2201,
-    "temperature": 24.24,
-    "conductivity": 224.5
-  },
-  {
-    "uid": 236565562,
-    "date": "1/6/2025",
-    "water_level": 16.2183,
     "temperature": 24.24,
     "conductivity": 224.5
   },
@@ -638,24 +323,10 @@
   },
   {
     "uid": 236565562,
-    "date": "1/7/2025",
-    "water_level": 16.1577,
-    "temperature": 24.242,
-    "conductivity": 224.5
-  },
-  {
-    "uid": 236565562,
     "date": "1/8/2025",
     "water_level": 16.1324,
     "temperature": 24.239,
     "conductivity": 224.5
-  },
-  {
-    "uid": 236565562,
-    "date": "1/8/2025",
-    "water_level": 16.1958,
-    "temperature": 24.238,
-    "conductivity": 224.8
   },
   {
     "uid": 236565562,
@@ -666,13 +337,6 @@
   },
   {
     "uid": 236565562,
-    "date": "1/9/2025",
-    "water_level": 16.0767,
-    "temperature": 24.239,
-    "conductivity": 224.9
-  },
-  {
-    "uid": 236565562,
     "date": "1/10/2025",
     "water_level": 16.2204,
     "temperature": 24.239,
@@ -680,23 +344,9 @@
   },
   {
     "uid": 236565562,
-    "date": "1/10/2025",
-    "water_level": 16.1906,
-    "temperature": 24.238,
-    "conductivity": 224.5
-  },
-  {
-    "uid": 236565562,
     "date": "1/11/2025",
     "water_level": 16.293,
     "temperature": 24.241,
-    "conductivity": 224.5
-  },
-  {
-    "uid": 236565562,
-    "date": "1/11/2025",
-    "water_level": 16.2596,
-    "temperature": 24.239,
     "conductivity": 224.5
   },
   {
@@ -708,13 +358,6 @@
   },
   {
     "uid": 236565562,
-    "date": "1/12/2025",
-    "water_level": 16.2439,
-    "temperature": 24.239,
-    "conductivity": 224.5
-  },
-  {
-    "uid": 236565562,
     "date": "1/13/2025",
     "water_level": 16.3034,
     "temperature": 24.239,
@@ -722,23 +365,9 @@
   },
   {
     "uid": 236565562,
-    "date": "1/13/2025",
-    "water_level": 16.2795,
-    "temperature": 24.238,
-    "conductivity": 224.4
-  },
-  {
-    "uid": 236565562,
     "date": "1/14/2025",
     "water_level": 16.366,
     "temperature": 24.239,
-    "conductivity": 224.4
-  },
-  {
-    "uid": 236565562,
-    "date": "1/14/2025",
-    "water_level": 16.3312,
-    "temperature": 24.237,
     "conductivity": 224.4
   },
   {
@@ -750,22 +379,8 @@
   },
   {
     "uid": 236565562,
-    "date": "1/15/2025",
-    "water_level": 16.2214,
-    "temperature": 24.237,
-    "conductivity": 224.4
-  },
-  {
-    "uid": 236565562,
     "date": "1/16/2025",
     "water_level": 16.2734,
-    "temperature": 24.237,
-    "conductivity": 224.4
-  },
-  {
-    "uid": 236565562,
-    "date": "1/16/2025",
-    "water_level": 16.2462,
     "temperature": 24.237,
     "conductivity": 224.4
   },
@@ -778,23 +393,9 @@
   },
   {
     "uid": 236565562,
-    "date": "1/17/2025",
-    "water_level": 16.2458,
-    "temperature": 24.237,
-    "conductivity": 224.5
-  },
-  {
-    "uid": 236565562,
     "date": "1/18/2025",
     "water_level": 16.3223,
     "temperature": 24.239,
-    "conductivity": 224.5
-  },
-  {
-    "uid": 236565562,
-    "date": "1/18/2025",
-    "water_level": 16.1549,
-    "temperature": 24.235,
     "conductivity": 224.5
   },
   {
@@ -806,24 +407,10 @@
   },
   {
     "uid": 236565562,
-    "date": "1/19/2025",
-    "water_level": 16.1373,
-    "temperature": 24.235,
-    "conductivity": 224.5
-  },
-  {
-    "uid": 236565562,
     "date": "1/20/2025",
     "water_level": 16.1448,
     "temperature": 24.236,
     "conductivity": 224.5
-  },
-  {
-    "uid": 236565562,
-    "date": "1/20/2025",
-    "water_level": 16.1423,
-    "temperature": 24.238,
-    "conductivity": 224.6
   },
   {
     "uid": 236565562,
@@ -834,13 +421,6 @@
   },
   {
     "uid": 236565562,
-    "date": "1/21/2025",
-    "water_level": 16.093,
-    "temperature": 24.237,
-    "conductivity": 224.6
-  },
-  {
-    "uid": 236565562,
     "date": "1/22/2025",
     "water_level": 16.1052,
     "temperature": 24.234,
@@ -848,23 +428,9 @@
   },
   {
     "uid": 236565562,
-    "date": "1/22/2025",
-    "water_level": 16.0431,
-    "temperature": 24.237,
-    "conductivity": 224.6
-  },
-  {
-    "uid": 236565562,
     "date": "1/23/2025",
     "water_level": 16.0646,
     "temperature": 24.236,
-    "conductivity": 224.6
-  },
-  {
-    "uid": 236565562,
-    "date": "1/23/2025",
-    "water_level": 16.1569,
-    "temperature": 24.238,
     "conductivity": 224.6
   },
   {
@@ -876,13 +442,6 @@
   },
   {
     "uid": 236565562,
-    "date": "1/24/2025",
-    "water_level": 16.0304,
-    "temperature": 24.233,
-    "conductivity": 224.6
-  },
-  {
-    "uid": 236565562,
     "date": "1/25/2025",
     "water_level": 16.0786,
     "temperature": 24.235,
@@ -890,23 +449,9 @@
   },
   {
     "uid": 236565562,
-    "date": "1/25/2025",
-    "water_level": 15.9425,
-    "temperature": 24.236,
-    "conductivity": 224.5
-  },
-  {
-    "uid": 236565562,
     "date": "1/26/2025",
     "water_level": 16.0523,
     "temperature": 24.236,
-    "conductivity": 224.6
-  },
-  {
-    "uid": 236565562,
-    "date": "1/26/2025",
-    "water_level": 15.878,
-    "temperature": 24.233,
     "conductivity": 224.6
   },
   {
@@ -918,23 +463,9 @@
   },
   {
     "uid": 236565562,
-    "date": "1/27/2025",
-    "water_level": 15.844,
-    "temperature": 24.234,
-    "conductivity": 224.6
-  },
-  {
-    "uid": 236565562,
     "date": "1/28/2025",
     "water_level": 15.9513,
     "temperature": 24.234,
-    "conductivity": 224.6
-  },
-  {
-    "uid": 236565562,
-    "date": "1/28/2025",
-    "water_level": 15.8801,
-    "temperature": 24.233,
     "conductivity": 224.6
   },
   {
@@ -946,24 +477,10 @@
   },
   {
     "uid": 236565562,
-    "date": "1/29/2025",
-    "water_level": 15.8162,
-    "temperature": 24.233,
-    "conductivity": 224.6
-  },
-  {
-    "uid": 236565562,
     "date": "1/30/2025",
     "water_level": 15.8949,
     "temperature": 24.235,
     "conductivity": 224.9
-  },
-  {
-    "uid": 236565562,
-    "date": "1/30/2025",
-    "water_level": 15.822,
-    "temperature": 24.234,
-    "conductivity": 225
   },
   {
     "uid": 236565562,
@@ -974,13 +491,6 @@
   },
   {
     "uid": 236565562,
-    "date": "1/31/2025",
-    "water_level": 15.7899,
-    "temperature": 24.232,
-    "conductivity": 224.7
-  },
-  {
-    "uid": 236565562,
     "date": "2/1/2025",
     "water_level": 15.7367,
     "temperature": 24.234,
@@ -988,23 +498,9 @@
   },
   {
     "uid": 236565562,
-    "date": "2/1/2025",
-    "water_level": 15.7664,
-    "temperature": 24.235,
-    "conductivity": 224.6
-  },
-  {
-    "uid": 236565562,
     "date": "2/2/2025",
     "water_level": 15.7736,
     "temperature": 24.234,
-    "conductivity": 224.5
-  },
-  {
-    "uid": 236565562,
-    "date": "2/2/2025",
-    "water_level": 15.7088,
-    "temperature": 24.233,
     "conductivity": 224.5
   },
   {
@@ -1016,24 +512,10 @@
   },
   {
     "uid": 236565562,
-    "date": "2/3/2025",
-    "water_level": 15.7433,
-    "temperature": 24.233,
-    "conductivity": 230.6
-  },
-  {
-    "uid": 236565562,
     "date": "2/4/2025",
     "water_level": 15.6773,
     "temperature": 24.232,
     "conductivity": 232.2
-  },
-  {
-    "uid": 236565562,
-    "date": "2/4/2025",
-    "water_level": 15.7374,
-    "temperature": 24.234,
-    "conductivity": 232.1
   },
   {
     "uid": 236565562,
@@ -1044,24 +526,10 @@
   },
   {
     "uid": 236565562,
-    "date": "2/5/2025",
-    "water_level": 15.7399,
-    "temperature": 24.233,
-    "conductivity": 231.7
-  },
-  {
-    "uid": 236565562,
     "date": "2/6/2025",
     "water_level": 15.7523,
     "temperature": 24.232,
     "conductivity": 232.2
-  },
-  {
-    "uid": 236565562,
-    "date": "2/6/2025",
-    "water_level": 15.8361,
-    "temperature": 24.232,
-    "conductivity": 231.8
   },
   {
     "uid": 236565562,
@@ -1079,24 +547,10 @@
   },
   {
     "uid": 936461975,
-    "date": "12/31/2024",
-    "water_level": 34.1666,
-    "temperature": 31.774,
-    "conductivity": 5739.6
-  },
-  {
-    "uid": 936461975,
     "date": "1/1/2025",
     "water_level": 34.1805,
     "temperature": 31.771,
     "conductivity": 5692.7
-  },
-  {
-    "uid": 936461975,
-    "date": "1/1/2025",
-    "water_level": 34.1731,
-    "temperature": 31.775,
-    "conductivity": 5743.4
   },
   {
     "uid": 936461975,
@@ -1107,24 +561,10 @@
   },
   {
     "uid": 936461975,
-    "date": "1/2/2025",
-    "water_level": 34.1813,
-    "temperature": 31.775,
-    "conductivity": 5739.9
-  },
-  {
-    "uid": 936461975,
     "date": "1/3/2025",
     "water_level": 34.185,
     "temperature": 31.774,
     "conductivity": 5712.6
-  },
-  {
-    "uid": 936461975,
-    "date": "1/3/2025",
-    "water_level": 34.1858,
-    "temperature": 31.776,
-    "conductivity": 5755.8
   },
   {
     "uid": 936461975,
@@ -1135,24 +575,10 @@
   },
   {
     "uid": 936461975,
-    "date": "1/4/2025",
-    "water_level": 34.1725,
-    "temperature": 31.775,
-    "conductivity": 5717.8
-  },
-  {
-    "uid": 936461975,
     "date": "1/5/2025",
     "water_level": 34.1759,
     "temperature": 31.774,
     "conductivity": 5702.7
-  },
-  {
-    "uid": 936461975,
-    "date": "1/5/2025",
-    "water_level": 34.166,
-    "temperature": 31.775,
-    "conductivity": 5711.5
   },
   {
     "uid": 936461975,
@@ -1163,24 +589,10 @@
   },
   {
     "uid": 936461975,
-    "date": "1/6/2025",
-    "water_level": 34.1793,
-    "temperature": 31.774,
-    "conductivity": 5718.7
-  },
-  {
-    "uid": 936461975,
     "date": "1/7/2025",
     "water_level": 34.1829,
     "temperature": 31.774,
     "conductivity": 5707
-  },
-  {
-    "uid": 936461975,
-    "date": "1/7/2025",
-    "water_level": 34.1704,
-    "temperature": 31.773,
-    "conductivity": 5725.7
   },
   {
     "uid": 936461975,
@@ -1191,24 +603,10 @@
   },
   {
     "uid": 936461975,
-    "date": "1/8/2025",
-    "water_level": 34.1815,
-    "temperature": 31.772,
-    "conductivity": 5707.1
-  },
-  {
-    "uid": 936461975,
     "date": "1/9/2025",
     "water_level": 34.1776,
     "temperature": 31.772,
     "conductivity": 5687.9
-  },
-  {
-    "uid": 936461975,
-    "date": "1/9/2025",
-    "water_level": 34.1799,
-    "temperature": 31.773,
-    "conductivity": 5673.1
   },
   {
     "uid": 936461975,
@@ -1219,24 +617,10 @@
   },
   {
     "uid": 936461975,
-    "date": "1/10/2025",
-    "water_level": 34.18,
-    "temperature": 31.771,
-    "conductivity": 5699.2
-  },
-  {
-    "uid": 936461975,
     "date": "1/11/2025",
     "water_level": 34.1898,
     "temperature": 31.769,
     "conductivity": 5681.4
-  },
-  {
-    "uid": 936461975,
-    "date": "1/11/2025",
-    "water_level": 34.1741,
-    "temperature": 31.774,
-    "conductivity": 5722.6
   },
   {
     "uid": 936461975,
@@ -1247,24 +631,10 @@
   },
   {
     "uid": 936461975,
-    "date": "1/12/2025",
-    "water_level": 34.1622,
-    "temperature": 31.774,
-    "conductivity": 5718.5
-  },
-  {
-    "uid": 936461975,
     "date": "1/13/2025",
     "water_level": 34.1836,
     "temperature": 31.773,
     "conductivity": 5694.6
-  },
-  {
-    "uid": 936461975,
-    "date": "1/13/2025",
-    "water_level": 34.1742,
-    "temperature": 31.771,
-    "conductivity": 5720.8
   },
   {
     "uid": 936461975,
@@ -1275,24 +645,10 @@
   },
   {
     "uid": 936461975,
-    "date": "1/14/2025",
-    "water_level": 34.1706,
-    "temperature": 31.774,
-    "conductivity": 5717.3
-  },
-  {
-    "uid": 936461975,
     "date": "1/15/2025",
     "water_level": 34.1761,
     "temperature": 31.77,
     "conductivity": 5698.7
-  },
-  {
-    "uid": 936461975,
-    "date": "1/15/2025",
-    "water_level": 34.1731,
-    "temperature": 31.772,
-    "conductivity": 5718.4
   },
   {
     "uid": 936461975,
@@ -1303,24 +659,10 @@
   },
   {
     "uid": 936461975,
-    "date": "1/16/2025",
-    "water_level": 34.1859,
-    "temperature": 31.771,
-    "conductivity": 5716.8
-  },
-  {
-    "uid": 936461975,
     "date": "1/17/2025",
     "water_level": 34.1885,
     "temperature": 31.772,
     "conductivity": 5702.7
-  },
-  {
-    "uid": 936461975,
-    "date": "1/17/2025",
-    "water_level": 34.1759,
-    "temperature": 31.769,
-    "conductivity": 5725.5
   },
   {
     "uid": 936461975,
@@ -1331,24 +673,10 @@
   },
   {
     "uid": 936461975,
-    "date": "1/18/2025",
-    "water_level": 34.1706,
-    "temperature": 31.771,
-    "conductivity": 5741
-  },
-  {
-    "uid": 936461975,
     "date": "1/19/2025",
     "water_level": 34.1813,
     "temperature": 31.769,
     "conductivity": 5710.2
-  },
-  {
-    "uid": 936461975,
-    "date": "1/19/2025",
-    "water_level": 34.1804,
-    "temperature": 31.772,
-    "conductivity": 5743.5
   },
   {
     "uid": 936461975,
@@ -1359,24 +687,10 @@
   },
   {
     "uid": 936461975,
-    "date": "1/20/2025",
-    "water_level": 34.166,
-    "temperature": 31.771,
-    "conductivity": 5673.9
-  },
-  {
-    "uid": 936461975,
     "date": "1/21/2025",
     "water_level": 34.1693,
     "temperature": 31.774,
     "conductivity": 5681.6
-  },
-  {
-    "uid": 936461975,
-    "date": "1/21/2025",
-    "water_level": 34.1797,
-    "temperature": 31.772,
-    "conductivity": 5689.8
   },
   {
     "uid": 936461975,
@@ -1387,24 +701,10 @@
   },
   {
     "uid": 936461975,
-    "date": "1/22/2025",
-    "water_level": 34.1624,
-    "temperature": 31.772,
-    "conductivity": 5689.4
-  },
-  {
-    "uid": 936461975,
     "date": "1/23/2025",
     "water_level": 34.1558,
     "temperature": 31.771,
     "conductivity": 5669.5
-  },
-  {
-    "uid": 936461975,
-    "date": "1/23/2025",
-    "water_level": 34.1597,
-    "temperature": 31.773,
-    "conductivity": 5658.7
   },
   {
     "uid": 936461975,
@@ -1415,24 +715,10 @@
   },
   {
     "uid": 936461975,
-    "date": "1/24/2025",
-    "water_level": 34.1568,
-    "temperature": 31.773,
-    "conductivity": 5633.4
-  },
-  {
-    "uid": 936461975,
     "date": "1/25/2025",
     "water_level": 34.1615,
     "temperature": 31.771,
     "conductivity": 5647.8
-  },
-  {
-    "uid": 936461975,
-    "date": "1/25/2025",
-    "water_level": 34.1604,
-    "temperature": 31.773,
-    "conductivity": 5648
   },
   {
     "uid": 936461975,
@@ -1443,24 +729,10 @@
   },
   {
     "uid": 936461975,
-    "date": "1/26/2025",
-    "water_level": 34.1617,
-    "temperature": 31.771,
-    "conductivity": 5654.5
-  },
-  {
-    "uid": 936461975,
     "date": "1/27/2025",
     "water_level": 34.1687,
     "temperature": 31.772,
     "conductivity": 5649.1
-  },
-  {
-    "uid": 936461975,
-    "date": "1/27/2025",
-    "water_level": 34.1559,
-    "temperature": 31.774,
-    "conductivity": 5652.7
   },
   {
     "uid": 936461975,
@@ -1471,24 +743,10 @@
   },
   {
     "uid": 936461975,
-    "date": "1/28/2025",
-    "water_level": 34.1638,
-    "temperature": 31.773,
-    "conductivity": 5657
-  },
-  {
-    "uid": 936461975,
     "date": "1/29/2025",
     "water_level": 34.1543,
     "temperature": 31.773,
     "conductivity": 5637.5
-  },
-  {
-    "uid": 936461975,
-    "date": "1/29/2025",
-    "water_level": 34.1518,
-    "temperature": 31.772,
-    "conductivity": 5623.1
   },
   {
     "uid": 936461975,
@@ -1499,24 +757,10 @@
   },
   {
     "uid": 936461975,
-    "date": "1/30/2025",
-    "water_level": 34.1475,
-    "temperature": 31.773,
-    "conductivity": 5657.2
-  },
-  {
-    "uid": 936461975,
     "date": "1/31/2025",
     "water_level": 34.1571,
     "temperature": 31.773,
     "conductivity": 5649
-  },
-  {
-    "uid": 936461975,
-    "date": "1/31/2025",
-    "water_level": 34.1472,
-    "temperature": 31.772,
-    "conductivity": 5665.3
   },
   {
     "uid": 936461975,
@@ -1527,24 +771,10 @@
   },
   {
     "uid": 936461975,
-    "date": "2/1/2025",
-    "water_level": 34.1481,
-    "temperature": 31.773,
-    "conductivity": 5667.4
-  },
-  {
-    "uid": 936461975,
     "date": "2/2/2025",
     "water_level": 34.1546,
     "temperature": 31.774,
     "conductivity": 5649.4
-  },
-  {
-    "uid": 936461975,
-    "date": "2/2/2025",
-    "water_level": 34.1483,
-    "temperature": 31.773,
-    "conductivity": 5667
   },
   {
     "uid": 936461975,
@@ -1555,13 +785,6 @@
   },
   {
     "uid": 936461975,
-    "date": "2/3/2025",
-    "water_level": 34.1509,
-    "temperature": 31.771,
-    "conductivity": 5667.2
-  },
-  {
-    "uid": 936461975,
     "date": "2/4/2025",
     "water_level": 34.1561,
     "temperature": 31.773,
@@ -1569,24 +792,10 @@
   },
   {
     "uid": 936461975,
-    "date": "2/4/2025",
-    "water_level": 34.149,
-    "temperature": 31.773,
-    "conductivity": 5659.8
-  },
-  {
-    "uid": 936461975,
     "date": "2/5/2025",
     "water_level": 34.1519,
     "temperature": 31.772,
     "conductivity": 5663
-  },
-  {
-    "uid": 936461975,
-    "date": "2/5/2025",
-    "water_level": 34.1413,
-    "temperature": 31.771,
-    "conductivity": 5667.6
   },
   {
     "uid": 936461975,
@@ -1604,24 +813,10 @@
   },
   {
     "uid": 283200496,
-    "date": "12/31/2024",
-    "water_level": 9.2494,
-    "temperature": 26.078,
-    "conductivity": 338.9
-  },
-  {
-    "uid": 283200496,
     "date": "1/1/2025",
     "water_level": 9.2587,
     "temperature": 26.079,
     "conductivity": 339
-  },
-  {
-    "uid": 283200496,
-    "date": "1/1/2025",
-    "water_level": 9.239,
-    "temperature": 26.079,
-    "conductivity": 339.1
   },
   {
     "uid": 283200496,
@@ -1632,24 +827,10 @@
   },
   {
     "uid": 283200496,
-    "date": "1/2/2025",
-    "water_level": 9.176,
-    "temperature": 26.076,
-    "conductivity": 339.1
-  },
-  {
-    "uid": 283200496,
     "date": "1/3/2025",
     "water_level": 9.1976,
     "temperature": 26.078,
     "conductivity": 338.9
-  },
-  {
-    "uid": 283200496,
-    "date": "1/3/2025",
-    "water_level": 9.159,
-    "temperature": 26.077,
-    "conductivity": 339
   },
   {
     "uid": 283200496,
@@ -1660,23 +841,9 @@
   },
   {
     "uid": 283200496,
-    "date": "1/4/2025",
-    "water_level": 9.1205,
-    "temperature": 26.073,
-    "conductivity": 338.9
-  },
-  {
-    "uid": 283200496,
     "date": "1/5/2025",
     "water_level": 9.1094,
     "temperature": 26.076,
-    "conductivity": 339
-  },
-  {
-    "uid": 283200496,
-    "date": "1/5/2025",
-    "water_level": 9.114,
-    "temperature": 26.074,
     "conductivity": 339
   },
   {
@@ -1688,13 +855,6 @@
   },
   {
     "uid": 283200496,
-    "date": "1/6/2025",
-    "water_level": 9.1534,
-    "temperature": 26.074,
-    "conductivity": 338.9
-  },
-  {
-    "uid": 283200496,
     "date": "1/7/2025",
     "water_level": 9.2146,
     "temperature": 26.076,
@@ -1702,23 +862,9 @@
   },
   {
     "uid": 283200496,
-    "date": "1/7/2025",
-    "water_level": 9.2198,
-    "temperature": 26.072,
-    "conductivity": 338.9
-  },
-  {
-    "uid": 283200496,
     "date": "1/8/2025",
     "water_level": 9.2217,
     "temperature": 26.077,
-    "conductivity": 338.9
-  },
-  {
-    "uid": 283200496,
-    "date": "1/8/2025",
-    "water_level": 9.1727,
-    "temperature": 26.072,
     "conductivity": 338.9
   },
   {
@@ -1730,23 +876,9 @@
   },
   {
     "uid": 283200496,
-    "date": "1/9/2025",
-    "water_level": 9.1113,
-    "temperature": 26.071,
-    "conductivity": 339
-  },
-  {
-    "uid": 283200496,
     "date": "1/10/2025",
     "water_level": 9.0949,
     "temperature": 26.072,
-    "conductivity": 338.9
-  },
-  {
-    "uid": 283200496,
-    "date": "1/10/2025",
-    "water_level": 9.1091,
-    "temperature": 26.07,
     "conductivity": 338.9
   },
   {
@@ -1758,13 +890,6 @@
   },
   {
     "uid": 283200496,
-    "date": "1/11/2025",
-    "water_level": 9.1098,
-    "temperature": 26.07,
-    "conductivity": 338.9
-  },
-  {
-    "uid": 283200496,
     "date": "1/12/2025",
     "water_level": 9.0942,
     "temperature": 26.071,
@@ -1772,23 +897,9 @@
   },
   {
     "uid": 283200496,
-    "date": "1/12/2025",
-    "water_level": 9.0914,
-    "temperature": 26.071,
-    "conductivity": 338.8
-  },
-  {
-    "uid": 283200496,
     "date": "1/13/2025",
     "water_level": 9.073,
     "temperature": 26.072,
-    "conductivity": 338.8
-  },
-  {
-    "uid": 283200496,
-    "date": "1/13/2025",
-    "water_level": 9.0865,
-    "temperature": 26.071,
     "conductivity": 338.8
   },
   {
@@ -1800,24 +911,10 @@
   },
   {
     "uid": 283200496,
-    "date": "1/14/2025",
-    "water_level": 9.072,
-    "temperature": 26.068,
-    "conductivity": 338.8
-  },
-  {
-    "uid": 283200496,
     "date": "1/15/2025",
     "water_level": 9.0493,
     "temperature": 26.072,
     "conductivity": 338.9
-  },
-  {
-    "uid": 283200496,
-    "date": "1/15/2025",
-    "water_level": 9.0926,
-    "temperature": 26.069,
-    "conductivity": 338.7
   },
   {
     "uid": 283200496,
@@ -1828,23 +925,9 @@
   },
   {
     "uid": 283200496,
-    "date": "1/16/2025",
-    "water_level": 9.0938,
-    "temperature": 26.071,
-    "conductivity": 338.7
-  },
-  {
-    "uid": 283200496,
     "date": "1/17/2025",
     "water_level": 9.1583,
     "temperature": 26.072,
-    "conductivity": 338.8
-  },
-  {
-    "uid": 283200496,
-    "date": "1/17/2025",
-    "water_level": 9.0885,
-    "temperature": 26.067,
     "conductivity": 338.8
   },
   {
@@ -1856,13 +939,6 @@
   },
   {
     "uid": 283200496,
-    "date": "1/18/2025",
-    "water_level": 9.0738,
-    "temperature": 26.066,
-    "conductivity": 338.8
-  },
-  {
-    "uid": 283200496,
     "date": "1/19/2025",
     "water_level": 9.1326,
     "temperature": 26.07,
@@ -1870,23 +946,9 @@
   },
   {
     "uid": 283200496,
-    "date": "1/19/2025",
-    "water_level": 9.0924,
-    "temperature": 26.066,
-    "conductivity": 338.7
-  },
-  {
-    "uid": 283200496,
     "date": "1/20/2025",
     "water_level": 9.0468,
     "temperature": 26.067,
-    "conductivity": 338.8
-  },
-  {
-    "uid": 283200496,
-    "date": "1/20/2025",
-    "water_level": 9.0454,
-    "temperature": 26.065,
     "conductivity": 338.8
   },
   {
@@ -1898,13 +960,6 @@
   },
   {
     "uid": 283200496,
-    "date": "1/21/2025",
-    "water_level": 8.9888,
-    "temperature": 26.066,
-    "conductivity": 338.9
-  },
-  {
-    "uid": 283200496,
     "date": "1/22/2025",
     "water_level": 9.0446,
     "temperature": 26.067,
@@ -1912,23 +967,9 @@
   },
   {
     "uid": 283200496,
-    "date": "1/22/2025",
-    "water_level": 8.9543,
-    "temperature": 26.066,
-    "conductivity": 338.7
-  },
-  {
-    "uid": 283200496,
     "date": "1/23/2025",
     "water_level": 8.9728,
     "temperature": 26.066,
-    "conductivity": 338.6
-  },
-  {
-    "uid": 283200496,
-    "date": "1/23/2025",
-    "water_level": 8.9458,
-    "temperature": 26.065,
     "conductivity": 338.6
   },
   {
@@ -1940,23 +981,9 @@
   },
   {
     "uid": 283200496,
-    "date": "1/24/2025",
-    "water_level": 8.915,
-    "temperature": 26.064,
-    "conductivity": 338.5
-  },
-  {
-    "uid": 283200496,
     "date": "1/25/2025",
     "water_level": 8.8738,
     "temperature": 26.065,
-    "conductivity": 338.6
-  },
-  {
-    "uid": 283200496,
-    "date": "1/25/2025",
-    "water_level": 8.8717,
-    "temperature": 26.062,
     "conductivity": 338.6
   },
   {
@@ -1968,13 +995,6 @@
   },
   {
     "uid": 283200496,
-    "date": "1/26/2025",
-    "water_level": 8.8342,
-    "temperature": 26.063,
-    "conductivity": 338.6
-  },
-  {
-    "uid": 283200496,
     "date": "1/27/2025",
     "water_level": 8.837,
     "temperature": 26.066,
@@ -1982,36 +1002,15 @@
   },
   {
     "uid": 283200496,
-    "date": "1/27/2025",
-    "water_level": 8.802,
-    "temperature": 26.064,
-    "conductivity": 338.3
-  },
-  {
-    "uid": 283200496,
     "date": "1/28/2025",
     "water_level": 8.8359,
-    "temperature": 26.064,
-    "conductivity": 338.5
-  },
-  {
-    "uid": 283200496,
-    "date": "1/28/2025",
-    "water_level": 8.8359,
-    "temperature": 26.063,
-    "conductivity": 338.6
-  },
-  {
-    "uid": 283200496,
-    "date": "1/29/2025",
-    "water_level": 8.818,
     "temperature": 26.064,
     "conductivity": 338.5
   },
   {
     "uid": 283200496,
     "date": "1/29/2025",
-    "water_level": 8.7454,
+    "water_level": 8.818,
     "temperature": 26.064,
     "conductivity": 338.5
   },
@@ -2024,13 +1023,6 @@
   },
   {
     "uid": 283200496,
-    "date": "1/30/2025",
-    "water_level": 8.7567,
-    "temperature": 26.062,
-    "conductivity": 338.5
-  },
-  {
-    "uid": 283200496,
     "date": "1/31/2025",
     "water_level": 8.7642,
     "temperature": 26.064,
@@ -2038,23 +1030,9 @@
   },
   {
     "uid": 283200496,
-    "date": "1/31/2025",
-    "water_level": 8.692,
-    "temperature": 26.06,
-    "conductivity": 338.4
-  },
-  {
-    "uid": 283200496,
     "date": "2/1/2025",
     "water_level": 8.6659,
     "temperature": 26.063,
-    "conductivity": 338.5
-  },
-  {
-    "uid": 283200496,
-    "date": "2/1/2025",
-    "water_level": 8.6638,
-    "temperature": 26.06,
     "conductivity": 338.5
   },
   {
@@ -2066,13 +1044,6 @@
   },
   {
     "uid": 283200496,
-    "date": "2/2/2025",
-    "water_level": 8.6739,
-    "temperature": 26.059,
-    "conductivity": 338.4
-  },
-  {
-    "uid": 283200496,
     "date": "2/3/2025",
     "water_level": 8.6929,
     "temperature": 26.061,
@@ -2080,23 +1051,9 @@
   },
   {
     "uid": 283200496,
-    "date": "2/3/2025",
-    "water_level": 8.6917,
-    "temperature": 26.059,
-    "conductivity": 338.4
-  },
-  {
-    "uid": 283200496,
     "date": "2/4/2025",
     "water_level": 8.6547,
     "temperature": 26.061,
-    "conductivity": 338.3
-  },
-  {
-    "uid": 283200496,
-    "date": "2/4/2025",
-    "water_level": 8.6562,
-    "temperature": 26.06,
     "conductivity": 338.3
   },
   {
@@ -2108,24 +1065,10 @@
   },
   {
     "uid": 283200441,
-    "date": "12/31/2024",
-    "water_level": 45.2736,
-    "temperature": 23.696,
-    "conductivity": 517.5
-  },
-  {
-    "uid": 283200441,
     "date": "1/1/2025",
     "water_level": 45.2774,
     "temperature": 23.699,
     "conductivity": 517.7
-  },
-  {
-    "uid": 283200441,
-    "date": "1/1/2025",
-    "water_level": 45.2439,
-    "temperature": 23.698,
-    "conductivity": 518.1
   },
   {
     "uid": 283200441,
@@ -2136,24 +1079,10 @@
   },
   {
     "uid": 283200441,
-    "date": "1/2/2025",
-    "water_level": 45.2077,
-    "temperature": 23.699,
-    "conductivity": 518.1
-  },
-  {
-    "uid": 283200441,
     "date": "1/3/2025",
     "water_level": 45.178,
     "temperature": 23.699,
     "conductivity": 518.1
-  },
-  {
-    "uid": 283200441,
-    "date": "1/3/2025",
-    "water_level": 45.132,
-    "temperature": 23.697,
-    "conductivity": 517.9
   },
   {
     "uid": 283200441,
@@ -2164,24 +1093,10 @@
   },
   {
     "uid": 283200441,
-    "date": "1/4/2025",
-    "water_level": 45.063,
-    "temperature": 23.698,
-    "conductivity": 517.1
-  },
-  {
-    "uid": 283200441,
     "date": "1/5/2025",
     "water_level": 45.0247,
     "temperature": 23.698,
     "conductivity": 517
-  },
-  {
-    "uid": 283200441,
-    "date": "1/5/2025",
-    "water_level": 44.985,
-    "temperature": 23.697,
-    "conductivity": 516.9
   },
   {
     "uid": 283200441,
@@ -2192,24 +1107,10 @@
   },
   {
     "uid": 283200441,
-    "date": "1/6/2025",
-    "water_level": 44.9211,
-    "temperature": 23.696,
-    "conductivity": 516.4
-  },
-  {
-    "uid": 283200441,
     "date": "1/7/2025",
     "water_level": 44.9055,
     "temperature": 23.696,
     "conductivity": 515.1
-  },
-  {
-    "uid": 283200441,
-    "date": "1/7/2025",
-    "water_level": 44.8677,
-    "temperature": 23.698,
-    "conductivity": 514
   },
   {
     "uid": 283200441,
@@ -2220,24 +1121,10 @@
   },
   {
     "uid": 283200441,
-    "date": "1/8/2025",
-    "water_level": 44.814,
-    "temperature": 23.697,
-    "conductivity": 510.9
-  },
-  {
-    "uid": 283200441,
     "date": "1/9/2025",
     "water_level": 44.7927,
     "temperature": 23.695,
     "conductivity": 508.9
-  },
-  {
-    "uid": 283200441,
-    "date": "1/9/2025",
-    "water_level": 44.7235,
-    "temperature": 23.695,
-    "conductivity": 507.5
   },
   {
     "uid": 283200441,
@@ -2248,24 +1135,10 @@
   },
   {
     "uid": 283200441,
-    "date": "1/10/2025",
-    "water_level": 44.6772,
-    "temperature": 23.695,
-    "conductivity": 505.1
-  },
-  {
-    "uid": 283200441,
     "date": "1/11/2025",
     "water_level": 44.6822,
     "temperature": 23.695,
     "conductivity": 502.7
-  },
-  {
-    "uid": 283200441,
-    "date": "1/11/2025",
-    "water_level": 44.6299,
-    "temperature": 23.694,
-    "conductivity": 499.4
   },
   {
     "uid": 283200441,
@@ -2276,24 +1149,10 @@
   },
   {
     "uid": 283200441,
-    "date": "1/12/2025",
-    "water_level": 44.5544,
-    "temperature": 23.694,
-    "conductivity": 491.8
-  },
-  {
-    "uid": 283200441,
     "date": "1/13/2025",
     "water_level": 44.5404,
     "temperature": 23.695,
     "conductivity": 489
-  },
-  {
-    "uid": 283200441,
-    "date": "1/13/2025",
-    "water_level": 44.5079,
-    "temperature": 23.695,
-    "conductivity": 486.7
   },
   {
     "uid": 283200441,
@@ -2304,24 +1163,10 @@
   },
   {
     "uid": 283200441,
-    "date": "1/14/2025",
-    "water_level": 44.4707,
-    "temperature": 23.694,
-    "conductivity": 484.2
-  },
-  {
-    "uid": 283200441,
     "date": "1/15/2025",
     "water_level": 44.4708,
     "temperature": 23.694,
     "conductivity": 482.6
-  },
-  {
-    "uid": 283200441,
-    "date": "1/15/2025",
-    "water_level": 44.468,
-    "temperature": 23.694,
-    "conductivity": 481.5
   },
   {
     "uid": 283200441,
@@ -2332,24 +1177,10 @@
   },
   {
     "uid": 283200441,
-    "date": "1/16/2025",
-    "water_level": 44.5237,
-    "temperature": 23.694,
-    "conductivity": 479.9
-  },
-  {
-    "uid": 283200441,
     "date": "1/17/2025",
     "water_level": 44.5506,
     "temperature": 23.695,
     "conductivity": 479.5
-  },
-  {
-    "uid": 283200441,
-    "date": "1/17/2025",
-    "water_level": 44.5686,
-    "temperature": 23.694,
-    "conductivity": 479
   },
   {
     "uid": 283200441,
@@ -2360,24 +1191,10 @@
   },
   {
     "uid": 283200441,
-    "date": "1/18/2025",
-    "water_level": 44.5967,
-    "temperature": 23.694,
-    "conductivity": 478.6
-  },
-  {
-    "uid": 283200441,
     "date": "1/19/2025",
     "water_level": 44.6297,
     "temperature": 23.693,
     "conductivity": 478.5
-  },
-  {
-    "uid": 283200441,
-    "date": "1/19/2025",
-    "water_level": 44.6551,
-    "temperature": 23.691,
-    "conductivity": 478.9
   },
   {
     "uid": 283200441,
@@ -2388,24 +1205,10 @@
   },
   {
     "uid": 283200441,
-    "date": "1/20/2025",
-    "water_level": 44.6955,
-    "temperature": 23.692,
-    "conductivity": 480.4
-  },
-  {
-    "uid": 283200441,
     "date": "1/21/2025",
     "water_level": 44.695,
     "temperature": 23.692,
     "conductivity": 480.5
-  },
-  {
-    "uid": 283200441,
-    "date": "1/21/2025",
-    "water_level": 44.642,
-    "temperature": 23.691,
-    "conductivity": 479.1
   },
   {
     "uid": 283200441,
@@ -2416,24 +1219,10 @@
   },
   {
     "uid": 283200441,
-    "date": "1/22/2025",
-    "water_level": 44.5373,
-    "temperature": 23.691,
-    "conductivity": 453.8
-  },
-  {
-    "uid": 283200441,
     "date": "1/23/2025",
     "water_level": 44.5226,
     "temperature": 23.692,
     "conductivity": 444.5
-  },
-  {
-    "uid": 283200441,
-    "date": "1/23/2025",
-    "water_level": 44.5033,
-    "temperature": 23.691,
-    "conductivity": 437.8
   },
   {
     "uid": 283200441,
@@ -2444,24 +1233,10 @@
   },
   {
     "uid": 283200441,
-    "date": "1/24/2025",
-    "water_level": 44.3889,
-    "temperature": 23.692,
-    "conductivity": 429.2
-  },
-  {
-    "uid": 283200441,
     "date": "1/25/2025",
     "water_level": 44.235,
     "temperature": 23.69,
     "conductivity": 421.5
-  },
-  {
-    "uid": 283200441,
-    "date": "1/25/2025",
-    "water_level": 44.0431,
-    "temperature": 23.695,
-    "conductivity": 408.8
   },
   {
     "uid": 283200441,
@@ -2472,24 +1247,10 @@
   },
   {
     "uid": 283200441,
-    "date": "1/26/2025",
-    "water_level": 43.7051,
-    "temperature": 23.698,
-    "conductivity": 398.3
-  },
-  {
-    "uid": 283200441,
     "date": "1/27/2025",
     "water_level": 43.5314,
     "temperature": 23.7,
     "conductivity": 395.2
-  },
-  {
-    "uid": 283200441,
-    "date": "1/27/2025",
-    "water_level": 43.3582,
-    "temperature": 23.704,
-    "conductivity": 392.2
   },
   {
     "uid": 283200441,
@@ -2500,24 +1261,10 @@
   },
   {
     "uid": 283200441,
-    "date": "1/28/2025",
-    "water_level": 43.0211,
-    "temperature": 23.711,
-    "conductivity": 389.3
-  },
-  {
-    "uid": 283200441,
     "date": "1/29/2025",
     "water_level": 42.8749,
     "temperature": 23.716,
     "conductivity": 388.4
-  },
-  {
-    "uid": 283200441,
-    "date": "1/29/2025",
-    "water_level": 42.7547,
-    "temperature": 23.718,
-    "conductivity": 387.9
   },
   {
     "uid": 283200441,
@@ -2528,24 +1275,10 @@
   },
   {
     "uid": 283200441,
-    "date": "1/30/2025",
-    "water_level": 42.5207,
-    "temperature": 23.723,
-    "conductivity": 387.6
-  },
-  {
-    "uid": 283200441,
     "date": "1/31/2025",
     "water_level": 42.4099,
     "temperature": 23.726,
     "conductivity": 387.8
-  },
-  {
-    "uid": 283200441,
-    "date": "1/31/2025",
-    "water_level": 42.3426,
-    "temperature": 23.728,
-    "conductivity": 388
   },
   {
     "uid": 283200441,
@@ -2556,24 +1289,10 @@
   },
   {
     "uid": 283200441,
-    "date": "2/1/2025",
-    "water_level": 42.2255,
-    "temperature": 23.727,
-    "conductivity": 388.6
-  },
-  {
-    "uid": 283200441,
     "date": "2/2/2025",
     "water_level": 42.1564,
     "temperature": 23.728,
     "conductivity": 389.1
-  },
-  {
-    "uid": 283200441,
-    "date": "2/2/2025",
-    "water_level": 42.1133,
-    "temperature": 23.727,
-    "conductivity": 389.6
   },
   {
     "uid": 283200441,
@@ -2584,13 +1303,6 @@
   },
   {
     "uid": 283200441,
-    "date": "2/3/2025",
-    "water_level": 42.0174,
-    "temperature": 23.728,
-    "conductivity": 390.3
-  },
-  {
-    "uid": 283200441,
     "date": "2/4/2025",
     "water_level": 41.8302,
     "temperature": 23.733,
@@ -2598,24 +1310,10 @@
   },
   {
     "uid": 283200441,
-    "date": "2/4/2025",
-    "water_level": 41.5652,
-    "temperature": 23.742,
-    "conductivity": 388.8
-  },
-  {
-    "uid": 283200441,
     "date": "2/5/2025",
     "water_level": 41.2947,
     "temperature": 23.752,
     "conductivity": 387.5
-  },
-  {
-    "uid": 283200441,
-    "date": "2/5/2025",
-    "water_level": 41.0163,
-    "temperature": 23.761,
-    "conductivity": 386.4
   },
   {
     "uid": 283200441,
@@ -2633,24 +1331,10 @@
   },
   {
     "uid": 340252567,
-    "date": "12/31/2024",
-    "water_level": 6.6476,
-    "temperature": 25.64,
-    "conductivity": 307.6
-  },
-  {
-    "uid": 340252567,
     "date": "1/1/2025",
     "water_level": 6.6519,
     "temperature": 25.639,
     "conductivity": 309.8
-  },
-  {
-    "uid": 340252567,
-    "date": "1/1/2025",
-    "water_level": 6.6336,
-    "temperature": 25.637,
-    "conductivity": 306.7
   },
   {
     "uid": 340252567,
@@ -2661,23 +1345,9 @@
   },
   {
     "uid": 340252567,
-    "date": "1/2/2025",
-    "water_level": 6.6189,
-    "temperature": 25.639,
-    "conductivity": 304.7
-  },
-  {
-    "uid": 340252567,
     "date": "1/3/2025",
     "water_level": 6.6061,
     "temperature": 25.638,
-    "conductivity": 305.6
-  },
-  {
-    "uid": 340252567,
-    "date": "1/3/2025",
-    "water_level": 6.5852,
-    "temperature": 25.637,
     "conductivity": 305.6
   },
   {
@@ -2689,24 +1359,10 @@
   },
   {
     "uid": 340252567,
-    "date": "1/4/2025",
-    "water_level": 6.5713,
-    "temperature": 25.637,
-    "conductivity": 302.1
-  },
-  {
-    "uid": 340252567,
     "date": "1/5/2025",
     "water_level": 6.5689,
     "temperature": 25.638,
     "conductivity": 305.1
-  },
-  {
-    "uid": 340252567,
-    "date": "1/5/2025",
-    "water_level": 6.548,
-    "temperature": 25.638,
-    "conductivity": 302.6
   },
   {
     "uid": 340252567,
@@ -2717,24 +1373,10 @@
   },
   {
     "uid": 340252567,
-    "date": "1/6/2025",
-    "water_level": 6.5383,
-    "temperature": 25.637,
-    "conductivity": 302.9
-  },
-  {
-    "uid": 340252567,
     "date": "1/7/2025",
     "water_level": 6.5368,
     "temperature": 25.637,
     "conductivity": 303.7
-  },
-  {
-    "uid": 340252567,
-    "date": "1/7/2025",
-    "water_level": 6.521,
-    "temperature": 25.638,
-    "conductivity": 303.8
   },
   {
     "uid": 340252567,
@@ -2745,24 +1387,10 @@
   },
   {
     "uid": 340252567,
-    "date": "1/8/2025",
-    "water_level": 6.5181,
-    "temperature": 25.638,
-    "conductivity": 303.6
-  },
-  {
-    "uid": 340252567,
     "date": "1/9/2025",
     "water_level": 6.4768,
     "temperature": 25.638,
     "conductivity": 309
-  },
-  {
-    "uid": 340252567,
-    "date": "1/9/2025",
-    "water_level": 6.433,
-    "temperature": 25.638,
-    "conductivity": 305.8
   },
   {
     "uid": 340252567,
@@ -2773,24 +1401,10 @@
   },
   {
     "uid": 340252567,
-    "date": "1/10/2025",
-    "water_level": 6.3865,
-    "temperature": 25.637,
-    "conductivity": 303.1
-  },
-  {
-    "uid": 340252567,
     "date": "1/11/2025",
     "water_level": 6.3834,
     "temperature": 25.637,
     "conductivity": 303.4
-  },
-  {
-    "uid": 340252567,
-    "date": "1/11/2025",
-    "water_level": 6.3513,
-    "temperature": 25.638,
-    "conductivity": 302.5
   },
   {
     "uid": 340252567,
@@ -2801,24 +1415,10 @@
   },
   {
     "uid": 340252567,
-    "date": "1/12/2025",
-    "water_level": 6.3251,
-    "temperature": 25.635,
-    "conductivity": 302.9
-  },
-  {
-    "uid": 340252567,
     "date": "1/13/2025",
     "water_level": 6.3293,
     "temperature": 25.635,
     "conductivity": 303.6
-  },
-  {
-    "uid": 340252567,
-    "date": "1/13/2025",
-    "water_level": 6.3237,
-    "temperature": 25.635,
-    "conductivity": 303.1
   },
   {
     "uid": 340252567,
@@ -2829,24 +1429,10 @@
   },
   {
     "uid": 340252567,
-    "date": "1/14/2025",
-    "water_level": 6.3135,
-    "temperature": 25.636,
-    "conductivity": 303.6
-  },
-  {
-    "uid": 340252567,
     "date": "1/15/2025",
     "water_level": 6.3194,
     "temperature": 25.634,
     "conductivity": 305.3
-  },
-  {
-    "uid": 340252567,
-    "date": "1/15/2025",
-    "water_level": 6.3095,
-    "temperature": 25.635,
-    "conductivity": 304.9
   },
   {
     "uid": 340252567,
@@ -2857,24 +1443,10 @@
   },
   {
     "uid": 340252567,
-    "date": "1/16/2025",
-    "water_level": 6.308,
-    "temperature": 25.635,
-    "conductivity": 303.7
-  },
-  {
-    "uid": 340252567,
     "date": "1/17/2025",
     "water_level": 6.3133,
     "temperature": 25.636,
     "conductivity": 305.7
-  },
-  {
-    "uid": 340252567,
-    "date": "1/17/2025",
-    "water_level": 6.3004,
-    "temperature": 25.636,
-    "conductivity": 305.5
   },
   {
     "uid": 340252567,
@@ -2885,24 +1457,10 @@
   },
   {
     "uid": 340252567,
-    "date": "1/18/2025",
-    "water_level": 6.2851,
-    "temperature": 25.634,
-    "conductivity": 305.4
-  },
-  {
-    "uid": 340252567,
     "date": "1/19/2025",
     "water_level": 6.2891,
     "temperature": 25.634,
     "conductivity": 305.2
-  },
-  {
-    "uid": 340252567,
-    "date": "1/19/2025",
-    "water_level": 6.2795,
-    "temperature": 25.632,
-    "conductivity": 307.1
   },
   {
     "uid": 340252567,
@@ -2913,24 +1471,10 @@
   },
   {
     "uid": 340252567,
-    "date": "1/20/2025",
-    "water_level": 6.231,
-    "temperature": 25.634,
-    "conductivity": 304.6
-  },
-  {
-    "uid": 340252567,
     "date": "1/21/2025",
     "water_level": 6.1679,
     "temperature": 25.633,
     "conductivity": 303.7
-  },
-  {
-    "uid": 340252567,
-    "date": "1/21/2025",
-    "water_level": 6.0899,
-    "temperature": 25.634,
-    "conductivity": 301.2
   },
   {
     "uid": 340252567,
@@ -2941,24 +1485,10 @@
   },
   {
     "uid": 340252567,
-    "date": "1/22/2025",
-    "water_level": 6.0095,
-    "temperature": 25.631,
-    "conductivity": 297.7
-  },
-  {
-    "uid": 340252567,
     "date": "1/23/2025",
     "water_level": 5.9903,
     "temperature": 25.633,
     "conductivity": 298.3
-  },
-  {
-    "uid": 340252567,
-    "date": "1/23/2025",
-    "water_level": 5.9688,
-    "temperature": 25.631,
-    "conductivity": 297.7
   },
   {
     "uid": 340252567,
@@ -2969,24 +1499,10 @@
   },
   {
     "uid": 340252567,
-    "date": "1/24/2025",
-    "water_level": 5.9327,
-    "temperature": 25.631,
-    "conductivity": 298.2
-  },
-  {
-    "uid": 340252567,
     "date": "1/25/2025",
     "water_level": 5.9186,
     "temperature": 25.631,
     "conductivity": 299.6
-  },
-  {
-    "uid": 340252567,
-    "date": "1/25/2025",
-    "water_level": 5.9122,
-    "temperature": 25.631,
-    "conductivity": 298.2
   },
   {
     "uid": 340252567,
@@ -2997,24 +1513,10 @@
   },
   {
     "uid": 340252567,
-    "date": "1/26/2025",
-    "water_level": 5.9043,
-    "temperature": 25.631,
-    "conductivity": 298.1
-  },
-  {
-    "uid": 340252567,
     "date": "1/27/2025",
     "water_level": 5.9105,
     "temperature": 25.632,
     "conductivity": 298.8
-  },
-  {
-    "uid": 340252567,
-    "date": "1/27/2025",
-    "water_level": 5.8954,
-    "temperature": 25.63,
-    "conductivity": 299.6
   },
   {
     "uid": 340252567,
@@ -3025,24 +1527,10 @@
   },
   {
     "uid": 340252567,
-    "date": "1/28/2025",
-    "water_level": 5.8853,
-    "temperature": 25.632,
-    "conductivity": 301.1
-  },
-  {
-    "uid": 340252567,
     "date": "1/29/2025",
     "water_level": 5.8799,
     "temperature": 25.632,
     "conductivity": 302.4
-  },
-  {
-    "uid": 340252567,
-    "date": "1/29/2025",
-    "water_level": 5.8734,
-    "temperature": 25.63,
-    "conductivity": 300.5
   },
   {
     "uid": 340252567,
@@ -3053,24 +1541,10 @@
   },
   {
     "uid": 340252567,
-    "date": "1/30/2025",
-    "water_level": 5.8431,
-    "temperature": 25.631,
-    "conductivity": 300.1
-  },
-  {
-    "uid": 340252567,
     "date": "1/31/2025",
     "water_level": 5.8014,
     "temperature": 25.628,
     "conductivity": 300.3
-  },
-  {
-    "uid": 340252567,
-    "date": "1/31/2025",
-    "water_level": 5.7378,
-    "temperature": 25.629,
-    "conductivity": 299.1
   },
   {
     "uid": 340252567,
@@ -3081,13 +1555,6 @@
   },
   {
     "uid": 340252567,
-    "date": "2/1/2025",
-    "water_level": 5.6674,
-    "temperature": 25.629,
-    "conductivity": 295.6
-  },
-  {
-    "uid": 340252567,
     "date": "2/2/2025",
     "water_level": 5.6613,
     "temperature": 25.631,
@@ -3095,24 +1562,10 @@
   },
   {
     "uid": 340252567,
-    "date": "2/2/2025",
-    "water_level": 5.639,
-    "temperature": 25.63,
-    "conductivity": 295.6
-  },
-  {
-    "uid": 340252567,
     "date": "2/3/2025",
     "water_level": 5.6529,
     "temperature": 25.629,
     "conductivity": 296.5
-  },
-  {
-    "uid": 340252567,
-    "date": "2/3/2025",
-    "water_level": 5.6481,
-    "temperature": 25.631,
-    "conductivity": 297.4
   },
   {
     "uid": 340252567,
@@ -3130,24 +1583,10 @@
   },
   {
     "uid": 283200489,
-    "date": "12/31/2024",
-    "water_level": 15.248,
-    "temperature": 26.367,
-    "conductivity": 1370.5
-  },
-  {
-    "uid": 283200489,
     "date": "1/1/2025",
     "water_level": 15.2909,
     "temperature": 26.367,
     "conductivity": 1369.4
-  },
-  {
-    "uid": 283200489,
-    "date": "1/1/2025",
-    "water_level": 15.2426,
-    "temperature": 26.369,
-    "conductivity": 1369.5
   },
   {
     "uid": 283200489,
@@ -3158,24 +1597,10 @@
   },
   {
     "uid": 283200489,
-    "date": "1/2/2025",
-    "water_level": 15.253,
-    "temperature": 26.367,
-    "conductivity": 1367.9
-  },
-  {
-    "uid": 283200489,
     "date": "1/3/2025",
     "water_level": 15.2734,
     "temperature": 26.362,
     "conductivity": 1367.6
-  },
-  {
-    "uid": 283200489,
-    "date": "1/3/2025",
-    "water_level": 15.2502,
-    "temperature": 26.369,
-    "conductivity": 1368.4
   },
   {
     "uid": 283200489,
@@ -3186,24 +1611,10 @@
   },
   {
     "uid": 283200489,
-    "date": "1/4/2025",
-    "water_level": 15.2366,
-    "temperature": 26.366,
-    "conductivity": 1369.8
-  },
-  {
-    "uid": 283200489,
     "date": "1/5/2025",
     "water_level": 15.2893,
     "temperature": 26.366,
     "conductivity": 1368.6
-  },
-  {
-    "uid": 283200489,
-    "date": "1/5/2025",
-    "water_level": 15.2383,
-    "temperature": 26.367,
-    "conductivity": 1371.2
   },
   {
     "uid": 283200489,
@@ -3214,24 +1625,10 @@
   },
   {
     "uid": 283200489,
-    "date": "1/6/2025",
-    "water_level": 15.246,
-    "temperature": 26.367,
-    "conductivity": 1370
-  },
-  {
-    "uid": 283200489,
     "date": "1/7/2025",
     "water_level": 15.3059,
     "temperature": 26.365,
     "conductivity": 1370.4
-  },
-  {
-    "uid": 283200489,
-    "date": "1/7/2025",
-    "water_level": 15.2402,
-    "temperature": 26.366,
-    "conductivity": 1368.7
   },
   {
     "uid": 283200489,
@@ -3242,24 +1639,10 @@
   },
   {
     "uid": 283200489,
-    "date": "1/8/2025",
-    "water_level": 15.2505,
-    "temperature": 26.366,
-    "conductivity": 1366.6
-  },
-  {
-    "uid": 283200489,
     "date": "1/9/2025",
     "water_level": 15.3049,
     "temperature": 26.363,
     "conductivity": 1366.7
-  },
-  {
-    "uid": 283200489,
-    "date": "1/9/2025",
-    "water_level": 15.2438,
-    "temperature": 26.364,
-    "conductivity": 1365.9
   },
   {
     "uid": 283200489,
@@ -3270,24 +1653,10 @@
   },
   {
     "uid": 283200489,
-    "date": "1/10/2025",
-    "water_level": 15.2463,
-    "temperature": 26.367,
-    "conductivity": 1366.2
-  },
-  {
-    "uid": 283200489,
     "date": "1/11/2025",
     "water_level": 15.2608,
     "temperature": 26.368,
     "conductivity": 1366.9
-  },
-  {
-    "uid": 283200489,
-    "date": "1/11/2025",
-    "water_level": 15.2538,
-    "temperature": 26.362,
-    "conductivity": 1363.9
   },
   {
     "uid": 283200489,
@@ -3298,24 +1667,10 @@
   },
   {
     "uid": 283200489,
-    "date": "1/12/2025",
-    "water_level": 15.2266,
-    "temperature": 26.367,
-    "conductivity": 1364.5
-  },
-  {
-    "uid": 283200489,
     "date": "1/13/2025",
     "water_level": 15.2642,
     "temperature": 26.364,
     "conductivity": 1364
-  },
-  {
-    "uid": 283200489,
-    "date": "1/13/2025",
-    "water_level": 15.2386,
-    "temperature": 26.367,
-    "conductivity": 1363.4
   },
   {
     "uid": 283200489,
@@ -3326,24 +1681,10 @@
   },
   {
     "uid": 283200489,
-    "date": "1/14/2025",
-    "water_level": 15.2494,
-    "temperature": 26.365,
-    "conductivity": 1359.5
-  },
-  {
-    "uid": 283200489,
     "date": "1/15/2025",
     "water_level": 15.2493,
     "temperature": 26.364,
     "conductivity": 1358.2
-  },
-  {
-    "uid": 283200489,
-    "date": "1/15/2025",
-    "water_level": 15.2341,
-    "temperature": 26.361,
-    "conductivity": 1358.9
   },
   {
     "uid": 283200489,
@@ -3354,24 +1695,10 @@
   },
   {
     "uid": 283200489,
-    "date": "1/16/2025",
-    "water_level": 15.2362,
-    "temperature": 26.363,
-    "conductivity": 1360.5
-  },
-  {
-    "uid": 283200489,
     "date": "1/17/2025",
     "water_level": 15.2423,
     "temperature": 26.362,
     "conductivity": 1361.1
-  },
-  {
-    "uid": 283200489,
-    "date": "1/17/2025",
-    "water_level": 15.2342,
-    "temperature": 26.361,
-    "conductivity": 1360
   },
   {
     "uid": 283200489,
@@ -3382,13 +1709,6 @@
   },
   {
     "uid": 283200489,
-    "date": "1/18/2025",
-    "water_level": 15.2112,
-    "temperature": 26.364,
-    "conductivity": 1362.6
-  },
-  {
-    "uid": 283200489,
     "date": "1/19/2025",
     "water_level": 15.2407,
     "temperature": 26.365,
@@ -3396,22 +1716,8 @@
   },
   {
     "uid": 283200489,
-    "date": "1/19/2025",
-    "water_level": 15.2234,
-    "temperature": 26.362,
-    "conductivity": 1364
-  },
-  {
-    "uid": 283200489,
     "date": "1/20/2025",
     "water_level": 15.2104,
-    "temperature": 26.365,
-    "conductivity": 1365.8
-  },
-  {
-    "uid": 283200489,
-    "date": "1/20/2025",
-    "water_level": 15.2133,
     "temperature": 26.365,
     "conductivity": 1365.8
   },
@@ -3424,24 +1730,10 @@
   },
   {
     "uid": 283200489,
-    "date": "1/21/2025",
-    "water_level": 15.2184,
-    "temperature": 26.365,
-    "conductivity": 1364.8
-  },
-  {
-    "uid": 283200489,
     "date": "1/22/2025",
     "water_level": 15.2319,
     "temperature": 26.363,
     "conductivity": 1366.4
-  },
-  {
-    "uid": 283200489,
-    "date": "1/22/2025",
-    "water_level": 15.2026,
-    "temperature": 26.364,
-    "conductivity": 1364.7
   },
   {
     "uid": 283200489,
@@ -3452,24 +1744,10 @@
   },
   {
     "uid": 283200489,
-    "date": "1/23/2025",
-    "water_level": 15.1941,
-    "temperature": 26.365,
-    "conductivity": 1365.5
-  },
-  {
-    "uid": 283200489,
     "date": "1/24/2025",
     "water_level": 15.1974,
     "temperature": 26.366,
     "conductivity": 1364
-  },
-  {
-    "uid": 283200489,
-    "date": "1/24/2025",
-    "water_level": 15.1959,
-    "temperature": 26.364,
-    "conductivity": 1362.2
   },
   {
     "uid": 283200489,
@@ -3480,24 +1758,10 @@
   },
   {
     "uid": 283200489,
-    "date": "1/25/2025",
-    "water_level": 15.1856,
-    "temperature": 26.367,
-    "conductivity": 1363.6
-  },
-  {
-    "uid": 283200489,
     "date": "1/26/2025",
     "water_level": 15.1899,
     "temperature": 26.363,
     "conductivity": 1363.3
-  },
-  {
-    "uid": 283200489,
-    "date": "1/26/2025",
-    "water_level": 15.1844,
-    "temperature": 26.361,
-    "conductivity": 1364.1
   },
   {
     "uid": 283200489,
@@ -3508,24 +1772,10 @@
   },
   {
     "uid": 283200489,
-    "date": "1/27/2025",
-    "water_level": 15.1713,
-    "temperature": 26.364,
-    "conductivity": 1363.3
-  },
-  {
-    "uid": 283200489,
     "date": "1/28/2025",
     "water_level": 15.1776,
     "temperature": 26.364,
     "conductivity": 1363.4
-  },
-  {
-    "uid": 283200489,
-    "date": "1/28/2025",
-    "water_level": 15.1794,
-    "temperature": 26.363,
-    "conductivity": 1364.9
   },
   {
     "uid": 283200489,
@@ -3536,24 +1786,10 @@
   },
   {
     "uid": 283200489,
-    "date": "1/29/2025",
-    "water_level": 15.189,
-    "temperature": 26.362,
-    "conductivity": 1365.5
-  },
-  {
-    "uid": 283200489,
     "date": "1/30/2025",
     "water_level": 15.1874,
     "temperature": 26.362,
     "conductivity": 1364.9
-  },
-  {
-    "uid": 283200489,
-    "date": "1/30/2025",
-    "water_level": 15.1785,
-    "temperature": 26.362,
-    "conductivity": 1364.6
   },
   {
     "uid": 283200489,
@@ -3564,24 +1800,10 @@
   },
   {
     "uid": 283200489,
-    "date": "1/31/2025",
-    "water_level": 15.1738,
-    "temperature": 26.362,
-    "conductivity": 1365.5
-  },
-  {
-    "uid": 283200489,
     "date": "2/1/2025",
     "water_level": 15.1631,
     "temperature": 26.362,
     "conductivity": 1365.3
-  },
-  {
-    "uid": 283200489,
-    "date": "2/1/2025",
-    "water_level": 15.1647,
-    "temperature": 26.361,
-    "conductivity": 1364.7
   },
   {
     "uid": 283200489,
@@ -3592,13 +1814,6 @@
   },
   {
     "uid": 283200489,
-    "date": "2/2/2025",
-    "water_level": 15.1572,
-    "temperature": 26.362,
-    "conductivity": 1366.5
-  },
-  {
-    "uid": 283200489,
     "date": "2/3/2025",
     "water_level": 15.1794,
     "temperature": 26.363,
@@ -3606,24 +1821,10 @@
   },
   {
     "uid": 283200489,
-    "date": "2/3/2025",
-    "water_level": 15.1757,
-    "temperature": 26.366,
-    "conductivity": 1363.7
-  },
-  {
-    "uid": 283200489,
     "date": "2/4/2025",
     "water_level": 15.1763,
     "temperature": 26.363,
     "conductivity": 1364.6
-  },
-  {
-    "uid": 283200489,
-    "date": "2/4/2025",
-    "water_level": 15.1644,
-    "temperature": 26.364,
-    "conductivity": 1364.7
   },
   {
     "uid": 936471958,
@@ -3634,13 +1835,6 @@
   },
   {
     "uid": 936471958,
-    "date": "12/31/2024",
-    "water_level": 7.3054,
-    "temperature": 26.935,
-    "conductivity": 759.7
-  },
-  {
-    "uid": 936471958,
     "date": "1/1/2025",
     "water_level": 7.3657,
     "temperature": 26.934,
@@ -3648,23 +1842,9 @@
   },
   {
     "uid": 936471958,
-    "date": "1/1/2025",
-    "water_level": 7.3045,
-    "temperature": 26.934,
-    "conductivity": 759.7
-  },
-  {
-    "uid": 936471958,
     "date": "1/2/2025",
     "water_level": 7.3516,
     "temperature": 26.935,
-    "conductivity": 760.1
-  },
-  {
-    "uid": 936471958,
-    "date": "1/2/2025",
-    "water_level": 7.2951,
-    "temperature": 26.932,
     "conductivity": 760.1
   },
   {
@@ -3676,24 +1856,10 @@
   },
   {
     "uid": 936471958,
-    "date": "1/3/2025",
-    "water_level": 7.2949,
-    "temperature": 26.935,
-    "conductivity": 760.1
-  },
-  {
-    "uid": 936471958,
     "date": "1/4/2025",
     "water_level": 7.3307,
     "temperature": 26.931,
     "conductivity": 760.3
-  },
-  {
-    "uid": 936471958,
-    "date": "1/4/2025",
-    "water_level": 7.2963,
-    "temperature": 26.935,
-    "conductivity": 760.2
   },
   {
     "uid": 936471958,
@@ -3704,13 +1870,6 @@
   },
   {
     "uid": 936471958,
-    "date": "1/5/2025",
-    "water_level": 7.3052,
-    "temperature": 26.934,
-    "conductivity": 760.1
-  },
-  {
-    "uid": 936471958,
     "date": "1/6/2025",
     "water_level": 7.329,
     "temperature": 26.935,
@@ -3718,24 +1877,10 @@
   },
   {
     "uid": 936471958,
-    "date": "1/6/2025",
-    "water_level": 7.3127,
-    "temperature": 26.932,
-    "conductivity": 760.4
-  },
-  {
-    "uid": 936471958,
     "date": "1/7/2025",
     "water_level": 7.3389,
     "temperature": 26.932,
     "conductivity": 760.4
-  },
-  {
-    "uid": 936471958,
-    "date": "1/7/2025",
-    "water_level": 7.3279,
-    "temperature": 26.934,
-    "conductivity": 760.3
   },
   {
     "uid": 936471958,
@@ -3746,23 +1891,9 @@
   },
   {
     "uid": 936471958,
-    "date": "1/8/2025",
-    "water_level": 7.3432,
-    "temperature": 26.932,
-    "conductivity": 760.4
-  },
-  {
-    "uid": 936471958,
     "date": "1/9/2025",
     "water_level": 7.3389,
     "temperature": 26.932,
-    "conductivity": 760.8
-  },
-  {
-    "uid": 936471958,
-    "date": "1/9/2025",
-    "water_level": 7.3216,
-    "temperature": 26.931,
     "conductivity": 760.8
   },
   {
@@ -3774,24 +1905,10 @@
   },
   {
     "uid": 936471958,
-    "date": "1/10/2025",
-    "water_level": 7.3173,
-    "temperature": 26.931,
-    "conductivity": 760.7
-  },
-  {
-    "uid": 936471958,
     "date": "1/11/2025",
     "water_level": 7.3534,
     "temperature": 26.93,
     "conductivity": 760.7
-  },
-  {
-    "uid": 936471958,
-    "date": "1/11/2025",
-    "water_level": 7.3062,
-    "temperature": 26.929,
-    "conductivity": 760.5
   },
   {
     "uid": 936471958,
@@ -3802,24 +1919,10 @@
   },
   {
     "uid": 936471958,
-    "date": "1/12/2025",
-    "water_level": 7.2946,
-    "temperature": 26.93,
-    "conductivity": 760.9
-  },
-  {
-    "uid": 936471958,
     "date": "1/13/2025",
     "water_level": 7.3177,
     "temperature": 26.932,
     "conductivity": 760.6
-  },
-  {
-    "uid": 936471958,
-    "date": "1/13/2025",
-    "water_level": 7.2941,
-    "temperature": 26.929,
-    "conductivity": 760.7
   },
   {
     "uid": 936471958,
@@ -3830,13 +1933,6 @@
   },
   {
     "uid": 936471958,
-    "date": "1/14/2025",
-    "water_level": 7.2856,
-    "temperature": 26.931,
-    "conductivity": 760.5
-  },
-  {
-    "uid": 936471958,
     "date": "1/15/2025",
     "water_level": 7.3182,
     "temperature": 26.932,
@@ -3844,23 +1940,9 @@
   },
   {
     "uid": 936471958,
-    "date": "1/15/2025",
-    "water_level": 7.2784,
-    "temperature": 26.931,
-    "conductivity": 760.5
-  },
-  {
-    "uid": 936471958,
     "date": "1/16/2025",
     "water_level": 7.3042,
     "temperature": 26.933,
-    "conductivity": 760.4
-  },
-  {
-    "uid": 936471958,
-    "date": "1/16/2025",
-    "water_level": 7.2781,
-    "temperature": 26.932,
     "conductivity": 760.4
   },
   {
@@ -3872,24 +1954,10 @@
   },
   {
     "uid": 936471958,
-    "date": "1/17/2025",
-    "water_level": 7.2759,
-    "temperature": 26.929,
-    "conductivity": 760.6
-  },
-  {
-    "uid": 936471958,
     "date": "1/18/2025",
     "water_level": 7.3085,
     "temperature": 26.929,
     "conductivity": 760.8
-  },
-  {
-    "uid": 936471958,
-    "date": "1/18/2025",
-    "water_level": 7.2696,
-    "temperature": 26.929,
-    "conductivity": 760.7
   },
   {
     "uid": 936471958,
@@ -3900,24 +1968,10 @@
   },
   {
     "uid": 936471958,
-    "date": "1/19/2025",
-    "water_level": 7.2595,
-    "temperature": 26.93,
-    "conductivity": 760.7
-  },
-  {
-    "uid": 936471958,
     "date": "1/20/2025",
     "water_level": 7.2704,
     "temperature": 26.929,
     "conductivity": 760.4
-  },
-  {
-    "uid": 936471958,
-    "date": "1/20/2025",
-    "water_level": 7.2664,
-    "temperature": 26.93,
-    "conductivity": 760.6
   },
   {
     "uid": 936471958,
@@ -3928,23 +1982,9 @@
   },
   {
     "uid": 936471958,
-    "date": "1/21/2025",
-    "water_level": 7.244,
-    "temperature": 26.929,
-    "conductivity": 760.6
-  },
-  {
-    "uid": 936471958,
     "date": "1/22/2025",
     "water_level": 7.2436,
     "temperature": 26.929,
-    "conductivity": 760.7
-  },
-  {
-    "uid": 936471958,
-    "date": "1/22/2025",
-    "water_level": 7.2232,
-    "temperature": 26.931,
     "conductivity": 760.7
   },
   {
@@ -3956,13 +1996,6 @@
   },
   {
     "uid": 936471958,
-    "date": "1/23/2025",
-    "water_level": 7.201,
-    "temperature": 26.928,
-    "conductivity": 760.8
-  },
-  {
-    "uid": 936471958,
     "date": "1/24/2025",
     "water_level": 7.1951,
     "temperature": 26.928,
@@ -3970,23 +2003,9 @@
   },
   {
     "uid": 936471958,
-    "date": "1/24/2025",
-    "water_level": 7.1701,
-    "temperature": 26.929,
-    "conductivity": 760.6
-  },
-  {
-    "uid": 936471958,
     "date": "1/25/2025",
     "water_level": 7.184,
     "temperature": 26.929,
-    "conductivity": 760.9
-  },
-  {
-    "uid": 936471958,
-    "date": "1/25/2025",
-    "water_level": 7.1413,
-    "temperature": 26.93,
     "conductivity": 760.9
   },
   {
@@ -3998,23 +2017,9 @@
   },
   {
     "uid": 936471958,
-    "date": "1/26/2025",
-    "water_level": 7.1207,
-    "temperature": 26.928,
-    "conductivity": 760.8
-  },
-  {
-    "uid": 936471958,
     "date": "1/27/2025",
     "water_level": 7.1385,
     "temperature": 26.926,
-    "conductivity": 760.8
-  },
-  {
-    "uid": 936471958,
-    "date": "1/27/2025",
-    "water_level": 7.0937,
-    "temperature": 26.928,
     "conductivity": 760.8
   },
   {
@@ -4026,23 +2031,9 @@
   },
   {
     "uid": 936471958,
-    "date": "1/28/2025",
-    "water_level": 7.0801,
-    "temperature": 26.928,
-    "conductivity": 760.9
-  },
-  {
-    "uid": 936471958,
     "date": "1/29/2025",
     "water_level": 7.0955,
     "temperature": 26.926,
-    "conductivity": 760.8
-  },
-  {
-    "uid": 936471958,
-    "date": "1/29/2025",
-    "water_level": 7.0614,
-    "temperature": 26.927,
     "conductivity": 760.8
   },
   {
@@ -4054,24 +2045,10 @@
   },
   {
     "uid": 936471958,
-    "date": "1/30/2025",
-    "water_level": 7.035,
-    "temperature": 26.93,
-    "conductivity": 760.6
-  },
-  {
-    "uid": 936471958,
     "date": "1/31/2025",
     "water_level": 7.0427,
     "temperature": 26.929,
     "conductivity": 760.8
-  },
-  {
-    "uid": 936471958,
-    "date": "1/31/2025",
-    "water_level": 6.9978,
-    "temperature": 26.928,
-    "conductivity": 760.7
   },
   {
     "uid": 936471958,
@@ -4082,13 +2059,6 @@
   },
   {
     "uid": 936471958,
-    "date": "2/1/2025",
-    "water_level": 6.9743,
-    "temperature": 26.928,
-    "conductivity": 760.7
-  },
-  {
-    "uid": 936471958,
     "date": "2/2/2025",
     "water_level": 6.9936,
     "temperature": 26.928,
@@ -4096,23 +2066,9 @@
   },
   {
     "uid": 936471958,
-    "date": "2/2/2025",
-    "water_level": 6.9528,
-    "temperature": 26.928,
-    "conductivity": 760.8
-  },
-  {
-    "uid": 936471958,
     "date": "2/3/2025",
     "water_level": 6.9481,
     "temperature": 26.929,
-    "conductivity": 760.7
-  },
-  {
-    "uid": 936471958,
-    "date": "2/3/2025",
-    "water_level": 6.9403,
-    "temperature": 26.927,
     "conductivity": 760.7
   },
   {
@@ -4124,24 +2080,10 @@
   },
   {
     "uid": 936471958,
-    "date": "2/4/2025",
-    "water_level": 6.9204,
-    "temperature": 26.926,
-    "conductivity": 760.7
-  },
-  {
-    "uid": 936471958,
     "date": "2/5/2025",
     "water_level": 6.931,
     "temperature": 26.929,
     "conductivity": 760.5
-  },
-  {
-    "uid": 936471958,
-    "date": "2/5/2025",
-    "water_level": 6.9124,
-    "temperature": 26.93,
-    "conductivity": 760.6
   },
   {
     "uid": 936471958,
@@ -4159,24 +2101,10 @@
   },
   {
     "uid": 283200458,
-    "date": "12/31/2024",
-    "water_level": 6.2698,
-    "temperature": 24.936,
-    "conductivity": 329.3
-  },
-  {
-    "uid": 283200458,
     "date": "1/1/2025",
     "water_level": 6.2867,
     "temperature": 24.933,
     "conductivity": 329.4
-  },
-  {
-    "uid": 283200458,
-    "date": "1/1/2025",
-    "water_level": 6.2805,
-    "temperature": 24.936,
-    "conductivity": 329.2
   },
   {
     "uid": 283200458,
@@ -4187,24 +2115,10 @@
   },
   {
     "uid": 283200458,
-    "date": "1/2/2025",
-    "water_level": 6.2933,
-    "temperature": 24.936,
-    "conductivity": 329.1
-  },
-  {
-    "uid": 283200458,
     "date": "1/3/2025",
     "water_level": 6.3121,
     "temperature": 24.937,
     "conductivity": 329.2
-  },
-  {
-    "uid": 283200458,
-    "date": "1/3/2025",
-    "water_level": 6.2937,
-    "temperature": 24.936,
-    "conductivity": 329.4
   },
   {
     "uid": 283200458,
@@ -4215,24 +2129,10 @@
   },
   {
     "uid": 283200458,
-    "date": "1/4/2025",
-    "water_level": 6.2639,
-    "temperature": 24.935,
-    "conductivity": 329.1
-  },
-  {
-    "uid": 283200458,
     "date": "1/5/2025",
     "water_level": 6.2829,
     "temperature": 24.936,
     "conductivity": 329.4
-  },
-  {
-    "uid": 283200458,
-    "date": "1/5/2025",
-    "water_level": 6.275,
-    "temperature": 24.934,
-    "conductivity": 329.3
   },
   {
     "uid": 283200458,
@@ -4243,24 +2143,10 @@
   },
   {
     "uid": 283200458,
-    "date": "1/6/2025",
-    "water_level": 6.2932,
-    "temperature": 24.932,
-    "conductivity": 329.2
-  },
-  {
-    "uid": 283200458,
     "date": "1/7/2025",
     "water_level": 6.3094,
     "temperature": 24.935,
     "conductivity": 329.2
-  },
-  {
-    "uid": 283200458,
-    "date": "1/7/2025",
-    "water_level": 6.3013,
-    "temperature": 24.934,
-    "conductivity": 329.3
   },
   {
     "uid": 283200458,
@@ -4271,24 +2157,10 @@
   },
   {
     "uid": 283200458,
-    "date": "1/8/2025",
-    "water_level": 6.3051,
-    "temperature": 24.934,
-    "conductivity": 329.9
-  },
-  {
-    "uid": 283200458,
     "date": "1/9/2025",
     "water_level": 6.2863,
     "temperature": 24.934,
     "conductivity": 330.4
-  },
-  {
-    "uid": 283200458,
-    "date": "1/9/2025",
-    "water_level": 6.2897,
-    "temperature": 24.932,
-    "conductivity": 330.3
   },
   {
     "uid": 283200458,
@@ -4299,13 +2171,6 @@
   },
   {
     "uid": 283200458,
-    "date": "1/10/2025",
-    "water_level": 6.2901,
-    "temperature": 24.933,
-    "conductivity": 330.4
-  },
-  {
-    "uid": 283200458,
     "date": "1/11/2025",
     "water_level": 6.2963,
     "temperature": 24.93,
@@ -4313,23 +2178,9 @@
   },
   {
     "uid": 283200458,
-    "date": "1/11/2025",
-    "water_level": 6.3003,
-    "temperature": 24.931,
-    "conductivity": 330.4
-  },
-  {
-    "uid": 283200458,
     "date": "1/12/2025",
     "water_level": 6.3151,
     "temperature": 24.93,
-    "conductivity": 330.5
-  },
-  {
-    "uid": 283200458,
-    "date": "1/12/2025",
-    "water_level": 6.3106,
-    "temperature": 24.933,
     "conductivity": 330.5
   },
   {
@@ -4341,22 +2192,8 @@
   },
   {
     "uid": 283200458,
-    "date": "1/13/2025",
-    "water_level": 6.3263,
-    "temperature": 24.933,
-    "conductivity": 330.6
-  },
-  {
-    "uid": 283200458,
     "date": "1/14/2025",
     "water_level": 6.3311,
-    "temperature": 24.931,
-    "conductivity": 330.5
-  },
-  {
-    "uid": 283200458,
-    "date": "1/14/2025",
-    "water_level": 6.3308,
     "temperature": 24.931,
     "conductivity": 330.5
   },
@@ -4369,24 +2206,10 @@
   },
   {
     "uid": 283200458,
-    "date": "1/15/2025",
-    "water_level": 6.339,
-    "temperature": 24.932,
-    "conductivity": 330.5
-  },
-  {
-    "uid": 283200458,
     "date": "1/16/2025",
     "water_level": 6.351,
     "temperature": 24.933,
     "conductivity": 330.6
-  },
-  {
-    "uid": 283200458,
-    "date": "1/16/2025",
-    "water_level": 6.3402,
-    "temperature": 24.931,
-    "conductivity": 330.4
   },
   {
     "uid": 283200458,
@@ -4397,13 +2220,6 @@
   },
   {
     "uid": 283200458,
-    "date": "1/17/2025",
-    "water_level": 6.3392,
-    "temperature": 24.931,
-    "conductivity": 330.3
-  },
-  {
-    "uid": 283200458,
     "date": "1/18/2025",
     "water_level": 6.3571,
     "temperature": 24.931,
@@ -4411,23 +2227,9 @@
   },
   {
     "uid": 283200458,
-    "date": "1/18/2025",
-    "water_level": 6.344,
-    "temperature": 24.929,
-    "conductivity": 330.2
-  },
-  {
-    "uid": 283200458,
     "date": "1/19/2025",
     "water_level": 6.3592,
     "temperature": 24.93,
-    "conductivity": 330.3
-  },
-  {
-    "uid": 283200458,
-    "date": "1/19/2025",
-    "water_level": 6.3521,
-    "temperature": 24.928,
     "conductivity": 330.3
   },
   {
@@ -4439,22 +2241,8 @@
   },
   {
     "uid": 283200458,
-    "date": "1/20/2025",
-    "water_level": 6.0333,
-    "temperature": 24.922,
-    "conductivity": 334.4
-  },
-  {
-    "uid": 283200458,
     "date": "1/21/2025",
     "water_level": 5.7855,
-    "temperature": 24.925,
-    "conductivity": 333.4
-  },
-  {
-    "uid": 283200458,
-    "date": "1/21/2025",
-    "water_level": 5.6306,
     "temperature": 24.925,
     "conductivity": 333.4
   },
@@ -4467,22 +2255,8 @@
   },
   {
     "uid": 283200458,
-    "date": "1/22/2025",
-    "water_level": 5.6237,
-    "temperature": 24.925,
-    "conductivity": 329.8
-  },
-  {
-    "uid": 283200458,
     "date": "1/23/2025",
     "water_level": 5.5816,
-    "temperature": 24.924,
-    "conductivity": 329.9
-  },
-  {
-    "uid": 283200458,
-    "date": "1/23/2025",
-    "water_level": 5.5626,
     "temperature": 24.924,
     "conductivity": 329.9
   },
@@ -4495,24 +2269,10 @@
   },
   {
     "uid": 283200458,
-    "date": "1/24/2025",
-    "water_level": 5.3646,
-    "temperature": 24.92,
-    "conductivity": 330
-  },
-  {
-    "uid": 283200458,
     "date": "1/25/2025",
     "water_level": 5.3497,
     "temperature": 24.921,
     "conductivity": 329.9
-  },
-  {
-    "uid": 283200458,
-    "date": "1/25/2025",
-    "water_level": 5.2442,
-    "temperature": 24.917,
-    "conductivity": 330.2
   },
   {
     "uid": 283200458,
@@ -4523,24 +2283,10 @@
   },
   {
     "uid": 283200458,
-    "date": "1/26/2025",
-    "water_level": 5.1367,
-    "temperature": 24.918,
-    "conductivity": 330.3
-  },
-  {
-    "uid": 283200458,
     "date": "1/27/2025",
     "water_level": 5.1749,
     "temperature": 24.922,
     "conductivity": 330.6
-  },
-  {
-    "uid": 283200458,
-    "date": "1/27/2025",
-    "water_level": 5.1836,
-    "temperature": 24.919,
-    "conductivity": 330.5
   },
   {
     "uid": 283200458,
@@ -4551,23 +2297,9 @@
   },
   {
     "uid": 283200458,
-    "date": "1/28/2025",
-    "water_level": 5.237,
-    "temperature": 24.923,
-    "conductivity": 330.6
-  },
-  {
-    "uid": 283200458,
     "date": "1/29/2025",
     "water_level": 5.2212,
     "temperature": 24.924,
-    "conductivity": 330.4
-  },
-  {
-    "uid": 283200458,
-    "date": "1/29/2025",
-    "water_level": 5.1636,
-    "temperature": 24.922,
     "conductivity": 330.4
   },
   {
@@ -4579,13 +2311,6 @@
   },
   {
     "uid": 283200458,
-    "date": "1/30/2025",
-    "water_level": 5.1766,
-    "temperature": 24.924,
-    "conductivity": 330.5
-  },
-  {
-    "uid": 283200458,
     "date": "1/31/2025",
     "water_level": 5.2091,
     "temperature": 24.923,
@@ -4593,23 +2318,9 @@
   },
   {
     "uid": 283200458,
-    "date": "1/31/2025",
-    "water_level": 5.2162,
-    "temperature": 24.923,
-    "conductivity": 330.7
-  },
-  {
-    "uid": 283200458,
     "date": "2/1/2025",
     "water_level": 5.2511,
     "temperature": 24.923,
-    "conductivity": 330.5
-  },
-  {
-    "uid": 283200458,
-    "date": "2/1/2025",
-    "water_level": 5.2574,
-    "temperature": 24.924,
     "conductivity": 330.5
   },
   {
@@ -4621,23 +2332,9 @@
   },
   {
     "uid": 283200458,
-    "date": "2/2/2025",
-    "water_level": 5.2925,
-    "temperature": 24.924,
-    "conductivity": 330.3
-  },
-  {
-    "uid": 283200458,
     "date": "2/3/2025",
     "water_level": 5.3316,
     "temperature": 24.923,
-    "conductivity": 330.1
-  },
-  {
-    "uid": 283200458,
-    "date": "2/3/2025",
-    "water_level": 5.3375,
-    "temperature": 24.926,
     "conductivity": 330.1
   },
   {
@@ -4646,13 +2343,6 @@
     "water_level": 5.3457,
     "temperature": 24.925,
     "conductivity": 330
-  },
-  {
-    "uid": 283200458,
-    "date": "2/4/2025",
-    "water_level": 5.2787,
-    "temperature": 24.924,
-    "conductivity": 330.1
   },
   {
     "uid": 283200458,
@@ -4670,24 +2360,10 @@
   },
   {
     "uid": 340252495,
-    "date": "12/31/2024",
-    "water_level": 11.4056,
-    "temperature": 28.261,
-    "conductivity": 916.2
-  },
-  {
-    "uid": 340252495,
     "date": "1/1/2025",
     "water_level": 11.4836,
     "temperature": 28.263,
     "conductivity": 918.8
-  },
-  {
-    "uid": 340252495,
-    "date": "1/1/2025",
-    "water_level": 11.3983,
-    "temperature": 28.258,
-    "conductivity": 917.9
   },
   {
     "uid": 340252495,
@@ -4698,24 +2374,10 @@
   },
   {
     "uid": 340252495,
-    "date": "1/2/2025",
-    "water_level": 11.2688,
-    "temperature": 28.259,
-    "conductivity": 917.8
-  },
-  {
-    "uid": 340252495,
     "date": "1/3/2025",
     "water_level": 11.4165,
     "temperature": 28.263,
     "conductivity": 918.1
-  },
-  {
-    "uid": 340252495,
-    "date": "1/3/2025",
-    "water_level": 11.2208,
-    "temperature": 28.259,
-    "conductivity": 918.2
   },
   {
     "uid": 340252495,
@@ -4726,24 +2388,10 @@
   },
   {
     "uid": 340252495,
-    "date": "1/4/2025",
-    "water_level": 11.1037,
-    "temperature": 28.259,
-    "conductivity": 916.9
-  },
-  {
-    "uid": 340252495,
     "date": "1/5/2025",
     "water_level": 11.3247,
     "temperature": 28.261,
     "conductivity": 918
-  },
-  {
-    "uid": 340252495,
-    "date": "1/5/2025",
-    "water_level": 11.1022,
-    "temperature": 28.259,
-    "conductivity": 916.9
   },
   {
     "uid": 340252495,
@@ -4754,24 +2402,10 @@
   },
   {
     "uid": 340252495,
-    "date": "1/6/2025",
-    "water_level": 10.9828,
-    "temperature": 28.257,
-    "conductivity": 917.6
-  },
-  {
-    "uid": 340252495,
     "date": "1/7/2025",
     "water_level": 11.1774,
     "temperature": 28.26,
     "conductivity": 917.1
-  },
-  {
-    "uid": 340252495,
-    "date": "1/7/2025",
-    "water_level": 10.9808,
-    "temperature": 28.256,
-    "conductivity": 917.5
   },
   {
     "uid": 340252495,
@@ -4782,24 +2416,10 @@
   },
   {
     "uid": 340252495,
-    "date": "1/8/2025",
-    "water_level": 10.9939,
-    "temperature": 28.259,
-    "conductivity": 918.4
-  },
-  {
-    "uid": 340252495,
     "date": "1/9/2025",
     "water_level": 11.1319,
     "temperature": 28.26,
     "conductivity": 917.5
-  },
-  {
-    "uid": 340252495,
-    "date": "1/9/2025",
-    "water_level": 10.929,
-    "temperature": 28.258,
-    "conductivity": 918.1
   },
   {
     "uid": 340252495,
@@ -4810,24 +2430,10 @@
   },
   {
     "uid": 340252495,
-    "date": "1/10/2025",
-    "water_level": 10.8815,
-    "temperature": 28.258,
-    "conductivity": 917.5
-  },
-  {
-    "uid": 340252495,
     "date": "1/11/2025",
     "water_level": 10.9979,
     "temperature": 28.26,
     "conductivity": 917.5
-  },
-  {
-    "uid": 340252495,
-    "date": "1/11/2025",
-    "water_level": 10.793,
-    "temperature": 28.256,
-    "conductivity": 916.3
   },
   {
     "uid": 340252495,
@@ -4838,24 +2444,10 @@
   },
   {
     "uid": 340252495,
-    "date": "1/12/2025",
-    "water_level": 10.7581,
-    "temperature": 28.254,
-    "conductivity": 916.7
-  },
-  {
-    "uid": 340252495,
     "date": "1/13/2025",
     "water_level": 10.8963,
     "temperature": 28.259,
     "conductivity": 916.9
-  },
-  {
-    "uid": 340252495,
-    "date": "1/13/2025",
-    "water_level": 10.7331,
-    "temperature": 28.255,
-    "conductivity": 915.7
   },
   {
     "uid": 340252495,
@@ -4866,24 +2458,10 @@
   },
   {
     "uid": 340252495,
-    "date": "1/14/2025",
-    "water_level": 10.7297,
-    "temperature": 28.257,
-    "conductivity": 917.1
-  },
-  {
-    "uid": 340252495,
     "date": "1/15/2025",
     "water_level": 10.8706,
     "temperature": 28.258,
     "conductivity": 918.1
-  },
-  {
-    "uid": 340252495,
-    "date": "1/15/2025",
-    "water_level": 10.6489,
-    "temperature": 28.255,
-    "conductivity": 916.9
   },
   {
     "uid": 340252495,
@@ -4894,24 +2472,10 @@
   },
   {
     "uid": 340252495,
-    "date": "1/16/2025",
-    "water_level": 10.635,
-    "temperature": 28.255,
-    "conductivity": 917.1
-  },
-  {
-    "uid": 340252495,
     "date": "1/17/2025",
     "water_level": 10.7352,
     "temperature": 28.257,
     "conductivity": 917.3
-  },
-  {
-    "uid": 340252495,
-    "date": "1/17/2025",
-    "water_level": 10.6365,
-    "temperature": 28.253,
-    "conductivity": 915
   },
   {
     "uid": 340252495,
@@ -4922,24 +2486,10 @@
   },
   {
     "uid": 340252495,
-    "date": "1/18/2025",
-    "water_level": 10.5106,
-    "temperature": 28.254,
-    "conductivity": 915.8
-  },
-  {
-    "uid": 340252495,
     "date": "1/19/2025",
     "water_level": 10.7071,
     "temperature": 28.258,
     "conductivity": 916.5
-  },
-  {
-    "uid": 340252495,
-    "date": "1/19/2025",
-    "water_level": 10.4953,
-    "temperature": 28.256,
-    "conductivity": 916.6
   },
   {
     "uid": 340252495,
@@ -4950,24 +2500,10 @@
   },
   {
     "uid": 340252495,
-    "date": "1/20/2025",
-    "water_level": 10.4687,
-    "temperature": 28.256,
-    "conductivity": 916.6
-  },
-  {
-    "uid": 340252495,
     "date": "1/21/2025",
     "water_level": 10.4155,
     "temperature": 28.257,
     "conductivity": 917.1
-  },
-  {
-    "uid": 340252495,
-    "date": "1/21/2025",
-    "water_level": 10.4306,
-    "temperature": 28.253,
-    "conductivity": 916.3
   },
   {
     "uid": 340252495,
@@ -4978,24 +2514,10 @@
   },
   {
     "uid": 340252495,
-    "date": "1/22/2025",
-    "water_level": 10.4021,
-    "temperature": 28.254,
-    "conductivity": 915.6
-  },
-  {
-    "uid": 340252495,
     "date": "1/23/2025",
     "water_level": 10.4686,
     "temperature": 28.257,
     "conductivity": 915.4
-  },
-  {
-    "uid": 340252495,
-    "date": "1/23/2025",
-    "water_level": 10.3751,
-    "temperature": 28.252,
-    "conductivity": 916
   },
   {
     "uid": 340252495,
@@ -5006,24 +2528,10 @@
   },
   {
     "uid": 340252495,
-    "date": "1/24/2025",
-    "water_level": 10.4698,
-    "temperature": 28.254,
-    "conductivity": 916.1
-  },
-  {
-    "uid": 340252495,
     "date": "1/25/2025",
     "water_level": 10.5696,
     "temperature": 28.256,
     "conductivity": 916.5
-  },
-  {
-    "uid": 340252495,
-    "date": "1/25/2025",
-    "water_level": 10.399,
-    "temperature": 28.252,
-    "conductivity": 915.8
   },
   {
     "uid": 340252495,
@@ -5034,23 +2542,9 @@
   },
   {
     "uid": 340252495,
-    "date": "1/26/2025",
-    "water_level": 10.3762,
-    "temperature": 28.253,
-    "conductivity": 915.8
-  },
-  {
-    "uid": 340252495,
     "date": "1/27/2025",
     "water_level": 10.5306,
     "temperature": 28.257,
-    "conductivity": 915.9
-  },
-  {
-    "uid": 340252495,
-    "date": "1/27/2025",
-    "water_level": 10.333,
-    "temperature": 28.252,
     "conductivity": 915.9
   },
   {
@@ -5062,24 +2556,10 @@
   },
   {
     "uid": 340252495,
-    "date": "1/28/2025",
-    "water_level": 10.2863,
-    "temperature": 28.252,
-    "conductivity": 915
-  },
-  {
-    "uid": 340252495,
     "date": "1/29/2025",
     "water_level": 10.38,
     "temperature": 28.256,
     "conductivity": 916.2
-  },
-  {
-    "uid": 340252495,
-    "date": "1/29/2025",
-    "water_level": 10.1975,
-    "temperature": 28.253,
-    "conductivity": 915.6
   },
   {
     "uid": 340252495,
@@ -5090,13 +2570,6 @@
   },
   {
     "uid": 340252495,
-    "date": "1/30/2025",
-    "water_level": 10.1948,
-    "temperature": 28.251,
-    "conductivity": 915.5
-  },
-  {
-    "uid": 340252495,
     "date": "1/31/2025",
     "water_level": 10.354,
     "temperature": 28.257,
@@ -5104,23 +2577,9 @@
   },
   {
     "uid": 340252495,
-    "date": "1/31/2025",
-    "water_level": 10.1015,
-    "temperature": 28.25,
-    "conductivity": 916.4
-  },
-  {
-    "uid": 340252495,
     "date": "2/1/2025",
     "water_level": 10.2734,
     "temperature": 28.255,
-    "conductivity": 916.2
-  },
-  {
-    "uid": 340252495,
-    "date": "2/1/2025",
-    "water_level": 10.1416,
-    "temperature": 28.253,
     "conductivity": 916.2
   },
   {
@@ -5132,24 +2591,10 @@
   },
   {
     "uid": 340252495,
-    "date": "2/2/2025",
-    "water_level": 10.1287,
-    "temperature": 28.251,
-    "conductivity": 915.7
-  },
-  {
-    "uid": 340252495,
     "date": "2/3/2025",
     "water_level": 9.9659,
     "temperature": 28.254,
     "conductivity": 915.7
-  },
-  {
-    "uid": 340252495,
-    "date": "2/3/2025",
-    "water_level": 10.0761,
-    "temperature": 28.251,
-    "conductivity": 916.5
   },
   {
     "uid": 340252495,
@@ -5160,24 +2605,10 @@
   },
   {
     "uid": 340252495,
-    "date": "2/4/2025",
-    "water_level": 9.997,
-    "temperature": 28.251,
-    "conductivity": 916
-  },
-  {
-    "uid": 340252495,
     "date": "2/5/2025",
     "water_level": 10.114,
     "temperature": 28.256,
     "conductivity": 915.1
-  },
-  {
-    "uid": 340252495,
-    "date": "2/5/2025",
-    "water_level": 10.053,
-    "temperature": 28.251,
-    "conductivity": 914.8
   },
   {
     "uid": 340252495,
@@ -5195,24 +2626,10 @@
   },
   {
     "uid": 139642245,
-    "date": "12/31/2024",
-    "water_level": 22.0398,
-    "temperature": 28.23,
-    "conductivity": 1245.9
-  },
-  {
-    "uid": 139642245,
     "date": "1/1/2025",
     "water_level": 22.0551,
     "temperature": 28.235,
     "conductivity": 1249.3
-  },
-  {
-    "uid": 139642245,
-    "date": "1/1/2025",
-    "water_level": 22.0362,
-    "temperature": 28.233,
-    "conductivity": 1256
   },
   {
     "uid": 139642245,
@@ -5223,24 +2640,10 @@
   },
   {
     "uid": 139642245,
-    "date": "1/2/2025",
-    "water_level": 22.0462,
-    "temperature": 28.234,
-    "conductivity": 1251.3
-  },
-  {
-    "uid": 139642245,
     "date": "1/3/2025",
     "water_level": 22.0535,
     "temperature": 28.235,
     "conductivity": 1252.2
-  },
-  {
-    "uid": 139642245,
-    "date": "1/3/2025",
-    "water_level": 22.0389,
-    "temperature": 28.231,
-    "conductivity": 1251.5
   },
   {
     "uid": 139642245,
@@ -5251,24 +2654,10 @@
   },
   {
     "uid": 139642245,
-    "date": "1/4/2025",
-    "water_level": 22.0357,
-    "temperature": 28.232,
-    "conductivity": 1256.4
-  },
-  {
-    "uid": 139642245,
     "date": "1/5/2025",
     "water_level": 22.0468,
     "temperature": 28.234,
     "conductivity": 1253.7
-  },
-  {
-    "uid": 139642245,
-    "date": "1/5/2025",
-    "water_level": 22.0287,
-    "temperature": 28.235,
-    "conductivity": 1250.4
   },
   {
     "uid": 139642245,
@@ -5279,24 +2668,10 @@
   },
   {
     "uid": 139642245,
-    "date": "1/6/2025",
-    "water_level": 22.0474,
-    "temperature": 28.231,
-    "conductivity": 1253.1
-  },
-  {
-    "uid": 139642245,
     "date": "1/7/2025",
     "water_level": 22.0632,
     "temperature": 28.231,
     "conductivity": 1253.7
-  },
-  {
-    "uid": 139642245,
-    "date": "1/7/2025",
-    "water_level": 22.0369,
-    "temperature": 28.232,
-    "conductivity": 1246.8
   },
   {
     "uid": 139642245,
@@ -5307,24 +2682,10 @@
   },
   {
     "uid": 139642245,
-    "date": "1/8/2025",
-    "water_level": 22.0551,
-    "temperature": 28.232,
-    "conductivity": 1255.4
-  },
-  {
-    "uid": 139642245,
     "date": "1/9/2025",
     "water_level": 22.0588,
     "temperature": 28.231,
     "conductivity": 1247.1
-  },
-  {
-    "uid": 139642245,
-    "date": "1/9/2025",
-    "water_level": 22.052,
-    "temperature": 28.23,
-    "conductivity": 1248.2
   },
   {
     "uid": 139642245,
@@ -5335,24 +2696,10 @@
   },
   {
     "uid": 139642245,
-    "date": "1/10/2025",
-    "water_level": 22.0554,
-    "temperature": 28.228,
-    "conductivity": 1244.8
-  },
-  {
-    "uid": 139642245,
     "date": "1/11/2025",
     "water_level": 22.0752,
     "temperature": 28.231,
     "conductivity": 1241.7
-  },
-  {
-    "uid": 139642245,
-    "date": "1/11/2025",
-    "water_level": 22.0489,
-    "temperature": 28.233,
-    "conductivity": 1239.1
   },
   {
     "uid": 139642245,
@@ -5363,24 +2710,10 @@
   },
   {
     "uid": 139642245,
-    "date": "1/12/2025",
-    "water_level": 22.0241,
-    "temperature": 28.23,
-    "conductivity": 1233.3
-  },
-  {
-    "uid": 139642245,
     "date": "1/13/2025",
     "water_level": 22.0435,
     "temperature": 28.231,
     "conductivity": 1236.1
-  },
-  {
-    "uid": 139642245,
-    "date": "1/13/2025",
-    "water_level": 22.0432,
-    "temperature": 28.231,
-    "conductivity": 1247.1
   },
   {
     "uid": 139642245,
@@ -5391,24 +2724,10 @@
   },
   {
     "uid": 139642245,
-    "date": "1/14/2025",
-    "water_level": 22.04,
-    "temperature": 28.23,
-    "conductivity": 1243.4
-  },
-  {
-    "uid": 139642245,
     "date": "1/15/2025",
     "water_level": 22.0524,
     "temperature": 28.23,
     "conductivity": 1238.9
-  },
-  {
-    "uid": 139642245,
-    "date": "1/15/2025",
-    "water_level": 22.0468,
-    "temperature": 28.233,
-    "conductivity": 1240.8
   },
   {
     "uid": 139642245,
@@ -5419,24 +2738,10 @@
   },
   {
     "uid": 139642245,
-    "date": "1/16/2025",
-    "water_level": 22.0617,
-    "temperature": 28.229,
-    "conductivity": 1242.9
-  },
-  {
-    "uid": 139642245,
     "date": "1/17/2025",
     "water_level": 22.0748,
     "temperature": 28.232,
     "conductivity": 1235.7
-  },
-  {
-    "uid": 139642245,
-    "date": "1/17/2025",
-    "water_level": 22.0595,
-    "temperature": 28.23,
-    "conductivity": 1237
   },
   {
     "uid": 139642245,
@@ -5447,13 +2752,6 @@
   },
   {
     "uid": 139642245,
-    "date": "1/18/2025",
-    "water_level": 22.0453,
-    "temperature": 28.231,
-    "conductivity": 1231.4
-  },
-  {
-    "uid": 139642245,
     "date": "1/19/2025",
     "water_level": 22.0726,
     "temperature": 28.231,
@@ -5461,23 +2759,9 @@
   },
   {
     "uid": 139642245,
-    "date": "1/19/2025",
-    "water_level": 22.0511,
-    "temperature": 28.23,
-    "conductivity": 1228.1
-  },
-  {
-    "uid": 139642245,
     "date": "1/20/2025",
     "water_level": 22.0445,
     "temperature": 28.23,
-    "conductivity": 1222.8
-  },
-  {
-    "uid": 139642245,
-    "date": "1/20/2025",
-    "water_level": 22.0343,
-    "temperature": 28.231,
     "conductivity": 1222.8
   },
   {
@@ -5489,24 +2773,10 @@
   },
   {
     "uid": 139642245,
-    "date": "1/21/2025",
-    "water_level": 22.0389,
-    "temperature": 28.231,
-    "conductivity": 1221.5
-  },
-  {
-    "uid": 139642245,
     "date": "1/22/2025",
     "water_level": 22.0513,
     "temperature": 28.232,
     "conductivity": 1218.8
-  },
-  {
-    "uid": 139642245,
-    "date": "1/22/2025",
-    "water_level": 22.0296,
-    "temperature": 28.231,
-    "conductivity": 1220.4
   },
   {
     "uid": 139642245,
@@ -5517,24 +2787,10 @@
   },
   {
     "uid": 139642245,
-    "date": "1/23/2025",
-    "water_level": 22.0083,
-    "temperature": 28.228,
-    "conductivity": 1214.2
-  },
-  {
-    "uid": 139642245,
     "date": "1/24/2025",
     "water_level": 22.0212,
     "temperature": 28.235,
     "conductivity": 1215
-  },
-  {
-    "uid": 139642245,
-    "date": "1/24/2025",
-    "water_level": 22.0133,
-    "temperature": 28.23,
-    "conductivity": 1215.3
   },
   {
     "uid": 139642245,
@@ -5545,24 +2801,10 @@
   },
   {
     "uid": 139642245,
-    "date": "1/25/2025",
-    "water_level": 22.0065,
-    "temperature": 28.231,
-    "conductivity": 1208.7
-  },
-  {
-    "uid": 139642245,
     "date": "1/26/2025",
     "water_level": 22.0105,
     "temperature": 28.227,
     "conductivity": 1200.3
-  },
-  {
-    "uid": 139642245,
-    "date": "1/26/2025",
-    "water_level": 21.9951,
-    "temperature": 28.231,
-    "conductivity": 1201.2
   },
   {
     "uid": 139642245,
@@ -5573,24 +2815,10 @@
   },
   {
     "uid": 139642245,
-    "date": "1/27/2025",
-    "water_level": 21.9915,
-    "temperature": 28.226,
-    "conductivity": 1196.3
-  },
-  {
-    "uid": 139642245,
     "date": "1/28/2025",
     "water_level": 22.0072,
     "temperature": 28.231,
     "conductivity": 1192.4
-  },
-  {
-    "uid": 139642245,
-    "date": "1/28/2025",
-    "water_level": 21.9602,
-    "temperature": 28.229,
-    "conductivity": 1189.8
   },
   {
     "uid": 139642245,
@@ -5601,24 +2829,10 @@
   },
   {
     "uid": 139642245,
-    "date": "1/29/2025",
-    "water_level": 21.9165,
-    "temperature": 28.23,
-    "conductivity": 1157.9
-  },
-  {
-    "uid": 139642245,
     "date": "1/30/2025",
     "water_level": 21.9258,
     "temperature": 28.229,
     "conductivity": 1151.8
-  },
-  {
-    "uid": 139642245,
-    "date": "1/30/2025",
-    "water_level": 21.8885,
-    "temperature": 28.229,
-    "conductivity": 1144.9
   },
   {
     "uid": 139642245,
@@ -5629,24 +2843,10 @@
   },
   {
     "uid": 139642245,
-    "date": "1/31/2025",
-    "water_level": 21.8618,
-    "temperature": 28.227,
-    "conductivity": 1134.2
-  },
-  {
-    "uid": 139642245,
     "date": "2/1/2025",
     "water_level": 21.8651,
     "temperature": 28.228,
     "conductivity": 1121.5
-  },
-  {
-    "uid": 139642245,
-    "date": "2/1/2025",
-    "water_level": 21.8439,
-    "temperature": 28.23,
-    "conductivity": 1113.8
   },
   {
     "uid": 139642245,
@@ -5657,24 +2857,10 @@
   },
   {
     "uid": 139642245,
-    "date": "2/2/2025",
-    "water_level": 21.8226,
-    "temperature": 28.231,
-    "conductivity": 1094.7
-  },
-  {
-    "uid": 139642245,
     "date": "2/3/2025",
     "water_level": 21.8459,
     "temperature": 28.232,
     "conductivity": 1090.4
-  },
-  {
-    "uid": 139642245,
-    "date": "2/3/2025",
-    "water_level": 21.822,
-    "temperature": 28.231,
-    "conductivity": 1083.5
   },
   {
     "uid": 139642245,
@@ -5685,13 +2871,6 @@
   },
   {
     "uid": 139642245,
-    "date": "2/4/2025",
-    "water_level": 21.8061,
-    "temperature": 28.233,
-    "conductivity": 1074.4
-  },
-  {
-    "uid": 139642245,
     "date": "2/5/2025",
     "water_level": 21.8084,
     "temperature": 28.231,
@@ -5699,24 +2878,10 @@
   },
   {
     "uid": 139642245,
-    "date": "2/5/2025",
-    "water_level": 21.7805,
-    "temperature": 28.229,
-    "conductivity": 1065.8
-  },
-  {
-    "uid": 139642245,
     "date": "2/6/2025",
     "water_level": 21.7841,
     "temperature": 28.232,
     "conductivity": 1061.8
-  },
-  {
-    "uid": 139642245,
-    "date": "2/6/2025",
-    "water_level": 21.7741,
-    "temperature": 28.233,
-    "conductivity": 1060.3
   },
   {
     "uid": 580184695,
@@ -5727,24 +2892,10 @@
   },
   {
     "uid": 580184695,
-    "date": "12/31/2024",
-    "water_level": 24.3514,
-    "temperature": 29.846,
-    "conductivity": 912.3
-  },
-  {
-    "uid": 580184695,
     "date": "1/1/2025",
     "water_level": 24.4012,
     "temperature": 29.846,
     "conductivity": 911.7
-  },
-  {
-    "uid": 580184695,
-    "date": "1/1/2025",
-    "water_level": 24.3484,
-    "temperature": 29.844,
-    "conductivity": 912
   },
   {
     "uid": 580184695,
@@ -5755,24 +2906,10 @@
   },
   {
     "uid": 580184695,
-    "date": "1/2/2025",
-    "water_level": 24.3545,
-    "temperature": 29.844,
-    "conductivity": 912.5
-  },
-  {
-    "uid": 580184695,
     "date": "1/3/2025",
     "water_level": 24.3783,
     "temperature": 29.842,
     "conductivity": 911.4
-  },
-  {
-    "uid": 580184695,
-    "date": "1/3/2025",
-    "water_level": 24.3554,
-    "temperature": 29.844,
-    "conductivity": 912.3
   },
   {
     "uid": 580184695,
@@ -5783,24 +2920,10 @@
   },
   {
     "uid": 580184695,
-    "date": "1/4/2025",
-    "water_level": 24.3605,
-    "temperature": 29.842,
-    "conductivity": 911.3
-  },
-  {
-    "uid": 580184695,
     "date": "1/5/2025",
     "water_level": 24.3795,
     "temperature": 29.842,
     "conductivity": 911.6
-  },
-  {
-    "uid": 580184695,
-    "date": "1/5/2025",
-    "water_level": 24.3717,
-    "temperature": 29.841,
-    "conductivity": 911.5
   },
   {
     "uid": 580184695,
@@ -5811,24 +2934,10 @@
   },
   {
     "uid": 580184695,
-    "date": "1/6/2025",
-    "water_level": 24.4051,
-    "temperature": 29.839,
-    "conductivity": 912.3
-  },
-  {
-    "uid": 580184695,
     "date": "1/7/2025",
     "water_level": 24.4467,
     "temperature": 29.841,
     "conductivity": 911.7
-  },
-  {
-    "uid": 580184695,
-    "date": "1/7/2025",
-    "water_level": 24.4251,
-    "temperature": 29.839,
-    "conductivity": 912.1
   },
   {
     "uid": 580184695,
@@ -5839,24 +2948,10 @@
   },
   {
     "uid": 580184695,
-    "date": "1/8/2025",
-    "water_level": 24.4517,
-    "temperature": 29.84,
-    "conductivity": 912.4
-  },
-  {
-    "uid": 580184695,
     "date": "1/9/2025",
     "water_level": 24.5094,
     "temperature": 29.838,
     "conductivity": 912.3
-  },
-  {
-    "uid": 580184695,
-    "date": "1/9/2025",
-    "water_level": 24.4681,
-    "temperature": 29.84,
-    "conductivity": 910.8
   },
   {
     "uid": 580184695,
@@ -5867,24 +2962,10 @@
   },
   {
     "uid": 580184695,
-    "date": "1/10/2025",
-    "water_level": 24.4872,
-    "temperature": 29.84,
-    "conductivity": 911.7
-  },
-  {
-    "uid": 580184695,
     "date": "1/11/2025",
     "water_level": 24.5711,
     "temperature": 29.838,
     "conductivity": 912.3
-  },
-  {
-    "uid": 580184695,
-    "date": "1/11/2025",
-    "water_level": 24.4931,
-    "temperature": 29.838,
-    "conductivity": 911.8
   },
   {
     "uid": 580184695,
@@ -5895,24 +2976,10 @@
   },
   {
     "uid": 580184695,
-    "date": "1/12/2025",
-    "water_level": 24.4775,
-    "temperature": 29.837,
-    "conductivity": 912.1
-  },
-  {
-    "uid": 580184695,
     "date": "1/13/2025",
     "water_level": 24.5422,
     "temperature": 29.836,
     "conductivity": 911.6
-  },
-  {
-    "uid": 580184695,
-    "date": "1/13/2025",
-    "water_level": 24.4744,
-    "temperature": 29.838,
-    "conductivity": 912.3
   },
   {
     "uid": 580184695,
@@ -5923,24 +2990,10 @@
   },
   {
     "uid": 580184695,
-    "date": "1/14/2025",
-    "water_level": 24.4674,
-    "temperature": 29.836,
-    "conductivity": 911.9
-  },
-  {
-    "uid": 580184695,
     "date": "1/15/2025",
     "water_level": 24.5075,
     "temperature": 29.838,
     "conductivity": 912.5
-  },
-  {
-    "uid": 580184695,
-    "date": "1/15/2025",
-    "water_level": 24.4688,
-    "temperature": 29.835,
-    "conductivity": 912.3
   },
   {
     "uid": 580184695,
@@ -5951,24 +3004,10 @@
   },
   {
     "uid": 580184695,
-    "date": "1/16/2025",
-    "water_level": 24.4693,
-    "temperature": 29.833,
-    "conductivity": 912.4
-  },
-  {
-    "uid": 580184695,
     "date": "1/17/2025",
     "water_level": 24.5024,
     "temperature": 29.833,
     "conductivity": 912.5
-  },
-  {
-    "uid": 580184695,
-    "date": "1/17/2025",
-    "water_level": 24.4845,
-    "temperature": 29.835,
-    "conductivity": 911.7
   },
   {
     "uid": 580184695,
@@ -5979,24 +3018,10 @@
   },
   {
     "uid": 580184695,
-    "date": "1/18/2025",
-    "water_level": 24.4866,
-    "temperature": 29.837,
-    "conductivity": 912.6
-  },
-  {
-    "uid": 580184695,
     "date": "1/19/2025",
     "water_level": 24.5078,
     "temperature": 29.832,
     "conductivity": 911.9
-  },
-  {
-    "uid": 580184695,
-    "date": "1/19/2025",
-    "water_level": 24.4816,
-    "temperature": 29.832,
-    "conductivity": 911.6
   },
   {
     "uid": 580184695,
@@ -6007,24 +3032,10 @@
   },
   {
     "uid": 580184695,
-    "date": "1/20/2025",
-    "water_level": 24.4977,
-    "temperature": 29.835,
-    "conductivity": 912.5
-  },
-  {
-    "uid": 580184695,
     "date": "1/21/2025",
     "water_level": 24.5249,
     "temperature": 29.835,
     "conductivity": 912.7
-  },
-  {
-    "uid": 580184695,
-    "date": "1/21/2025",
-    "water_level": 24.5148,
-    "temperature": 29.831,
-    "conductivity": 912.3
   },
   {
     "uid": 580184695,
@@ -6035,24 +3046,10 @@
   },
   {
     "uid": 580184695,
-    "date": "1/22/2025",
-    "water_level": 24.5263,
-    "temperature": 29.834,
-    "conductivity": 911.4
-  },
-  {
-    "uid": 580184695,
     "date": "1/23/2025",
     "water_level": 24.5625,
     "temperature": 29.831,
     "conductivity": 911.5
-  },
-  {
-    "uid": 580184695,
-    "date": "1/23/2025",
-    "water_level": 24.5174,
-    "temperature": 29.831,
-    "conductivity": 912.1
   },
   {
     "uid": 580184695,
@@ -6063,24 +3060,10 @@
   },
   {
     "uid": 580184695,
-    "date": "1/24/2025",
-    "water_level": 24.53,
-    "temperature": 29.83,
-    "conductivity": 912.6
-  },
-  {
-    "uid": 580184695,
     "date": "1/25/2025",
     "water_level": 24.5884,
     "temperature": 29.831,
     "conductivity": 912.3
-  },
-  {
-    "uid": 580184695,
-    "date": "1/25/2025",
-    "water_level": 24.5327,
-    "temperature": 29.829,
-    "conductivity": 912.4
   },
   {
     "uid": 580184695,
@@ -6091,24 +3074,10 @@
   },
   {
     "uid": 580184695,
-    "date": "1/26/2025",
-    "water_level": 24.5402,
-    "temperature": 29.829,
-    "conductivity": 912
-  },
-  {
-    "uid": 580184695,
     "date": "1/27/2025",
     "water_level": 24.6119,
     "temperature": 29.83,
     "conductivity": 912
-  },
-  {
-    "uid": 580184695,
-    "date": "1/27/2025",
-    "water_level": 24.5369,
-    "temperature": 29.831,
-    "conductivity": 912.4
   },
   {
     "uid": 580184695,
@@ -6119,23 +3088,9 @@
   },
   {
     "uid": 580184695,
-    "date": "1/28/2025",
-    "water_level": 24.5319,
-    "temperature": 29.83,
-    "conductivity": 912.5
-  },
-  {
-    "uid": 580184695,
     "date": "1/29/2025",
     "water_level": 24.5699,
     "temperature": 29.83,
-    "conductivity": 912.5
-  },
-  {
-    "uid": 580184695,
-    "date": "1/29/2025",
-    "water_level": 24.5162,
-    "temperature": 29.827,
     "conductivity": 912.5
   },
   {
@@ -6147,24 +3102,10 @@
   },
   {
     "uid": 580184695,
-    "date": "1/30/2025",
-    "water_level": 24.4992,
-    "temperature": 29.825,
-    "conductivity": 912.6
-  },
-  {
-    "uid": 580184695,
     "date": "1/31/2025",
     "water_level": 24.5121,
     "temperature": 29.827,
     "conductivity": 912.7
-  },
-  {
-    "uid": 580184695,
-    "date": "1/31/2025",
-    "water_level": 24.4709,
-    "temperature": 29.827,
-    "conductivity": 912.3
   },
   {
     "uid": 580184695,
@@ -6175,24 +3116,10 @@
   },
   {
     "uid": 580184695,
-    "date": "2/1/2025",
-    "water_level": 24.4563,
-    "temperature": 29.825,
-    "conductivity": 912.6
-  },
-  {
-    "uid": 580184695,
     "date": "2/2/2025",
     "water_level": 24.4597,
     "temperature": 29.827,
     "conductivity": 911.4
-  },
-  {
-    "uid": 580184695,
-    "date": "2/2/2025",
-    "water_level": 24.4404,
-    "temperature": 29.826,
-    "conductivity": 912.3
   },
   {
     "uid": 580184695,
@@ -6203,24 +3130,10 @@
   },
   {
     "uid": 580184695,
-    "date": "2/3/2025",
-    "water_level": 24.4481,
-    "temperature": 29.824,
-    "conductivity": 912.5
-  },
-  {
-    "uid": 580184695,
     "date": "2/4/2025",
     "water_level": 24.4644,
     "temperature": 29.827,
     "conductivity": 911.6
-  },
-  {
-    "uid": 580184695,
-    "date": "2/4/2025",
-    "water_level": 24.4452,
-    "temperature": 29.826,
-    "conductivity": 911.4
   },
   {
     "uid": 580184695,
@@ -6231,24 +3144,10 @@
   },
   {
     "uid": 580184695,
-    "date": "2/5/2025",
-    "water_level": 24.444,
-    "temperature": 29.825,
-    "conductivity": 912.4
-  },
-  {
-    "uid": 580184695,
     "date": "2/6/2025",
     "water_level": 24.4922,
     "temperature": 29.825,
     "conductivity": 912
-  },
-  {
-    "uid": 580184695,
-    "date": "2/6/2025",
-    "water_level": 24.4602,
-    "temperature": 29.825,
-    "conductivity": 911.8
   },
   {
     "uid": 580184695,
@@ -6266,24 +3165,10 @@
   },
   {
     "uid": 283200472,
-    "date": "12/31/2024",
-    "water_level": 12.3884,
-    "temperature": 24.543,
-    "conductivity": 122.1
-  },
-  {
-    "uid": 283200472,
     "date": "1/1/2025",
     "water_level": 12.4108,
     "temperature": 24.544,
     "conductivity": 122.1
-  },
-  {
-    "uid": 283200472,
-    "date": "1/1/2025",
-    "water_level": 12.3862,
-    "temperature": 24.544,
-    "conductivity": 122
   },
   {
     "uid": 283200472,
@@ -6294,24 +3179,10 @@
   },
   {
     "uid": 283200472,
-    "date": "1/2/2025",
-    "water_level": 12.3875,
-    "temperature": 24.541,
-    "conductivity": 122.1
-  },
-  {
-    "uid": 283200472,
     "date": "1/3/2025",
     "water_level": 12.365,
     "temperature": 24.544,
     "conductivity": 121.9
-  },
-  {
-    "uid": 283200472,
-    "date": "1/3/2025",
-    "water_level": 12.3486,
-    "temperature": 24.542,
-    "conductivity": 122.1
   },
   {
     "uid": 283200472,
@@ -6322,24 +3193,10 @@
   },
   {
     "uid": 283200472,
-    "date": "1/4/2025",
-    "water_level": 12.3476,
-    "temperature": 24.541,
-    "conductivity": 122.2
-  },
-  {
-    "uid": 283200472,
     "date": "1/5/2025",
     "water_level": 12.3566,
     "temperature": 24.544,
     "conductivity": 122
-  },
-  {
-    "uid": 283200472,
-    "date": "1/5/2025",
-    "water_level": 12.3505,
-    "temperature": 24.544,
-    "conductivity": 122.1
   },
   {
     "uid": 283200472,
@@ -6350,24 +3207,10 @@
   },
   {
     "uid": 283200472,
-    "date": "1/6/2025",
-    "water_level": 12.3707,
-    "temperature": 24.543,
-    "conductivity": 122.1
-  },
-  {
-    "uid": 283200472,
     "date": "1/7/2025",
     "water_level": 12.3914,
     "temperature": 24.541,
     "conductivity": 122
-  },
-  {
-    "uid": 283200472,
-    "date": "1/7/2025",
-    "water_level": 12.5258,
-    "temperature": 24.543,
-    "conductivity": 122.1
   },
   {
     "uid": 283200472,
@@ -6378,13 +3221,6 @@
   },
   {
     "uid": 283200472,
-    "date": "1/8/2025",
-    "water_level": 12.6375,
-    "temperature": 24.543,
-    "conductivity": 122.2
-  },
-  {
-    "uid": 283200472,
     "date": "1/9/2025",
     "water_level": 12.5494,
     "temperature": 24.542,
@@ -6392,22 +3228,8 @@
   },
   {
     "uid": 283200472,
-    "date": "1/9/2025",
-    "water_level": 12.5279,
-    "temperature": 24.543,
-    "conductivity": 122.1
-  },
-  {
-    "uid": 283200472,
     "date": "1/10/2025",
     "water_level": 12.5102,
-    "temperature": 24.54,
-    "conductivity": 122.1
-  },
-  {
-    "uid": 283200472,
-    "date": "1/10/2025",
-    "water_level": 12.4739,
     "temperature": 24.54,
     "conductivity": 122.1
   },
@@ -6420,22 +3242,8 @@
   },
   {
     "uid": 283200472,
-    "date": "1/11/2025",
-    "water_level": 12.4604,
-    "temperature": 24.542,
-    "conductivity": 122.2
-  },
-  {
-    "uid": 283200472,
     "date": "1/12/2025",
     "water_level": 12.4618,
-    "temperature": 24.54,
-    "conductivity": 122.1
-  },
-  {
-    "uid": 283200472,
-    "date": "1/12/2025",
-    "water_level": 12.4244,
     "temperature": 24.54,
     "conductivity": 122.1
   },
@@ -6448,24 +3256,10 @@
   },
   {
     "uid": 283200472,
-    "date": "1/13/2025",
-    "water_level": 12.4357,
-    "temperature": 24.54,
-    "conductivity": 122.2
-  },
-  {
-    "uid": 283200472,
     "date": "1/14/2025",
     "water_level": 12.4307,
     "temperature": 24.54,
     "conductivity": 122
-  },
-  {
-    "uid": 283200472,
-    "date": "1/14/2025",
-    "water_level": 12.4652,
-    "temperature": 24.539,
-    "conductivity": 122.1
   },
   {
     "uid": 283200472,
@@ -6476,13 +3270,6 @@
   },
   {
     "uid": 283200472,
-    "date": "1/15/2025",
-    "water_level": 12.4602,
-    "temperature": 24.541,
-    "conductivity": 122.1
-  },
-  {
-    "uid": 283200472,
     "date": "1/16/2025",
     "water_level": 12.4588,
     "temperature": 24.541,
@@ -6490,22 +3277,8 @@
   },
   {
     "uid": 283200472,
-    "date": "1/16/2025",
-    "water_level": 12.4673,
-    "temperature": 24.541,
-    "conductivity": 122.1
-  },
-  {
-    "uid": 283200472,
     "date": "1/17/2025",
     "water_level": 12.4618,
-    "temperature": 24.539,
-    "conductivity": 122.1
-  },
-  {
-    "uid": 283200472,
-    "date": "1/17/2025",
-    "water_level": 12.47,
     "temperature": 24.539,
     "conductivity": 122.1
   },
@@ -6518,23 +3291,9 @@
   },
   {
     "uid": 283200472,
-    "date": "1/18/2025",
-    "water_level": 12.4372,
-    "temperature": 24.54,
-    "conductivity": 122.3
-  },
-  {
-    "uid": 283200472,
     "date": "1/19/2025",
     "water_level": 12.4266,
     "temperature": 24.539,
-    "conductivity": 122.1
-  },
-  {
-    "uid": 283200472,
-    "date": "1/19/2025",
-    "water_level": 12.4315,
-    "temperature": 24.54,
     "conductivity": 122.1
   },
   {
@@ -6546,24 +3305,10 @@
   },
   {
     "uid": 283200472,
-    "date": "1/20/2025",
-    "water_level": 12.4601,
-    "temperature": 24.539,
-    "conductivity": 122.2
-  },
-  {
-    "uid": 283200472,
     "date": "1/21/2025",
     "water_level": 12.4103,
     "temperature": 24.541,
     "conductivity": 122.3
-  },
-  {
-    "uid": 283200472,
-    "date": "1/21/2025",
-    "water_level": 12.3847,
-    "temperature": 24.539,
-    "conductivity": 122.2
   },
   {
     "uid": 283200472,
@@ -6574,22 +3319,8 @@
   },
   {
     "uid": 283200472,
-    "date": "1/22/2025",
-    "water_level": 12.3775,
-    "temperature": 24.541,
-    "conductivity": 122.2
-  },
-  {
-    "uid": 283200472,
     "date": "1/23/2025",
     "water_level": 12.3781,
-    "temperature": 24.539,
-    "conductivity": 122.1
-  },
-  {
-    "uid": 283200472,
-    "date": "1/23/2025",
-    "water_level": 12.3444,
     "temperature": 24.539,
     "conductivity": 122.1
   },
@@ -6602,22 +3333,8 @@
   },
   {
     "uid": 283200472,
-    "date": "1/24/2025",
-    "water_level": 12.2792,
-    "temperature": 24.537,
-    "conductivity": 122.1
-  },
-  {
-    "uid": 283200472,
     "date": "1/25/2025",
     "water_level": 12.2378,
-    "temperature": 24.539,
-    "conductivity": 122.1
-  },
-  {
-    "uid": 283200472,
-    "date": "1/25/2025",
-    "water_level": 12.2009,
     "temperature": 24.539,
     "conductivity": 122.1
   },
@@ -6630,13 +3347,6 @@
   },
   {
     "uid": 283200472,
-    "date": "1/26/2025",
-    "water_level": 12.1128,
-    "temperature": 24.542,
-    "conductivity": 122
-  },
-  {
-    "uid": 283200472,
     "date": "1/27/2025",
     "water_level": 12.0939,
     "temperature": 24.544,
@@ -6644,23 +3354,9 @@
   },
   {
     "uid": 283200472,
-    "date": "1/27/2025",
-    "water_level": 11.9895,
-    "temperature": 24.543,
-    "conductivity": 122
-  },
-  {
-    "uid": 283200472,
     "date": "1/28/2025",
     "water_level": 11.883,
     "temperature": 24.545,
-    "conductivity": 120.5
-  },
-  {
-    "uid": 283200472,
-    "date": "1/28/2025",
-    "water_level": 11.78,
-    "temperature": 24.546,
     "conductivity": 120.5
   },
   {
@@ -6672,13 +3368,6 @@
   },
   {
     "uid": 283200472,
-    "date": "1/29/2025",
-    "water_level": 11.5586,
-    "temperature": 24.546,
-    "conductivity": 121.1
-  },
-  {
-    "uid": 283200472,
     "date": "1/30/2025",
     "water_level": 11.4607,
     "temperature": 24.546,
@@ -6686,23 +3375,9 @@
   },
   {
     "uid": 283200472,
-    "date": "1/30/2025",
-    "water_level": 11.3847,
-    "temperature": 24.545,
-    "conductivity": 121
-  },
-  {
-    "uid": 283200472,
     "date": "1/31/2025",
     "water_level": 11.3239,
     "temperature": 24.544,
-    "conductivity": 121
-  },
-  {
-    "uid": 283200472,
-    "date": "1/31/2025",
-    "water_level": 11.2998,
-    "temperature": 24.546,
     "conductivity": 121
   },
   {
@@ -6714,24 +3389,10 @@
   },
   {
     "uid": 283200472,
-    "date": "2/1/2025",
-    "water_level": 11.2233,
-    "temperature": 24.545,
-    "conductivity": 121.2
-  },
-  {
-    "uid": 283200472,
     "date": "2/2/2025",
     "water_level": 11.1874,
     "temperature": 24.544,
     "conductivity": 121.1
-  },
-  {
-    "uid": 283200472,
-    "date": "2/2/2025",
-    "water_level": 11.1647,
-    "temperature": 24.547,
-    "conductivity": 121.3
   },
   {
     "uid": 283200472,
@@ -6742,24 +3403,10 @@
   },
   {
     "uid": 283200472,
-    "date": "2/3/2025",
-    "water_level": 11.0919,
-    "temperature": 24.546,
-    "conductivity": 121.5
-  },
-  {
-    "uid": 283200472,
     "date": "2/4/2025",
     "water_level": 11.0433,
     "temperature": 24.546,
     "conductivity": 121.6
-  },
-  {
-    "uid": 283200472,
-    "date": "2/4/2025",
-    "water_level": 11.0261,
-    "temperature": 24.548,
-    "conductivity": 121.5
   },
   {
     "uid": 236565586,
@@ -6770,13 +3417,6 @@
   },
   {
     "uid": 236565586,
-    "date": "12/31/2024",
-    "water_level": 6.1128,
-    "temperature": 25.777,
-    "conductivity": 325.6
-  },
-  {
-    "uid": 236565586,
     "date": "1/1/2025",
     "water_level": 6.1266,
     "temperature": 25.78,
@@ -6784,22 +3424,8 @@
   },
   {
     "uid": 236565586,
-    "date": "1/1/2025",
-    "water_level": 6.1102,
-    "temperature": 25.78,
-    "conductivity": 327.3
-  },
-  {
-    "uid": 236565586,
     "date": "1/2/2025",
     "water_level": 6.1297,
-    "temperature": 25.779,
-    "conductivity": 326.9
-  },
-  {
-    "uid": 236565586,
-    "date": "1/2/2025",
-    "water_level": 6.122,
     "temperature": 25.779,
     "conductivity": 326.9
   },
@@ -6812,24 +3438,10 @@
   },
   {
     "uid": 236565586,
-    "date": "1/3/2025",
-    "water_level": 6.1239,
-    "temperature": 25.779,
-    "conductivity": 327.7
-  },
-  {
-    "uid": 236565586,
     "date": "1/4/2025",
     "water_level": 6.1354,
     "temperature": 25.778,
     "conductivity": 327.4
-  },
-  {
-    "uid": 236565586,
-    "date": "1/4/2025",
-    "water_level": 6.1265,
-    "temperature": 25.778,
-    "conductivity": 326.9
   },
   {
     "uid": 236565586,
@@ -6840,24 +3452,10 @@
   },
   {
     "uid": 236565586,
-    "date": "1/5/2025",
-    "water_level": 6.1256,
-    "temperature": 25.778,
-    "conductivity": 326.9
-  },
-  {
-    "uid": 236565586,
     "date": "1/6/2025",
     "water_level": 6.1428,
     "temperature": 25.782,
     "conductivity": 328.3
-  },
-  {
-    "uid": 236565586,
-    "date": "1/6/2025",
-    "water_level": 6.1368,
-    "temperature": 25.776,
-    "conductivity": 327.1
   },
   {
     "uid": 236565586,
@@ -6868,24 +3466,10 @@
   },
   {
     "uid": 236565586,
-    "date": "1/7/2025",
-    "water_level": 6.1374,
-    "temperature": 25.775,
-    "conductivity": 325.4
-  },
-  {
-    "uid": 236565586,
     "date": "1/8/2025",
     "water_level": 6.1536,
     "temperature": 25.778,
     "conductivity": 326
-  },
-  {
-    "uid": 236565586,
-    "date": "1/8/2025",
-    "water_level": 6.1399,
-    "temperature": 25.776,
-    "conductivity": 326.5
   },
   {
     "uid": 236565586,
@@ -6896,24 +3480,10 @@
   },
   {
     "uid": 236565586,
-    "date": "1/9/2025",
-    "water_level": 6.136,
-    "temperature": 25.776,
-    "conductivity": 328.9
-  },
-  {
-    "uid": 236565586,
     "date": "1/10/2025",
     "water_level": 6.1557,
     "temperature": 25.775,
     "conductivity": 327.5
-  },
-  {
-    "uid": 236565586,
-    "date": "1/10/2025",
-    "water_level": 6.1358,
-    "temperature": 25.774,
-    "conductivity": 323.4
   },
   {
     "uid": 236565586,
@@ -6924,24 +3494,10 @@
   },
   {
     "uid": 236565586,
-    "date": "1/11/2025",
-    "water_level": 6.1279,
-    "temperature": 25.774,
-    "conductivity": 321.4
-  },
-  {
-    "uid": 236565586,
     "date": "1/12/2025",
     "water_level": 6.1476,
     "temperature": 25.775,
     "conductivity": 322.9
-  },
-  {
-    "uid": 236565586,
-    "date": "1/12/2025",
-    "water_level": 6.1084,
-    "temperature": 25.778,
-    "conductivity": 324
   },
   {
     "uid": 236565586,
@@ -6952,24 +3508,10 @@
   },
   {
     "uid": 236565586,
-    "date": "1/13/2025",
-    "water_level": 6.1042,
-    "temperature": 25.776,
-    "conductivity": 327.4
-  },
-  {
-    "uid": 236565586,
     "date": "1/14/2025",
     "water_level": 6.1167,
     "temperature": 25.776,
     "conductivity": 330.1
-  },
-  {
-    "uid": 236565586,
-    "date": "1/14/2025",
-    "water_level": 6.0997,
-    "temperature": 25.777,
-    "conductivity": 331.9
   },
   {
     "uid": 236565586,
@@ -6980,24 +3522,10 @@
   },
   {
     "uid": 236565586,
-    "date": "1/15/2025",
-    "water_level": 6.1129,
-    "temperature": 25.777,
-    "conductivity": 334.6
-  },
-  {
-    "uid": 236565586,
     "date": "1/16/2025",
     "water_level": 6.1328,
     "temperature": 25.775,
     "conductivity": 335.4
-  },
-  {
-    "uid": 236565586,
-    "date": "1/16/2025",
-    "water_level": 6.1164,
-    "temperature": 25.775,
-    "conductivity": 336.1
   },
   {
     "uid": 236565586,
@@ -7008,24 +3536,10 @@
   },
   {
     "uid": 236565586,
-    "date": "1/17/2025",
-    "water_level": 6.1239,
-    "temperature": 25.778,
-    "conductivity": 338.4
-  },
-  {
-    "uid": 236565586,
     "date": "1/18/2025",
     "water_level": 6.133,
     "temperature": 25.776,
     "conductivity": 339.4
-  },
-  {
-    "uid": 236565586,
-    "date": "1/18/2025",
-    "water_level": 6.1188,
-    "temperature": 25.777,
-    "conductivity": 339.9
   },
   {
     "uid": 236565586,
@@ -7036,24 +3550,10 @@
   },
   {
     "uid": 236565586,
-    "date": "1/19/2025",
-    "water_level": 6.1218,
-    "temperature": 25.775,
-    "conductivity": 341.1
-  },
-  {
-    "uid": 236565586,
     "date": "1/20/2025",
     "water_level": 6.082,
     "temperature": 25.776,
     "conductivity": 342
-  },
-  {
-    "uid": 236565586,
-    "date": "1/20/2025",
-    "water_level": 6.0758,
-    "temperature": 25.779,
-    "conductivity": 341.6
   },
   {
     "uid": 236565586,
@@ -7064,24 +3564,10 @@
   },
   {
     "uid": 236565586,
-    "date": "1/21/2025",
-    "water_level": 6.0914,
-    "temperature": 25.772,
-    "conductivity": 324.4
-  },
-  {
-    "uid": 236565586,
     "date": "1/22/2025",
     "water_level": 6.0997,
     "temperature": 25.771,
     "conductivity": 316.7
-  },
-  {
-    "uid": 236565586,
-    "date": "1/22/2025",
-    "water_level": 6.081,
-    "temperature": 25.769,
-    "conductivity": 313.2
   },
   {
     "uid": 236565586,
@@ -7092,24 +3578,10 @@
   },
   {
     "uid": 236565586,
-    "date": "1/23/2025",
-    "water_level": 6.0694,
-    "temperature": 25.772,
-    "conductivity": 315.1
-  },
-  {
-    "uid": 236565586,
     "date": "1/24/2025",
     "water_level": 5.9458,
     "temperature": 25.772,
     "conductivity": 317.4
-  },
-  {
-    "uid": 236565586,
-    "date": "1/24/2025",
-    "water_level": 5.9821,
-    "temperature": 25.769,
-    "conductivity": 319.7
   },
   {
     "uid": 236565586,
@@ -7120,24 +3592,10 @@
   },
   {
     "uid": 236565586,
-    "date": "1/25/2025",
-    "water_level": 5.9443,
-    "temperature": 25.773,
-    "conductivity": 348
-  },
-  {
-    "uid": 236565586,
     "date": "1/26/2025",
     "water_level": 5.9313,
     "temperature": 25.771,
     "conductivity": 361.6
-  },
-  {
-    "uid": 236565586,
-    "date": "1/26/2025",
-    "water_level": 5.8582,
-    "temperature": 25.768,
-    "conductivity": 360.9
   },
   {
     "uid": 236565586,
@@ -7148,24 +3606,10 @@
   },
   {
     "uid": 236565586,
-    "date": "1/27/2025",
-    "water_level": 5.8298,
-    "temperature": 25.775,
-    "conductivity": 357.1
-  },
-  {
-    "uid": 236565586,
     "date": "1/28/2025",
     "water_level": 5.8452,
     "temperature": 25.769,
     "conductivity": 363.7
-  },
-  {
-    "uid": 236565586,
-    "date": "1/28/2025",
-    "water_level": 5.8252,
-    "temperature": 25.767,
-    "conductivity": 357
   },
   {
     "uid": 236565586,
@@ -7176,24 +3620,10 @@
   },
   {
     "uid": 236565586,
-    "date": "1/29/2025",
-    "water_level": 5.7199,
-    "temperature": 25.767,
-    "conductivity": 349.5
-  },
-  {
-    "uid": 236565586,
     "date": "1/30/2025",
     "water_level": 5.7049,
     "temperature": 25.769,
     "conductivity": 348.3
-  },
-  {
-    "uid": 236565586,
-    "date": "1/30/2025",
-    "water_level": 5.6947,
-    "temperature": 25.77,
-    "conductivity": 343.9
   },
   {
     "uid": 236565586,
@@ -7204,24 +3634,10 @@
   },
   {
     "uid": 236565586,
-    "date": "1/31/2025",
-    "water_level": 5.6905,
-    "temperature": 25.767,
-    "conductivity": 316.9
-  },
-  {
-    "uid": 236565586,
     "date": "2/1/2025",
     "water_level": 5.6994,
     "temperature": 25.768,
     "conductivity": 309.3
-  },
-  {
-    "uid": 236565586,
-    "date": "2/1/2025",
-    "water_level": 5.6756,
-    "temperature": 25.768,
-    "conductivity": 305.1
   },
   {
     "uid": 236565586,
@@ -7232,24 +3648,10 @@
   },
   {
     "uid": 236565586,
-    "date": "2/2/2025",
-    "water_level": 5.672,
-    "temperature": 25.767,
-    "conductivity": 308.6
-  },
-  {
-    "uid": 236565586,
     "date": "2/3/2025",
     "water_level": 5.6805,
     "temperature": 25.767,
     "conductivity": 316
-  },
-  {
-    "uid": 236565586,
-    "date": "2/3/2025",
-    "water_level": 5.6755,
-    "temperature": 25.77,
-    "conductivity": 325.1
   },
   {
     "uid": 236565586,
@@ -7260,13 +3662,6 @@
   },
   {
     "uid": 236565586,
-    "date": "2/4/2025",
-    "water_level": 5.6677,
-    "temperature": 25.769,
-    "conductivity": 339.2
-  },
-  {
-    "uid": 236565586,
     "date": "2/5/2025",
     "water_level": 5.6658,
     "temperature": 25.772,
@@ -7274,24 +3669,10 @@
   },
   {
     "uid": 236565586,
-    "date": "2/5/2025",
-    "water_level": 5.6463,
-    "temperature": 25.771,
-    "conductivity": 347.6
-  },
-  {
-    "uid": 236565586,
     "date": "2/6/2025",
     "water_level": 5.6531,
     "temperature": 25.77,
     "conductivity": 347.8
-  },
-  {
-    "uid": 236565586,
-    "date": "2/6/2025",
-    "water_level": 5.6516,
-    "temperature": 25.766,
-    "conductivity": 347.5
   },
   {
     "uid": 236565586,
@@ -7309,24 +3690,10 @@
   },
   {
     "uid": 283200434,
-    "date": "12/31/2024",
-    "water_level": 4.928,
-    "temperature": 25.996,
-    "conductivity": 939.7
-  },
-  {
-    "uid": 283200434,
     "date": "1/1/2025",
     "water_level": 4.9531,
     "temperature": 25.999,
     "conductivity": 939.3
-  },
-  {
-    "uid": 283200434,
-    "date": "1/1/2025",
-    "water_level": 4.9326,
-    "temperature": 25.998,
-    "conductivity": 940
   },
   {
     "uid": 283200434,
@@ -7337,24 +3704,10 @@
   },
   {
     "uid": 283200434,
-    "date": "1/2/2025",
-    "water_level": 4.9321,
-    "temperature": 25.996,
-    "conductivity": 941.1
-  },
-  {
-    "uid": 283200434,
     "date": "1/3/2025",
     "water_level": 4.952,
     "temperature": 25.999,
     "conductivity": 941.3
-  },
-  {
-    "uid": 283200434,
-    "date": "1/3/2025",
-    "water_level": 4.9354,
-    "temperature": 25.996,
-    "conductivity": 940.8
   },
   {
     "uid": 283200434,
@@ -7365,24 +3718,10 @@
   },
   {
     "uid": 283200434,
-    "date": "1/4/2025",
-    "water_level": 4.9283,
-    "temperature": 25.997,
-    "conductivity": 939.9
-  },
-  {
-    "uid": 283200434,
     "date": "1/5/2025",
     "water_level": 4.9452,
     "temperature": 25.996,
     "conductivity": 939.5
-  },
-  {
-    "uid": 283200434,
-    "date": "1/5/2025",
-    "water_level": 4.9302,
-    "temperature": 25.997,
-    "conductivity": 939.7
   },
   {
     "uid": 283200434,
@@ -7393,24 +3732,10 @@
   },
   {
     "uid": 283200434,
-    "date": "1/6/2025",
-    "water_level": 4.9401,
-    "temperature": 25.997,
-    "conductivity": 939.1
-  },
-  {
-    "uid": 283200434,
     "date": "1/7/2025",
     "water_level": 4.9472,
     "temperature": 25.995,
     "conductivity": 939.7
-  },
-  {
-    "uid": 283200434,
-    "date": "1/7/2025",
-    "water_level": 4.9433,
-    "temperature": 25.996,
-    "conductivity": 938.9
   },
   {
     "uid": 283200434,
@@ -7421,24 +3746,10 @@
   },
   {
     "uid": 283200434,
-    "date": "1/8/2025",
-    "water_level": 4.9409,
-    "temperature": 25.994,
-    "conductivity": 939.2
-  },
-  {
-    "uid": 283200434,
     "date": "1/9/2025",
     "water_level": 4.9661,
     "temperature": 25.997,
     "conductivity": 938.9
-  },
-  {
-    "uid": 283200434,
-    "date": "1/9/2025",
-    "water_level": 4.9273,
-    "temperature": 25.994,
-    "conductivity": 939.7
   },
   {
     "uid": 283200434,
@@ -7449,24 +3760,10 @@
   },
   {
     "uid": 283200434,
-    "date": "1/10/2025",
-    "water_level": 4.941,
-    "temperature": 25.994,
-    "conductivity": 939.5
-  },
-  {
-    "uid": 283200434,
     "date": "1/11/2025",
     "water_level": 4.9546,
     "temperature": 25.994,
     "conductivity": 938.5
-  },
-  {
-    "uid": 283200434,
-    "date": "1/11/2025",
-    "water_level": 4.9441,
-    "temperature": 25.996,
-    "conductivity": 939.6
   },
   {
     "uid": 283200434,
@@ -7477,24 +3774,10 @@
   },
   {
     "uid": 283200434,
-    "date": "1/12/2025",
-    "water_level": 4.9318,
-    "temperature": 25.996,
-    "conductivity": 938.9
-  },
-  {
-    "uid": 283200434,
     "date": "1/13/2025",
     "water_level": 4.9326,
     "temperature": 25.994,
     "conductivity": 939.9
-  },
-  {
-    "uid": 283200434,
-    "date": "1/13/2025",
-    "water_level": 4.9242,
-    "temperature": 25.994,
-    "conductivity": 940.2
   },
   {
     "uid": 283200434,
@@ -7505,24 +3788,10 @@
   },
   {
     "uid": 283200434,
-    "date": "1/14/2025",
-    "water_level": 4.9256,
-    "temperature": 25.996,
-    "conductivity": 940.1
-  },
-  {
-    "uid": 283200434,
     "date": "1/15/2025",
     "water_level": 4.9371,
     "temperature": 25.993,
     "conductivity": 939.5
-  },
-  {
-    "uid": 283200434,
-    "date": "1/15/2025",
-    "water_level": 4.9337,
-    "temperature": 25.992,
-    "conductivity": 939.2
   },
   {
     "uid": 283200434,
@@ -7533,24 +3802,10 @@
   },
   {
     "uid": 283200434,
-    "date": "1/16/2025",
-    "water_level": 4.9473,
-    "temperature": 25.994,
-    "conductivity": 939.4
-  },
-  {
-    "uid": 283200434,
     "date": "1/17/2025",
     "water_level": 4.9779,
     "temperature": 25.994,
     "conductivity": 939.6
-  },
-  {
-    "uid": 283200434,
-    "date": "1/17/2025",
-    "water_level": 4.9525,
-    "temperature": 25.993,
-    "conductivity": 938.9
   },
   {
     "uid": 283200434,
@@ -7561,24 +3816,10 @@
   },
   {
     "uid": 283200434,
-    "date": "1/18/2025",
-    "water_level": 4.9435,
-    "temperature": 25.993,
-    "conductivity": 938.8
-  },
-  {
-    "uid": 283200434,
     "date": "1/19/2025",
     "water_level": 4.9495,
     "temperature": 25.994,
     "conductivity": 938.7
-  },
-  {
-    "uid": 283200434,
-    "date": "1/19/2025",
-    "water_level": 4.9313,
-    "temperature": 25.992,
-    "conductivity": 939
   },
   {
     "uid": 283200434,
@@ -7589,24 +3830,10 @@
   },
   {
     "uid": 283200434,
-    "date": "1/20/2025",
-    "water_level": 4.9156,
-    "temperature": 25.992,
-    "conductivity": 939.2
-  },
-  {
-    "uid": 283200434,
     "date": "1/21/2025",
     "water_level": 4.9252,
     "temperature": 25.992,
     "conductivity": 939.5
-  },
-  {
-    "uid": 283200434,
-    "date": "1/21/2025",
-    "water_level": 4.9166,
-    "temperature": 25.992,
-    "conductivity": 940
   },
   {
     "uid": 283200434,
@@ -7617,24 +3844,10 @@
   },
   {
     "uid": 283200434,
-    "date": "1/22/2025",
-    "water_level": 4.9096,
-    "temperature": 25.992,
-    "conductivity": 939.3
-  },
-  {
-    "uid": 283200434,
     "date": "1/23/2025",
     "water_level": 4.9153,
     "temperature": 25.993,
     "conductivity": 939.3
-  },
-  {
-    "uid": 283200434,
-    "date": "1/23/2025",
-    "water_level": 4.8956,
-    "temperature": 25.992,
-    "conductivity": 939
   },
   {
     "uid": 283200434,
@@ -7645,24 +3858,10 @@
   },
   {
     "uid": 283200434,
-    "date": "1/24/2025",
-    "water_level": 4.8873,
-    "temperature": 25.99,
-    "conductivity": 939.9
-  },
-  {
-    "uid": 283200434,
     "date": "1/25/2025",
     "water_level": 4.8798,
     "temperature": 25.991,
     "conductivity": 939.8
-  },
-  {
-    "uid": 283200434,
-    "date": "1/25/2025",
-    "water_level": 4.8743,
-    "temperature": 25.99,
-    "conductivity": 939.7
   },
   {
     "uid": 283200434,
@@ -7673,24 +3872,10 @@
   },
   {
     "uid": 283200434,
-    "date": "1/26/2025",
-    "water_level": 4.8739,
-    "temperature": 25.991,
-    "conductivity": 939.1
-  },
-  {
-    "uid": 283200434,
     "date": "1/27/2025",
     "water_level": 4.8911,
     "temperature": 25.991,
     "conductivity": 939.6
-  },
-  {
-    "uid": 283200434,
-    "date": "1/27/2025",
-    "water_level": 4.8627,
-    "temperature": 25.99,
-    "conductivity": 940.2
   },
   {
     "uid": 283200434,
@@ -7701,24 +3886,10 @@
   },
   {
     "uid": 283200434,
-    "date": "1/28/2025",
-    "water_level": 4.8659,
-    "temperature": 25.99,
-    "conductivity": 939.5
-  },
-  {
-    "uid": 283200434,
     "date": "1/29/2025",
     "water_level": 4.876,
     "temperature": 25.989,
     "conductivity": 940.8
-  },
-  {
-    "uid": 283200434,
-    "date": "1/29/2025",
-    "water_level": 4.8468,
-    "temperature": 25.987,
-    "conductivity": 940.5
   },
   {
     "uid": 283200434,
@@ -7729,24 +3900,10 @@
   },
   {
     "uid": 283200434,
-    "date": "1/30/2025",
-    "water_level": 4.838,
-    "temperature": 25.988,
-    "conductivity": 940.3
-  },
-  {
-    "uid": 283200434,
     "date": "1/31/2025",
     "water_level": 4.8468,
     "temperature": 25.989,
     "conductivity": 940.3
-  },
-  {
-    "uid": 283200434,
-    "date": "1/31/2025",
-    "water_level": 4.8196,
-    "temperature": 25.99,
-    "conductivity": 939.9
   },
   {
     "uid": 283200434,
@@ -7757,24 +3914,10 @@
   },
   {
     "uid": 283200434,
-    "date": "2/1/2025",
-    "water_level": 4.8035,
-    "temperature": 25.988,
-    "conductivity": 940.8
-  },
-  {
-    "uid": 283200434,
     "date": "2/2/2025",
     "water_level": 4.8038,
     "temperature": 25.987,
     "conductivity": 940.6
-  },
-  {
-    "uid": 283200434,
-    "date": "2/2/2025",
-    "water_level": 4.7996,
-    "temperature": 25.987,
-    "conductivity": 941
   },
   {
     "uid": 283200434,
@@ -7785,24 +3928,10 @@
   },
   {
     "uid": 283200434,
-    "date": "2/3/2025",
-    "water_level": 4.7839,
-    "temperature": 25.987,
-    "conductivity": 940.3
-  },
-  {
-    "uid": 283200434,
     "date": "2/4/2025",
     "water_level": 4.7982,
     "temperature": 25.988,
     "conductivity": 941.1
-  },
-  {
-    "uid": 283200434,
-    "date": "2/4/2025",
-    "water_level": 4.7759,
-    "temperature": 25.987,
-    "conductivity": 941.6
   },
   {
     "uid": 283200551,
@@ -7813,24 +3942,10 @@
   },
   {
     "uid": 283200551,
-    "date": "12/31/2024",
-    "water_level": 8.5349,
-    "temperature": 29.821,
-    "conductivity": 2150.4
-  },
-  {
-    "uid": 283200551,
     "date": "1/1/2025",
     "water_level": 8.5393,
     "temperature": 29.823,
     "conductivity": 2145.3
-  },
-  {
-    "uid": 283200551,
-    "date": "1/1/2025",
-    "water_level": 8.5339,
-    "temperature": 29.82,
-    "conductivity": 2150.1
   },
   {
     "uid": 283200551,
@@ -7841,24 +3956,10 @@
   },
   {
     "uid": 283200551,
-    "date": "1/2/2025",
-    "water_level": 8.549,
-    "temperature": 29.819,
-    "conductivity": 2134
-  },
-  {
-    "uid": 283200551,
     "date": "1/3/2025",
     "water_level": 8.5525,
     "temperature": 29.82,
     "conductivity": 2126.5
-  },
-  {
-    "uid": 283200551,
-    "date": "1/3/2025",
-    "water_level": 8.5526,
-    "temperature": 29.821,
-    "conductivity": 2130.8
   },
   {
     "uid": 283200551,
@@ -7869,24 +3970,10 @@
   },
   {
     "uid": 283200551,
-    "date": "1/4/2025",
-    "water_level": 8.5468,
-    "temperature": 29.82,
-    "conductivity": 2135.5
-  },
-  {
-    "uid": 283200551,
     "date": "1/5/2025",
     "water_level": 8.5498,
     "temperature": 29.819,
     "conductivity": 2128.8
-  },
-  {
-    "uid": 283200551,
-    "date": "1/5/2025",
-    "water_level": 8.5425,
-    "temperature": 29.818,
-    "conductivity": 2138.3
   },
   {
     "uid": 283200551,
@@ -7897,24 +3984,10 @@
   },
   {
     "uid": 283200551,
-    "date": "1/6/2025",
-    "water_level": 8.5489,
-    "temperature": 29.818,
-    "conductivity": 2132.1
-  },
-  {
-    "uid": 283200551,
     "date": "1/7/2025",
     "water_level": 8.5495,
     "temperature": 29.819,
     "conductivity": 2124.4
-  },
-  {
-    "uid": 283200551,
-    "date": "1/7/2025",
-    "water_level": 8.5362,
-    "temperature": 29.818,
-    "conductivity": 2143.2
   },
   {
     "uid": 283200551,
@@ -7925,24 +3998,10 @@
   },
   {
     "uid": 283200551,
-    "date": "1/8/2025",
-    "water_level": 8.5198,
-    "temperature": 29.815,
-    "conductivity": 2166.3
-  },
-  {
-    "uid": 283200551,
     "date": "1/9/2025",
     "water_level": 8.5064,
     "temperature": 29.818,
     "conductivity": 2172.6
-  },
-  {
-    "uid": 283200551,
-    "date": "1/9/2025",
-    "water_level": 8.4979,
-    "temperature": 29.819,
-    "conductivity": 2178.6
   },
   {
     "uid": 283200551,
@@ -7953,24 +4012,10 @@
   },
   {
     "uid": 283200551,
-    "date": "1/10/2025",
-    "water_level": 8.4956,
-    "temperature": 29.817,
-    "conductivity": 2181.5
-  },
-  {
-    "uid": 283200551,
     "date": "1/11/2025",
     "water_level": 8.5048,
     "temperature": 29.815,
     "conductivity": 2176.2
-  },
-  {
-    "uid": 283200551,
-    "date": "1/11/2025",
-    "water_level": 8.4909,
-    "temperature": 29.817,
-    "conductivity": 2181.5
   },
   {
     "uid": 283200551,
@@ -7981,24 +4026,10 @@
   },
   {
     "uid": 283200551,
-    "date": "1/12/2025",
-    "water_level": 8.4797,
-    "temperature": 29.816,
-    "conductivity": 2186.8
-  },
-  {
-    "uid": 283200551,
     "date": "1/13/2025",
     "water_level": 8.4936,
     "temperature": 29.815,
     "conductivity": 2187.2
-  },
-  {
-    "uid": 283200551,
-    "date": "1/13/2025",
-    "water_level": 8.4856,
-    "temperature": 29.815,
-    "conductivity": 2196.9
   },
   {
     "uid": 283200551,
@@ -8009,24 +4040,10 @@
   },
   {
     "uid": 283200551,
-    "date": "1/14/2025",
-    "water_level": 8.4845,
-    "temperature": 29.815,
-    "conductivity": 2195.6
-  },
-  {
-    "uid": 283200551,
     "date": "1/15/2025",
     "water_level": 8.4966,
     "temperature": 29.814,
     "conductivity": 2185.7
-  },
-  {
-    "uid": 283200551,
-    "date": "1/15/2025",
-    "water_level": 8.501,
-    "temperature": 29.816,
-    "conductivity": 2172.5
   },
   {
     "uid": 283200551,
@@ -8037,24 +4054,10 @@
   },
   {
     "uid": 283200551,
-    "date": "1/16/2025",
-    "water_level": 8.5321,
-    "temperature": 29.813,
-    "conductivity": 2155.9
-  },
-  {
-    "uid": 283200551,
     "date": "1/17/2025",
     "water_level": 8.5445,
     "temperature": 29.813,
     "conductivity": 2132.3
-  },
-  {
-    "uid": 283200551,
-    "date": "1/17/2025",
-    "water_level": 8.5348,
-    "temperature": 29.813,
-    "conductivity": 2144.2
   },
   {
     "uid": 283200551,
@@ -8065,24 +4068,10 @@
   },
   {
     "uid": 283200551,
-    "date": "1/18/2025",
-    "water_level": 8.5179,
-    "temperature": 29.814,
-    "conductivity": 2159.5
-  },
-  {
-    "uid": 283200551,
     "date": "1/19/2025",
     "water_level": 8.5276,
     "temperature": 29.813,
     "conductivity": 2151.1
-  },
-  {
-    "uid": 283200551,
-    "date": "1/19/2025",
-    "water_level": 8.523,
-    "temperature": 29.811,
-    "conductivity": 2160.2
   },
   {
     "uid": 283200551,
@@ -8093,24 +4082,10 @@
   },
   {
     "uid": 283200551,
-    "date": "1/20/2025",
-    "water_level": 8.5012,
-    "temperature": 29.813,
-    "conductivity": 1993.1
-  },
-  {
-    "uid": 283200551,
     "date": "1/21/2025",
     "water_level": 8.5114,
     "temperature": 29.814,
     "conductivity": 1963.2
-  },
-  {
-    "uid": 283200551,
-    "date": "1/21/2025",
-    "water_level": 8.5204,
-    "temperature": 29.814,
-    "conductivity": 1949.6
   },
   {
     "uid": 283200551,
@@ -8121,24 +4096,10 @@
   },
   {
     "uid": 283200551,
-    "date": "1/22/2025",
-    "water_level": 8.5055,
-    "temperature": 29.811,
-    "conductivity": 1980.5
-  },
-  {
-    "uid": 283200551,
     "date": "1/23/2025",
     "water_level": 8.4963,
     "temperature": 29.81,
     "conductivity": 1988.3
-  },
-  {
-    "uid": 283200551,
-    "date": "1/23/2025",
-    "water_level": 8.4803,
-    "temperature": 29.811,
-    "conductivity": 2019.2
   },
   {
     "uid": 283200551,
@@ -8149,24 +4110,10 @@
   },
   {
     "uid": 283200551,
-    "date": "1/24/2025",
-    "water_level": 8.4632,
-    "temperature": 29.809,
-    "conductivity": 2040.6
-  },
-  {
-    "uid": 283200551,
     "date": "1/25/2025",
     "water_level": 8.4495,
     "temperature": 29.811,
     "conductivity": 2066
-  },
-  {
-    "uid": 283200551,
-    "date": "1/25/2025",
-    "water_level": 8.4373,
-    "temperature": 29.809,
-    "conductivity": 2083.5
   },
   {
     "uid": 283200551,
@@ -8177,24 +4124,10 @@
   },
   {
     "uid": 283200551,
-    "date": "1/26/2025",
-    "water_level": 8.4063,
-    "temperature": 29.812,
-    "conductivity": 2116.4
-  },
-  {
-    "uid": 283200551,
     "date": "1/27/2025",
     "water_level": 8.3958,
     "temperature": 29.809,
     "conductivity": 2134.4
-  },
-  {
-    "uid": 283200551,
-    "date": "1/27/2025",
-    "water_level": 8.3794,
-    "temperature": 29.809,
-    "conductivity": 2150.8
   },
   {
     "uid": 283200551,
@@ -8205,24 +4138,10 @@
   },
   {
     "uid": 283200551,
-    "date": "1/28/2025",
-    "water_level": 8.3571,
-    "temperature": 29.807,
-    "conductivity": 2171
-  },
-  {
-    "uid": 283200551,
     "date": "1/29/2025",
     "water_level": 8.3291,
     "temperature": 29.81,
     "conductivity": 2179
-  },
-  {
-    "uid": 283200551,
-    "date": "1/29/2025",
-    "water_level": 8.3255,
-    "temperature": 29.808,
-    "conductivity": 2179.7
   },
   {
     "uid": 283200551,
@@ -8233,24 +4152,10 @@
   },
   {
     "uid": 283200551,
-    "date": "1/30/2025",
-    "water_level": 8.2988,
-    "temperature": 29.809,
-    "conductivity": 2201.7
-  },
-  {
-    "uid": 283200551,
     "date": "1/31/2025",
     "water_level": 8.2896,
     "temperature": 29.808,
     "conductivity": 2205.9
-  },
-  {
-    "uid": 283200551,
-    "date": "1/31/2025",
-    "water_level": 8.2697,
-    "temperature": 29.807,
-    "conductivity": 2219
   },
   {
     "uid": 283200551,
@@ -8261,24 +4166,10 @@
   },
   {
     "uid": 283200551,
-    "date": "2/1/2025",
-    "water_level": 8.2568,
-    "temperature": 29.808,
-    "conductivity": 2226.9
-  },
-  {
-    "uid": 283200551,
     "date": "2/2/2025",
     "water_level": 8.2651,
     "temperature": 29.805,
     "conductivity": 2220.7
-  },
-  {
-    "uid": 283200551,
-    "date": "2/2/2025",
-    "water_level": 8.2536,
-    "temperature": 29.809,
-    "conductivity": 2229.4
   },
   {
     "uid": 283200551,
@@ -8289,13 +4180,6 @@
   },
   {
     "uid": 283200551,
-    "date": "2/3/2025",
-    "water_level": 8.2586,
-    "temperature": 29.808,
-    "conductivity": 2229.3
-  },
-  {
-    "uid": 283200551,
     "date": "2/4/2025",
     "water_level": 8.2642,
     "temperature": 29.807,
@@ -8303,24 +4187,10 @@
   },
   {
     "uid": 283200551,
-    "date": "2/4/2025",
-    "water_level": 8.2505,
-    "temperature": 29.806,
-    "conductivity": 2230.7
-  },
-  {
-    "uid": 283200551,
     "date": "2/5/2025",
     "water_level": 8.2467,
     "temperature": 29.805,
     "conductivity": 2222.5
-  },
-  {
-    "uid": 283200551,
-    "date": "2/5/2025",
-    "water_level": 8.2299,
-    "temperature": 29.806,
-    "conductivity": 2235.4
   },
   {
     "uid": 283200551,
@@ -8345,24 +4215,10 @@
   },
   {
     "uid": 236565531,
-    "date": "1/1/2025",
-    "water_level": 22.648,
-    "temperature": 26.463,
-    "conductivity": 349.7
-  },
-  {
-    "uid": 236565531,
     "date": "1/2/2025",
     "water_level": 22.6398,
     "temperature": 26.46,
     "conductivity": 349.6
-  },
-  {
-    "uid": 236565531,
-    "date": "1/2/2025",
-    "water_level": 22.6346,
-    "temperature": 26.462,
-    "conductivity": 349.4
   },
   {
     "uid": 236565531,
@@ -8373,24 +4229,10 @@
   },
   {
     "uid": 236565531,
-    "date": "1/3/2025",
-    "water_level": 22.6588,
-    "temperature": 26.461,
-    "conductivity": 350.7
-  },
-  {
-    "uid": 236565531,
     "date": "1/4/2025",
     "water_level": 22.6356,
     "temperature": 26.457,
     "conductivity": 350.7
-  },
-  {
-    "uid": 236565531,
-    "date": "1/4/2025",
-    "water_level": 22.6347,
-    "temperature": 26.458,
-    "conductivity": 350.8
   },
   {
     "uid": 236565531,
@@ -8401,13 +4243,6 @@
   },
   {
     "uid": 236565531,
-    "date": "1/5/2025",
-    "water_level": 22.6348,
-    "temperature": 26.46,
-    "conductivity": 350.9
-  },
-  {
-    "uid": 236565531,
     "date": "1/6/2025",
     "water_level": 22.6131,
     "temperature": 26.458,
@@ -8415,22 +4250,8 @@
   },
   {
     "uid": 236565531,
-    "date": "1/6/2025",
-    "water_level": 22.6486,
-    "temperature": 26.458,
-    "conductivity": 351
-  },
-  {
-    "uid": 236565531,
     "date": "1/7/2025",
     "water_level": 22.6348,
-    "temperature": 26.458,
-    "conductivity": 351.2
-  },
-  {
-    "uid": 236565531,
-    "date": "1/7/2025",
-    "water_level": 22.6598,
     "temperature": 26.458,
     "conductivity": 351.2
   },
@@ -8443,24 +4264,10 @@
   },
   {
     "uid": 236565531,
-    "date": "1/8/2025",
-    "water_level": 22.6606,
-    "temperature": 26.457,
-    "conductivity": 351
-  },
-  {
-    "uid": 236565531,
     "date": "1/9/2025",
     "water_level": 22.6489,
     "temperature": 26.453,
     "conductivity": 350.4
-  },
-  {
-    "uid": 236565531,
-    "date": "1/9/2025",
-    "water_level": 22.6322,
-    "temperature": 26.457,
-    "conductivity": 350.5
   },
   {
     "uid": 236565531,
@@ -8471,24 +4278,10 @@
   },
   {
     "uid": 236565531,
-    "date": "1/10/2025",
-    "water_level": 22.663,
-    "temperature": 26.454,
-    "conductivity": 350.9
-  },
-  {
-    "uid": 236565531,
     "date": "1/11/2025",
     "water_level": 22.6455,
     "temperature": 26.454,
     "conductivity": 350.3
-  },
-  {
-    "uid": 236565531,
-    "date": "1/11/2025",
-    "water_level": 22.6729,
-    "temperature": 26.455,
-    "conductivity": 350.7
   },
   {
     "uid": 236565531,
@@ -8499,24 +4292,10 @@
   },
   {
     "uid": 236565531,
-    "date": "1/12/2025",
-    "water_level": 22.693,
-    "temperature": 26.455,
-    "conductivity": 351.5
-  },
-  {
-    "uid": 236565531,
     "date": "1/13/2025",
     "water_level": 22.6415,
     "temperature": 26.454,
     "conductivity": 350.8
-  },
-  {
-    "uid": 236565531,
-    "date": "1/13/2025",
-    "water_level": 22.7002,
-    "temperature": 26.456,
-    "conductivity": 351.5
   },
   {
     "uid": 236565531,
@@ -8527,24 +4306,10 @@
   },
   {
     "uid": 236565531,
-    "date": "1/14/2025",
-    "water_level": 22.6881,
-    "temperature": 26.455,
-    "conductivity": 351.3
-  },
-  {
-    "uid": 236565531,
     "date": "1/15/2025",
     "water_level": 22.6711,
     "temperature": 26.449,
     "conductivity": 350.6
-  },
-  {
-    "uid": 236565531,
-    "date": "1/15/2025",
-    "water_level": 22.6906,
-    "temperature": 26.453,
-    "conductivity": 350.7
   },
   {
     "uid": 236565531,
@@ -8555,24 +4320,10 @@
   },
   {
     "uid": 236565531,
-    "date": "1/16/2025",
-    "water_level": 22.7162,
-    "temperature": 26.451,
-    "conductivity": 350.7
-  },
-  {
-    "uid": 236565531,
     "date": "1/17/2025",
     "water_level": 22.6706,
     "temperature": 26.451,
     "conductivity": 349.8
-  },
-  {
-    "uid": 236565531,
-    "date": "1/17/2025",
-    "water_level": 22.7198,
-    "temperature": 26.454,
-    "conductivity": 350.6
   },
   {
     "uid": 236565531,
@@ -8583,24 +4334,10 @@
   },
   {
     "uid": 236565531,
-    "date": "1/18/2025",
-    "water_level": 22.7077,
-    "temperature": 26.453,
-    "conductivity": 351.2
-  },
-  {
-    "uid": 236565531,
     "date": "1/19/2025",
     "water_level": 22.6856,
     "temperature": 26.452,
     "conductivity": 350.6
-  },
-  {
-    "uid": 236565531,
-    "date": "1/19/2025",
-    "water_level": 22.7231,
-    "temperature": 26.453,
-    "conductivity": 351.4
   },
   {
     "uid": 236565531,
@@ -8611,24 +4348,10 @@
   },
   {
     "uid": 236565531,
-    "date": "1/20/2025",
-    "water_level": 22.6979,
-    "temperature": 26.45,
-    "conductivity": 350.2
-  },
-  {
-    "uid": 236565531,
     "date": "1/21/2025",
     "water_level": 22.6842,
     "temperature": 26.448,
     "conductivity": 350.6
-  },
-  {
-    "uid": 236565531,
-    "date": "1/21/2025",
-    "water_level": 22.6996,
-    "temperature": 26.449,
-    "conductivity": 350.3
   },
   {
     "uid": 236565531,
@@ -8639,24 +4362,10 @@
   },
   {
     "uid": 236565531,
-    "date": "1/22/2025",
-    "water_level": 22.7122,
-    "temperature": 26.448,
-    "conductivity": 350.7
-  },
-  {
-    "uid": 236565531,
     "date": "1/23/2025",
     "water_level": 22.6855,
     "temperature": 26.449,
     "conductivity": 350.1
-  },
-  {
-    "uid": 236565531,
-    "date": "1/23/2025",
-    "water_level": 22.7038,
-    "temperature": 26.449,
-    "conductivity": 350.5
   },
   {
     "uid": 236565531,
@@ -8667,24 +4376,10 @@
   },
   {
     "uid": 236565531,
-    "date": "1/24/2025",
-    "water_level": 22.6885,
-    "temperature": 26.447,
-    "conductivity": 350.2
-  },
-  {
-    "uid": 236565531,
     "date": "1/25/2025",
     "water_level": 22.6681,
     "temperature": 26.442,
     "conductivity": 349
-  },
-  {
-    "uid": 236565531,
-    "date": "1/25/2025",
-    "water_level": 22.6419,
-    "temperature": 26.444,
-    "conductivity": 348.5
   },
   {
     "uid": 236565531,
@@ -8695,23 +4390,9 @@
   },
   {
     "uid": 236565531,
-    "date": "1/26/2025",
-    "water_level": 22.6271,
-    "temperature": 26.443,
-    "conductivity": 349.1
-  },
-  {
-    "uid": 236565531,
     "date": "1/27/2025",
     "water_level": 22.5938,
     "temperature": 26.441,
-    "conductivity": 348.4
-  },
-  {
-    "uid": 236565531,
-    "date": "1/27/2025",
-    "water_level": 22.6186,
-    "temperature": 26.442,
     "conductivity": 348.4
   },
   {
@@ -8723,13 +4404,6 @@
   },
   {
     "uid": 236565531,
-    "date": "1/28/2025",
-    "water_level": 22.5907,
-    "temperature": 26.44,
-    "conductivity": 346.7
-  },
-  {
-    "uid": 236565531,
     "date": "1/29/2025",
     "water_level": 22.5764,
     "temperature": 26.438,
@@ -8737,23 +4411,9 @@
   },
   {
     "uid": 236565531,
-    "date": "1/29/2025",
-    "water_level": 22.5859,
-    "temperature": 26.442,
-    "conductivity": 346.4
-  },
-  {
-    "uid": 236565531,
     "date": "1/30/2025",
     "water_level": 22.5741,
     "temperature": 26.437,
-    "conductivity": 345.6
-  },
-  {
-    "uid": 236565531,
-    "date": "1/30/2025",
-    "water_level": 22.5941,
-    "temperature": 26.44,
     "conductivity": 345.6
   },
   {
@@ -8765,24 +4425,10 @@
   },
   {
     "uid": 236565531,
-    "date": "1/31/2025",
-    "water_level": 22.5965,
-    "temperature": 26.444,
-    "conductivity": 345.7
-  },
-  {
-    "uid": 236565531,
     "date": "2/1/2025",
     "water_level": 22.5637,
     "temperature": 26.437,
     "conductivity": 346.3
-  },
-  {
-    "uid": 236565531,
-    "date": "2/1/2025",
-    "water_level": 22.5792,
-    "temperature": 26.438,
-    "conductivity": 345
   },
   {
     "uid": 236565531,
@@ -8793,24 +4439,10 @@
   },
   {
     "uid": 236565531,
-    "date": "2/2/2025",
-    "water_level": 22.5853,
-    "temperature": 26.44,
-    "conductivity": 347.2
-  },
-  {
-    "uid": 236565531,
     "date": "2/3/2025",
     "water_level": 22.566,
     "temperature": 26.436,
     "conductivity": 347.2
-  },
-  {
-    "uid": 236565531,
-    "date": "2/3/2025",
-    "water_level": 22.6087,
-    "temperature": 26.439,
-    "conductivity": 347.6
   },
   {
     "uid": 236565531,
@@ -8821,13 +4453,6 @@
   },
   {
     "uid": 236565531,
-    "date": "2/4/2025",
-    "water_level": 22.6097,
-    "temperature": 26.439,
-    "conductivity": 346.1
-  },
-  {
-    "uid": 236565531,
     "date": "2/5/2025",
     "water_level": 22.5836,
     "temperature": 26.436,
@@ -8835,24 +4460,10 @@
   },
   {
     "uid": 236565531,
-    "date": "2/5/2025",
-    "water_level": 22.6005,
-    "temperature": 26.44,
-    "conductivity": 346.6
-  },
-  {
-    "uid": 236565531,
     "date": "2/6/2025",
     "water_level": 22.5758,
     "temperature": 26.438,
     "conductivity": 346
-  },
-  {
-    "uid": 236565531,
-    "date": "2/6/2025",
-    "water_level": 22.6036,
-    "temperature": 26.439,
-    "conductivity": 346.4
   },
   {
     "uid": 236565531,
@@ -8870,24 +4481,10 @@
   },
   {
     "uid": 283200513,
-    "date": "12/31/2024",
-    "water_level": 12.9006,
-    "temperature": 27.838,
-    "conductivity": 419.7
-  },
-  {
-    "uid": 283200513,
     "date": "1/1/2025",
     "water_level": 12.9805,
     "temperature": 27.778,
     "conductivity": 419
-  },
-  {
-    "uid": 283200513,
-    "date": "1/1/2025",
-    "water_level": 12.753,
-    "temperature": 27.55,
-    "conductivity": 417.7
   },
   {
     "uid": 283200513,
@@ -8898,24 +4495,10 @@
   },
   {
     "uid": 283200513,
-    "date": "1/2/2025",
-    "water_level": 12.796,
-    "temperature": 27.618,
-    "conductivity": 417.4
-  },
-  {
-    "uid": 283200513,
     "date": "1/3/2025",
     "water_level": 12.9504,
     "temperature": 27.713,
     "conductivity": 417.8
-  },
-  {
-    "uid": 283200513,
-    "date": "1/3/2025",
-    "water_level": 12.7789,
-    "temperature": 27.547,
-    "conductivity": 415.8
   },
   {
     "uid": 283200513,
@@ -8926,24 +4509,10 @@
   },
   {
     "uid": 283200513,
-    "date": "1/4/2025",
-    "water_level": 12.8298,
-    "temperature": 27.652,
-    "conductivity": 418.8
-  },
-  {
-    "uid": 283200513,
     "date": "1/5/2025",
     "water_level": 12.9217,
     "temperature": 27.671,
     "conductivity": 417.1
-  },
-  {
-    "uid": 283200513,
-    "date": "1/5/2025",
-    "water_level": 12.9916,
-    "temperature": 27.682,
-    "conductivity": 416.9
   },
   {
     "uid": 283200513,
@@ -8954,24 +4523,10 @@
   },
   {
     "uid": 283200513,
-    "date": "1/6/2025",
-    "water_level": 12.9266,
-    "temperature": 27.667,
-    "conductivity": 422.9
-  },
-  {
-    "uid": 283200513,
     "date": "1/7/2025",
     "water_level": 13.0035,
     "temperature": 27.71,
     "conductivity": 417.8
-  },
-  {
-    "uid": 283200513,
-    "date": "1/7/2025",
-    "water_level": 12.9478,
-    "temperature": 27.667,
-    "conductivity": 421.7
   },
   {
     "uid": 283200513,
@@ -8982,24 +4537,10 @@
   },
   {
     "uid": 283200513,
-    "date": "1/8/2025",
-    "water_level": 12.6917,
-    "temperature": 27.608,
-    "conductivity": 422.1
-  },
-  {
-    "uid": 283200513,
     "date": "1/9/2025",
     "water_level": 12.6429,
     "temperature": 27.653,
     "conductivity": 423.9
-  },
-  {
-    "uid": 283200513,
-    "date": "1/9/2025",
-    "water_level": 12.8256,
-    "temperature": 27.832,
-    "conductivity": 425.4
   },
   {
     "uid": 283200513,
@@ -9010,24 +4551,10 @@
   },
   {
     "uid": 283200513,
-    "date": "1/10/2025",
-    "water_level": 12.9382,
-    "temperature": 27.687,
-    "conductivity": 421.7
-  },
-  {
-    "uid": 283200513,
     "date": "1/11/2025",
     "water_level": 12.8109,
     "temperature": 27.619,
     "conductivity": 416.9
-  },
-  {
-    "uid": 283200513,
-    "date": "1/11/2025",
-    "water_level": 12.733,
-    "temperature": 27.677,
-    "conductivity": 421.9
   },
   {
     "uid": 283200513,
@@ -9038,24 +4565,10 @@
   },
   {
     "uid": 283200513,
-    "date": "1/12/2025",
-    "water_level": 12.6883,
-    "temperature": 27.81,
-    "conductivity": 424.9
-  },
-  {
-    "uid": 283200513,
     "date": "1/13/2025",
     "water_level": 12.9244,
     "temperature": 28.072,
     "conductivity": 441.3
-  },
-  {
-    "uid": 283200513,
-    "date": "1/13/2025",
-    "water_level": 12.9705,
-    "temperature": 27.748,
-    "conductivity": 424.6
   },
   {
     "uid": 283200513,
@@ -9066,24 +4579,10 @@
   },
   {
     "uid": 283200513,
-    "date": "1/14/2025",
-    "water_level": 13.0195,
-    "temperature": 27.593,
-    "conductivity": 416.7
-  },
-  {
-    "uid": 283200513,
     "date": "1/15/2025",
     "water_level": 13.0245,
     "temperature": 27.585,
     "conductivity": 416.9
-  },
-  {
-    "uid": 283200513,
-    "date": "1/15/2025",
-    "water_level": 13.0286,
-    "temperature": 27.561,
-    "conductivity": 416.6
   },
   {
     "uid": 283200513,
@@ -9094,24 +4593,10 @@
   },
   {
     "uid": 283200513,
-    "date": "1/16/2025",
-    "water_level": 13.0498,
-    "temperature": 27.55,
-    "conductivity": 418
-  },
-  {
-    "uid": 283200513,
     "date": "1/17/2025",
     "water_level": 13.0556,
     "temperature": 27.537,
     "conductivity": 416.5
-  },
-  {
-    "uid": 283200513,
-    "date": "1/17/2025",
-    "water_level": 13.0309,
-    "temperature": 27.558,
-    "conductivity": 416.7
   },
   {
     "uid": 283200513,
@@ -9122,24 +4607,10 @@
   },
   {
     "uid": 283200513,
-    "date": "1/18/2025",
-    "water_level": 12.8072,
-    "temperature": 27.501,
-    "conductivity": 421.2
-  },
-  {
-    "uid": 283200513,
     "date": "1/19/2025",
     "water_level": 12.7167,
     "temperature": 27.575,
     "conductivity": 424.6
-  },
-  {
-    "uid": 283200513,
-    "date": "1/19/2025",
-    "water_level": 12.9181,
-    "temperature": 27.763,
-    "conductivity": 426.2
   },
   {
     "uid": 283200513,
@@ -9150,24 +4621,10 @@
   },
   {
     "uid": 283200513,
-    "date": "1/20/2025",
-    "water_level": 12.6957,
-    "temperature": 27.587,
-    "conductivity": 421.7
-  },
-  {
-    "uid": 283200513,
     "date": "1/21/2025",
     "water_level": 12.6637,
     "temperature": 27.623,
     "conductivity": 423.4
-  },
-  {
-    "uid": 283200513,
-    "date": "1/21/2025",
-    "water_level": 12.8597,
-    "temperature": 27.788,
-    "conductivity": 425.1
   },
   {
     "uid": 283200513,
@@ -9178,24 +4635,10 @@
   },
   {
     "uid": 283200513,
-    "date": "1/22/2025",
-    "water_level": 12.9183,
-    "temperature": 27.657,
-    "conductivity": 417.6
-  },
-  {
-    "uid": 283200513,
     "date": "1/23/2025",
     "water_level": 12.9546,
     "temperature": 27.611,
     "conductivity": 417.3
-  },
-  {
-    "uid": 283200513,
-    "date": "1/23/2025",
-    "water_level": 12.9549,
-    "temperature": 27.575,
-    "conductivity": 417
   },
   {
     "uid": 283200513,
@@ -9206,24 +4649,10 @@
   },
   {
     "uid": 283200513,
-    "date": "1/24/2025",
-    "water_level": 12.9699,
-    "temperature": 27.538,
-    "conductivity": 416.6
-  },
-  {
-    "uid": 283200513,
     "date": "1/25/2025",
     "water_level": 12.9568,
     "temperature": 27.544,
     "conductivity": 416.8
-  },
-  {
-    "uid": 283200513,
-    "date": "1/25/2025",
-    "water_level": 12.9422,
-    "temperature": 27.548,
-    "conductivity": 416.5
   },
   {
     "uid": 283200513,
@@ -9234,24 +4663,10 @@
   },
   {
     "uid": 283200513,
-    "date": "1/26/2025",
-    "water_level": 12.6382,
-    "temperature": 27.562,
-    "conductivity": 424.8
-  },
-  {
-    "uid": 283200513,
     "date": "1/27/2025",
     "water_level": 12.9133,
     "temperature": 27.627,
     "conductivity": 418.7
-  },
-  {
-    "uid": 283200513,
-    "date": "1/27/2025",
-    "water_level": 12.7076,
-    "temperature": 27.574,
-    "conductivity": 417.7
   },
   {
     "uid": 283200513,
@@ -9262,24 +4677,10 @@
   },
   {
     "uid": 283200513,
-    "date": "1/28/2025",
-    "water_level": 12.6644,
-    "temperature": 27.717,
-    "conductivity": 424.3
-  },
-  {
-    "uid": 283200513,
     "date": "1/29/2025",
     "water_level": 12.8178,
     "temperature": 27.806,
     "conductivity": 426.8
-  },
-  {
-    "uid": 283200513,
-    "date": "1/29/2025",
-    "water_level": 12.9114,
-    "temperature": 27.751,
-    "conductivity": 424.9
   },
   {
     "uid": 283200513,
@@ -9290,24 +4691,10 @@
   },
   {
     "uid": 283200513,
-    "date": "1/30/2025",
-    "water_level": 12.6328,
-    "temperature": 27.677,
-    "conductivity": 423.9
-  },
-  {
-    "uid": 283200513,
     "date": "1/31/2025",
     "water_level": 12.5857,
     "temperature": 27.688,
     "conductivity": 424.7
-  },
-  {
-    "uid": 283200513,
-    "date": "1/31/2025",
-    "water_level": 12.5856,
-    "temperature": 27.729,
-    "conductivity": 425.1
   },
   {
     "uid": 283200513,
@@ -9318,24 +4705,10 @@
   },
   {
     "uid": 283200513,
-    "date": "2/1/2025",
-    "water_level": 12.8363,
-    "temperature": 27.706,
-    "conductivity": 419.5
-  },
-  {
-    "uid": 283200513,
     "date": "2/2/2025",
     "water_level": 12.8723,
     "temperature": 27.711,
     "conductivity": 418.4
-  },
-  {
-    "uid": 283200513,
-    "date": "2/2/2025",
-    "water_level": 12.6972,
-    "temperature": 27.542,
-    "conductivity": 416.7
   },
   {
     "uid": 283200513,
@@ -9346,13 +4719,6 @@
   },
   {
     "uid": 283200513,
-    "date": "2/3/2025",
-    "water_level": 12.7578,
-    "temperature": 27.62,
-    "conductivity": 421.1
-  },
-  {
-    "uid": 283200513,
     "date": "2/4/2025",
     "water_level": 12.7088,
     "temperature": 27.673,
@@ -9360,24 +4726,10 @@
   },
   {
     "uid": 283200513,
-    "date": "2/4/2025",
-    "water_level": 12.5772,
-    "temperature": 27.579,
-    "conductivity": 418.6
-  },
-  {
-    "uid": 283200513,
     "date": "2/5/2025",
     "water_level": 12.8097,
     "temperature": 27.651,
     "conductivity": 418.4
-  },
-  {
-    "uid": 283200513,
-    "date": "2/5/2025",
-    "water_level": 12.8269,
-    "temperature": 27.669,
-    "conductivity": 419.6
   },
   {
     "uid": 340252543,
@@ -9388,24 +4740,10 @@
   },
   {
     "uid": 340252543,
-    "date": "12/31/2024",
-    "water_level": 5.0359,
-    "temperature": 25.687,
-    "conductivity": 459.4
-  },
-  {
-    "uid": 340252543,
     "date": "1/1/2025",
     "water_level": 5.0236,
     "temperature": 25.686,
     "conductivity": 459.1
-  },
-  {
-    "uid": 340252543,
-    "date": "1/1/2025",
-    "water_level": 5.0137,
-    "temperature": 25.686,
-    "conductivity": 459.5
   },
   {
     "uid": 340252543,
@@ -9416,24 +4754,10 @@
   },
   {
     "uid": 340252543,
-    "date": "1/2/2025",
-    "water_level": 5.0003,
-    "temperature": 25.683,
-    "conductivity": 460.3
-  },
-  {
-    "uid": 340252543,
     "date": "1/3/2025",
     "water_level": 4.9902,
     "temperature": 25.684,
     "conductivity": 460.6
-  },
-  {
-    "uid": 340252543,
-    "date": "1/3/2025",
-    "water_level": 4.9814,
-    "temperature": 25.684,
-    "conductivity": 460.5
   },
   {
     "uid": 340252543,
@@ -9444,24 +4768,10 @@
   },
   {
     "uid": 340252543,
-    "date": "1/4/2025",
-    "water_level": 4.9612,
-    "temperature": 25.683,
-    "conductivity": 461.1
-  },
-  {
-    "uid": 340252543,
     "date": "1/5/2025",
     "water_level": 4.9516,
     "temperature": 25.683,
     "conductivity": 461.4
-  },
-  {
-    "uid": 340252543,
-    "date": "1/5/2025",
-    "water_level": 4.9447,
-    "temperature": 25.681,
-    "conductivity": 461.8
   },
   {
     "uid": 340252543,
@@ -9472,24 +4782,10 @@
   },
   {
     "uid": 340252543,
-    "date": "1/6/2025",
-    "water_level": 4.9329,
-    "temperature": 25.681,
-    "conductivity": 463
-  },
-  {
-    "uid": 340252543,
     "date": "1/7/2025",
     "water_level": 4.9263,
     "temperature": 25.681,
     "conductivity": 463.3
-  },
-  {
-    "uid": 340252543,
-    "date": "1/7/2025",
-    "water_level": 4.9244,
-    "temperature": 25.68,
-    "conductivity": 463.8
   },
   {
     "uid": 340252543,
@@ -9500,24 +4796,10 @@
   },
   {
     "uid": 340252543,
-    "date": "1/8/2025",
-    "water_level": 4.912,
-    "temperature": 25.681,
-    "conductivity": 464.1
-  },
-  {
-    "uid": 340252543,
     "date": "1/9/2025",
     "water_level": 4.8055,
     "temperature": 25.68,
     "conductivity": 464.7
-  },
-  {
-    "uid": 340252543,
-    "date": "1/9/2025",
-    "water_level": 4.709,
-    "temperature": 25.68,
-    "conductivity": 465.3
   },
   {
     "uid": 340252543,
@@ -9528,24 +4810,10 @@
   },
   {
     "uid": 340252543,
-    "date": "1/10/2025",
-    "water_level": 4.6218,
-    "temperature": 25.68,
-    "conductivity": 466.7
-  },
-  {
-    "uid": 340252543,
     "date": "1/11/2025",
     "water_level": 4.5992,
     "temperature": 25.679,
     "conductivity": 467.3
-  },
-  {
-    "uid": 340252543,
-    "date": "1/11/2025",
-    "water_level": 4.579,
-    "temperature": 25.678,
-    "conductivity": 467.9
   },
   {
     "uid": 340252543,
@@ -9556,24 +4824,10 @@
   },
   {
     "uid": 340252543,
-    "date": "1/12/2025",
-    "water_level": 4.5495,
-    "temperature": 25.68,
-    "conductivity": 471.1
-  },
-  {
-    "uid": 340252543,
     "date": "1/13/2025",
     "water_level": 4.541,
     "temperature": 25.677,
     "conductivity": 471.4
-  },
-  {
-    "uid": 340252543,
-    "date": "1/13/2025",
-    "water_level": 4.5314,
-    "temperature": 25.677,
-    "conductivity": 472.7
   },
   {
     "uid": 340252543,
@@ -9584,24 +4838,10 @@
   },
   {
     "uid": 340252543,
-    "date": "1/14/2025",
-    "water_level": 4.5156,
-    "temperature": 25.678,
-    "conductivity": 475.6
-  },
-  {
-    "uid": 340252543,
     "date": "1/15/2025",
     "water_level": 4.5069,
     "temperature": 25.677,
     "conductivity": 477
-  },
-  {
-    "uid": 340252543,
-    "date": "1/15/2025",
-    "water_level": 4.5015,
-    "temperature": 25.677,
-    "conductivity": 478.4
   },
   {
     "uid": 340252543,
@@ -9612,24 +4852,10 @@
   },
   {
     "uid": 340252543,
-    "date": "1/16/2025",
-    "water_level": 4.4848,
-    "temperature": 25.677,
-    "conductivity": 481.1
-  },
-  {
-    "uid": 340252543,
     "date": "1/17/2025",
     "water_level": 4.4683,
     "temperature": 25.677,
     "conductivity": 482.7
-  },
-  {
-    "uid": 340252543,
-    "date": "1/17/2025",
-    "water_level": 4.4577,
-    "temperature": 25.675,
-    "conductivity": 483.2
   },
   {
     "uid": 340252543,
@@ -9640,24 +4866,10 @@
   },
   {
     "uid": 340252543,
-    "date": "1/18/2025",
-    "water_level": 4.4297,
-    "temperature": 25.677,
-    "conductivity": 486.7
-  },
-  {
-    "uid": 340252543,
     "date": "1/19/2025",
     "water_level": 4.4176,
     "temperature": 25.675,
     "conductivity": 488.1
-  },
-  {
-    "uid": 340252543,
-    "date": "1/19/2025",
-    "water_level": 4.3917,
-    "temperature": 25.675,
-    "conductivity": 489.2
   },
   {
     "uid": 340252543,
@@ -9668,24 +4880,10 @@
   },
   {
     "uid": 340252543,
-    "date": "1/20/2025",
-    "water_level": 4.2876,
-    "temperature": 25.675,
-    "conductivity": 491.9
-  },
-  {
-    "uid": 340252543,
     "date": "1/21/2025",
     "water_level": 4.2538,
     "temperature": 25.674,
     "conductivity": 492.6
-  },
-  {
-    "uid": 340252543,
-    "date": "1/21/2025",
-    "water_level": 4.2277,
-    "temperature": 25.672,
-    "conductivity": 494.2
   },
   {
     "uid": 340252543,
@@ -9696,24 +4894,10 @@
   },
   {
     "uid": 340252543,
-    "date": "1/22/2025",
-    "water_level": 4.1844,
-    "temperature": 25.673,
-    "conductivity": 496.3
-  },
-  {
-    "uid": 340252543,
     "date": "1/23/2025",
     "water_level": 4.1693,
     "temperature": 25.673,
     "conductivity": 497.2
-  },
-  {
-    "uid": 340252543,
-    "date": "1/23/2025",
-    "water_level": 4.1559,
-    "temperature": 25.673,
-    "conductivity": 498.6
   },
   {
     "uid": 340252543,
@@ -9724,24 +4908,10 @@
   },
   {
     "uid": 340252543,
-    "date": "1/24/2025",
-    "water_level": 4.1213,
-    "temperature": 25.673,
-    "conductivity": 500.9
-  },
-  {
-    "uid": 340252543,
     "date": "1/25/2025",
     "water_level": 4.0788,
     "temperature": 25.671,
     "conductivity": 502
-  },
-  {
-    "uid": 340252543,
-    "date": "1/25/2025",
-    "water_level": 4.0155,
-    "temperature": 25.671,
-    "conductivity": 503
   },
   {
     "uid": 340252543,
@@ -9752,24 +4922,10 @@
   },
   {
     "uid": 340252543,
-    "date": "1/26/2025",
-    "water_level": 3.8931,
-    "temperature": 25.671,
-    "conductivity": 504.5
-  },
-  {
-    "uid": 340252543,
     "date": "1/27/2025",
     "water_level": 3.8598,
     "temperature": 25.672,
     "conductivity": 505.4
-  },
-  {
-    "uid": 340252543,
-    "date": "1/27/2025",
-    "water_level": 3.7606,
-    "temperature": 25.673,
-    "conductivity": 506.2
   },
   {
     "uid": 340252543,
@@ -9780,24 +4936,10 @@
   },
   {
     "uid": 340252543,
-    "date": "1/28/2025",
-    "water_level": 3.5827,
-    "temperature": 25.671,
-    "conductivity": 508.4
-  },
-  {
-    "uid": 340252543,
     "date": "1/29/2025",
     "water_level": 3.5283,
     "temperature": 25.671,
     "conductivity": 509.4
-  },
-  {
-    "uid": 340252543,
-    "date": "1/29/2025",
-    "water_level": 3.4598,
-    "temperature": 25.67,
-    "conductivity": 510.2
   },
   {
     "uid": 340252543,
@@ -9808,24 +4950,10 @@
   },
   {
     "uid": 340252543,
-    "date": "1/30/2025",
-    "water_level": 3.2644,
-    "temperature": 25.67,
-    "conductivity": 512.1
-  },
-  {
-    "uid": 340252543,
     "date": "1/31/2025",
     "water_level": 3.183,
     "temperature": 25.67,
     "conductivity": 512.9
-  },
-  {
-    "uid": 340252543,
-    "date": "1/31/2025",
-    "water_level": 3.0738,
-    "temperature": 25.671,
-    "conductivity": 513.5
   },
   {
     "uid": 340252543,
@@ -9836,24 +4964,10 @@
   },
   {
     "uid": 340252543,
-    "date": "2/1/2025",
-    "water_level": 2.7675,
-    "temperature": 25.669,
-    "conductivity": 515.5
-  },
-  {
-    "uid": 340252543,
     "date": "2/2/2025",
     "water_level": 2.7044,
     "temperature": 25.668,
     "conductivity": 516.3
-  },
-  {
-    "uid": 340252543,
-    "date": "2/2/2025",
-    "water_level": 2.6624,
-    "temperature": 25.669,
-    "conductivity": 517.1
   },
   {
     "uid": 340252543,
@@ -9864,13 +4978,6 @@
   },
   {
     "uid": 340252543,
-    "date": "2/3/2025",
-    "water_level": 2.2911,
-    "temperature": 25.669,
-    "conductivity": 518.6
-  },
-  {
-    "uid": 340252543,
     "date": "2/4/2025",
     "water_level": 1.9771,
     "temperature": 25.668,
@@ -9878,24 +4985,10 @@
   },
   {
     "uid": 340252543,
-    "date": "2/4/2025",
-    "water_level": 1.8601,
-    "temperature": 25.67,
-    "conductivity": 519.8
-  },
-  {
-    "uid": 340252543,
     "date": "2/5/2025",
     "water_level": 1.7806,
     "temperature": 25.67,
     "conductivity": 520.3
-  },
-  {
-    "uid": 340252543,
-    "date": "2/5/2025",
-    "water_level": 1.7035,
-    "temperature": 25.669,
-    "conductivity": 521
   },
   {
     "uid": 340252543,
@@ -9913,24 +5006,10 @@
   },
   {
     "uid": 340252529,
-    "date": "12/31/2024",
-    "water_level": 11.7885,
-    "temperature": 26.748,
-    "conductivity": 205.9
-  },
-  {
-    "uid": 340252529,
     "date": "1/1/2025",
     "water_level": 11.8604,
     "temperature": 26.745,
     "conductivity": 207.3
-  },
-  {
-    "uid": 340252529,
-    "date": "1/1/2025",
-    "water_level": 11.7136,
-    "temperature": 26.746,
-    "conductivity": 205.5
   },
   {
     "uid": 340252529,
@@ -9941,24 +5020,10 @@
   },
   {
     "uid": 340252529,
-    "date": "1/2/2025",
-    "water_level": 11.6975,
-    "temperature": 26.746,
-    "conductivity": 207.1
-  },
-  {
-    "uid": 340252529,
     "date": "1/3/2025",
     "water_level": 11.8358,
     "temperature": 26.745,
     "conductivity": 207.9
-  },
-  {
-    "uid": 340252529,
-    "date": "1/3/2025",
-    "water_level": 11.6702,
-    "temperature": 26.744,
-    "conductivity": 204.7
   },
   {
     "uid": 340252529,
@@ -9969,24 +5034,10 @@
   },
   {
     "uid": 340252529,
-    "date": "1/4/2025",
-    "water_level": 11.6638,
-    "temperature": 26.743,
-    "conductivity": 206
-  },
-  {
-    "uid": 340252529,
     "date": "1/5/2025",
     "water_level": 11.8975,
     "temperature": 26.744,
     "conductivity": 207
-  },
-  {
-    "uid": 340252529,
-    "date": "1/5/2025",
-    "water_level": 11.6998,
-    "temperature": 26.744,
-    "conductivity": 206.6
   },
   {
     "uid": 340252529,
@@ -9997,24 +5048,10 @@
   },
   {
     "uid": 340252529,
-    "date": "1/6/2025",
-    "water_level": 11.7346,
-    "temperature": 26.743,
-    "conductivity": 206.2
-  },
-  {
-    "uid": 340252529,
     "date": "1/7/2025",
     "water_level": 11.9079,
     "temperature": 26.745,
     "conductivity": 206.6
-  },
-  {
-    "uid": 340252529,
-    "date": "1/7/2025",
-    "water_level": 11.8041,
-    "temperature": 26.744,
-    "conductivity": 205.1
   },
   {
     "uid": 340252529,
@@ -10025,24 +5062,10 @@
   },
   {
     "uid": 340252529,
-    "date": "1/8/2025",
-    "water_level": 11.7328,
-    "temperature": 26.741,
-    "conductivity": 208
-  },
-  {
-    "uid": 340252529,
     "date": "1/9/2025",
     "water_level": 11.7386,
     "temperature": 26.744,
     "conductivity": 183.2
-  },
-  {
-    "uid": 340252529,
-    "date": "1/9/2025",
-    "water_level": 11.6662,
-    "temperature": 26.743,
-    "conductivity": 174.6
   },
   {
     "uid": 340252529,
@@ -10053,24 +5076,10 @@
   },
   {
     "uid": 340252529,
-    "date": "1/10/2025",
-    "water_level": 11.643,
-    "temperature": 26.742,
-    "conductivity": 181.2
-  },
-  {
-    "uid": 340252529,
     "date": "1/11/2025",
     "water_level": 11.8391,
     "temperature": 26.741,
     "conductivity": 181.4
-  },
-  {
-    "uid": 340252529,
-    "date": "1/11/2025",
-    "water_level": 11.6757,
-    "temperature": 26.74,
-    "conductivity": 177.5
   },
   {
     "uid": 340252529,
@@ -10081,24 +5090,10 @@
   },
   {
     "uid": 340252529,
-    "date": "1/12/2025",
-    "water_level": 11.6162,
-    "temperature": 26.742,
-    "conductivity": 182.5
-  },
-  {
-    "uid": 340252529,
     "date": "1/13/2025",
     "water_level": 11.7029,
     "temperature": 26.74,
     "conductivity": 184.6
-  },
-  {
-    "uid": 340252529,
-    "date": "1/13/2025",
-    "water_level": 11.6496,
-    "temperature": 26.738,
-    "conductivity": 188.7
   },
   {
     "uid": 340252529,
@@ -10109,24 +5104,10 @@
   },
   {
     "uid": 340252529,
-    "date": "1/14/2025",
-    "water_level": 11.6156,
-    "temperature": 26.74,
-    "conductivity": 191.4
-  },
-  {
-    "uid": 340252529,
     "date": "1/15/2025",
     "water_level": 11.8064,
     "temperature": 26.742,
     "conductivity": 192.5
-  },
-  {
-    "uid": 340252529,
-    "date": "1/15/2025",
-    "water_level": 11.6389,
-    "temperature": 26.74,
-    "conductivity": 193.4
   },
   {
     "uid": 340252529,
@@ -10137,24 +5118,10 @@
   },
   {
     "uid": 340252529,
-    "date": "1/16/2025",
-    "water_level": 11.6967,
-    "temperature": 26.738,
-    "conductivity": 194.3
-  },
-  {
-    "uid": 340252529,
     "date": "1/17/2025",
     "water_level": 11.8386,
     "temperature": 26.739,
     "conductivity": 195.6
-  },
-  {
-    "uid": 340252529,
-    "date": "1/17/2025",
-    "water_level": 11.6265,
-    "temperature": 26.739,
-    "conductivity": 195.9
   },
   {
     "uid": 340252529,
@@ -10165,24 +5132,10 @@
   },
   {
     "uid": 340252529,
-    "date": "1/18/2025",
-    "water_level": 11.6945,
-    "temperature": 26.738,
-    "conductivity": 195.2
-  },
-  {
-    "uid": 340252529,
     "date": "1/19/2025",
     "water_level": 11.8128,
     "temperature": 26.738,
     "conductivity": 197.6
-  },
-  {
-    "uid": 340252529,
-    "date": "1/19/2025",
-    "water_level": 11.596,
-    "temperature": 26.739,
-    "conductivity": 196.9
   },
   {
     "uid": 340252529,
@@ -10193,24 +5146,10 @@
   },
   {
     "uid": 340252529,
-    "date": "1/20/2025",
-    "water_level": 11.6334,
-    "temperature": 26.739,
-    "conductivity": 197.6
-  },
-  {
-    "uid": 340252529,
     "date": "1/21/2025",
     "water_level": 11.7511,
     "temperature": 26.74,
     "conductivity": 199
-  },
-  {
-    "uid": 340252529,
-    "date": "1/21/2025",
-    "water_level": 11.5795,
-    "temperature": 26.737,
-    "conductivity": 193.2
   },
   {
     "uid": 340252529,
@@ -10221,24 +5160,10 @@
   },
   {
     "uid": 340252529,
-    "date": "1/22/2025",
-    "water_level": 11.4647,
-    "temperature": 26.742,
-    "conductivity": 185.1
-  },
-  {
-    "uid": 340252529,
     "date": "1/23/2025",
     "water_level": 11.5047,
     "temperature": 26.739,
     "conductivity": 121.1
-  },
-  {
-    "uid": 340252529,
-    "date": "1/23/2025",
-    "water_level": 11.3929,
-    "temperature": 26.738,
-    "conductivity": 120.9
   },
   {
     "uid": 340252529,
@@ -10249,24 +5174,10 @@
   },
   {
     "uid": 340252529,
-    "date": "1/24/2025",
-    "water_level": 11.333,
-    "temperature": 26.74,
-    "conductivity": 121.2
-  },
-  {
-    "uid": 340252529,
     "date": "1/25/2025",
     "water_level": 11.4523,
     "temperature": 26.741,
     "conductivity": 100.2
-  },
-  {
-    "uid": 340252529,
-    "date": "1/25/2025",
-    "water_level": 11.3484,
-    "temperature": 26.737,
-    "conductivity": 96.9
   },
   {
     "uid": 340252529,
@@ -10277,24 +5188,10 @@
   },
   {
     "uid": 340252529,
-    "date": "1/26/2025",
-    "water_level": 11.3263,
-    "temperature": 26.737,
-    "conductivity": 106.8
-  },
-  {
-    "uid": 340252529,
     "date": "1/27/2025",
     "water_level": 11.5726,
     "temperature": 26.737,
     "conductivity": 111.1
-  },
-  {
-    "uid": 340252529,
-    "date": "1/27/2025",
-    "water_level": 11.2809,
-    "temperature": 26.739,
-    "conductivity": 112.6
   },
   {
     "uid": 340252529,
@@ -10305,24 +5202,10 @@
   },
   {
     "uid": 340252529,
-    "date": "1/28/2025",
-    "water_level": 11.2885,
-    "temperature": 26.735,
-    "conductivity": 112
-  },
-  {
-    "uid": 340252529,
     "date": "1/29/2025",
     "water_level": 11.3546,
     "temperature": 26.736,
     "conductivity": 115.5
-  },
-  {
-    "uid": 340252529,
-    "date": "1/29/2025",
-    "water_level": 11.1304,
-    "temperature": 26.742,
-    "conductivity": 103.7
   },
   {
     "uid": 340252529,
@@ -10333,24 +5216,10 @@
   },
   {
     "uid": 340252529,
-    "date": "1/30/2025",
-    "water_level": 11.1842,
-    "temperature": 26.739,
-    "conductivity": 88
-  },
-  {
-    "uid": 340252529,
     "date": "1/31/2025",
     "water_level": 11.1376,
     "temperature": 26.74,
     "conductivity": 91
-  },
-  {
-    "uid": 340252529,
-    "date": "1/31/2025",
-    "water_level": 10.9966,
-    "temperature": 26.744,
-    "conductivity": 91.4
   },
   {
     "uid": 340252529,
@@ -10361,24 +5230,10 @@
   },
   {
     "uid": 340252529,
-    "date": "2/1/2025",
-    "water_level": 10.9456,
-    "temperature": 26.735,
-    "conductivity": 89.4
-  },
-  {
-    "uid": 340252529,
     "date": "2/2/2025",
     "water_level": 11.1583,
     "temperature": 26.739,
     "conductivity": 92.2
-  },
-  {
-    "uid": 340252529,
-    "date": "2/2/2025",
-    "water_level": 10.9579,
-    "temperature": 26.736,
-    "conductivity": 95.6
   },
   {
     "uid": 340252529,
@@ -10389,13 +5244,6 @@
   },
   {
     "uid": 340252529,
-    "date": "2/3/2025",
-    "water_level": 10.8863,
-    "temperature": 26.742,
-    "conductivity": 98
-  },
-  {
-    "uid": 340252529,
     "date": "2/4/2025",
     "water_level": 10.8168,
     "temperature": 26.745,
@@ -10403,24 +5251,10 @@
   },
   {
     "uid": 340252529,
-    "date": "2/4/2025",
-    "water_level": 10.7757,
-    "temperature": 26.741,
-    "conductivity": 87.9
-  },
-  {
-    "uid": 340252529,
     "date": "2/5/2025",
     "water_level": 10.87,
     "temperature": 26.737,
     "conductivity": 88.9
-  },
-  {
-    "uid": 340252529,
-    "date": "2/5/2025",
-    "water_level": 10.7383,
-    "temperature": 26.736,
-    "conductivity": 96
   },
   {
     "uid": 340252529,
