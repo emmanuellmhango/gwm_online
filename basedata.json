@@ -1,163 +1,140 @@
-[
-  {
-    "uid": 416244498,
-    "name": "Balaka Water Office",
-    "latitude": -14.9923017,
-    "longitude": 34.95948,
-    "monitoring_type": "Logger"
-  },
-  {
-    "uid": 236565562,
-    "name": "Chidoole Primary School",
-    "latitude": -15.5008809,
-    "longitude": 34.5033563,
-    "monitoring_type": "Logger"
-  },
-  {
-    "uid": 936461975,
-    "name": "CHIKWAWA POST OFFICE",
-    "latitude": -16.0224384,
-    "longitude": 34.7906859,
-    "monitoring_type": "Logger"
-  },
-  {
-    "uid": 283200496,
-    "name": "CHILAYENI PRIMARY SCHOOL",
-    "latitude": -15.81389694,
-    "longitude": 35.59344396,
-    "monitoring_type": "Logger"
-  },
-  {
-    "uid": 283200441,
-    "name": "CHILOMONI POLICE STATION",
-    "latitude": -15.76980952,
-    "longitude": 34.98733313,
-    "monitoring_type": "Logger"
-  },
-  {
-    "uid": 63077362,
+{
+  "63077362": {
     "name": "Chiradzulu Water Office",
     "latitude": -15.703575,
     "longitude": 35.182083,
     "monitoring_type": "Telemetry"
   },
-  {
-    "uid": 340252567,
-    "name": "KAWIYA CCAP",
-    "latitude": -15.3200048,
-    "longitude": 35.3988751,
-    "monitoring_type": "Logger"
-  },
-  {
-    "uid": 283200489,
-    "name": "KHWALALA PRIMARY SCHOOL",
-    "latitude": -15.72544722,
-    "longitude": 35.32192842,
-    "monitoring_type": "Logger"
-  },
-  {
-    "uid": 936471958,
-    "name": "Malaka Primary School",
-    "latitude": -15.4958948,
-    "longitude": 35.04738728,
-    "monitoring_type": "Logger"
-  },
-  {
-    "uid": 283200458,
-    "name": "MIKALATI PRIMARY SCHOOL",
-    "latitude": -16.0168375,
-    "longitude": 35.2797201,
-    "monitoring_type": "Logger"
-  },
-  {
-    "uid": 340252495,
-    "name": "Mmanga CDSS",
-    "latitude": -15.0456152,
-    "longitude": 35.1841628,
-    "monitoring_type": "Logger"
-  },
-  {
-    "uid": 139642245,
+  "139642245": {
     "name": "Mokhoto Primary School",
     "latitude": -15.18922812,
     "longitude": 34.82364619,
     "monitoring_type": "Logger"
   },
-  {
-    "uid": 580184695,
-    "name": "Mpatseabwire",
-    "latitude": -15.7062856,
-    "longitude": 34.7364662,
-    "monitoring_type": "Logger"
-  },
-  {
-    "uid": 340252543,
-    "name": "Mselema Police",
-    "latitude": -14.7225219,
-    "longitude": 35.5493548,
-    "monitoring_type": "Logger"
-  },
-  {
-    "uid": 283200472,
-    "name": "MULANJE WATER OFFICE",
-    "latitude": -16.02450517,
-    "longitude": 35.50426657,
-    "monitoring_type": "Logger"
-  },
-  {
-    "uid": 236565586,
-    "name": "Mwanza Prison",
-    "latitude": -15.6074859,
-    "longitude": 34.5161009,
-    "monitoring_type": "Logger"
-  },
-  {
-    "uid": 283200434,
-    "name": "NANSOMBA LEA",
-    "latitude": -15.79386089,
-    "longitude": 35.60694735,
-    "monitoring_type": "Logger"
-  },
-  {
-    "uid": 283200551,
-    "name": "NGABU WATER OFFICE",
-    "latitude": -16.45533904,
-    "longitude": 34.89122404,
-    "monitoring_type": "Telemetry"
-  },
-  {
-    "uid": 236565531,
+  "236565531": {
     "name": "Nsambang`ombe",
     "latitude": -15.774954,
     "longitude": 34.4642941,
     "monitoring_type": "Logger"
   },
-  {
-    "uid": 283200513,
+  "236565562": {
+    "name": "Chidoole Primary School",
+    "latitude": -15.5008809,
+    "longitude": 34.5033563,
+    "monitoring_type": "Logger"
+  },
+  "236565586": {
+    "name": "Mwanza Prison",
+    "latitude": -15.6074859,
+    "longitude": 34.5161009,
+    "monitoring_type": "Logger"
+  },
+  "283200434": {
+    "name": "NANSOMBA LEA",
+    "latitude": -15.79386089,
+    "longitude": 35.60694735,
+    "monitoring_type": "Logger"
+  },
+  "283200441": {
+    "name": "CHILOMONI POLICE STATION",
+    "latitude": -15.76980952,
+    "longitude": 34.98733313,
+    "monitoring_type": "Logger"
+  },
+  "283200458": {
+    "name": "MIKALATI PRIMARY SCHOOL",
+    "latitude": -16.0168375,
+    "longitude": 35.2797201,
+    "monitoring_type": "Logger"
+  },
+  "283200472": {
+    "name": "MULANJE WATER OFFICE",
+    "latitude": -16.02450517,
+    "longitude": 35.50426657,
+    "monitoring_type": "Logger"
+  },
+  "283200489": {
+    "name": "KHWALALA PRIMARY SCHOOL",
+    "latitude": -15.72544722,
+    "longitude": 35.32192842,
+    "monitoring_type": "Logger"
+  },
+  "283200496": {
+    "name": "CHILAYENI PRIMARY SCHOOL",
+    "latitude": -15.81389694,
+    "longitude": 35.59344396,
+    "monitoring_type": "Logger"
+  },
+  "283200513": {
     "name": "NSANJE WATER OFFICE",
     "latitude": -16.92180746,
     "longitude": 35.25727741,
     "monitoring_type": "Logger"
   },
-  {
-    "uid": 340252529,
+  "283200551": {
+    "name": "NGABU WATER OFFICE",
+    "latitude": -16.45533904,
+    "longitude": 34.89122404,
+    "monitoring_type": "Telemetry"
+  },
+  "340252495": {
+    "name": "Mmanga CDSS",
+    "latitude": -15.0456152,
+    "longitude": 35.1841628,
+    "monitoring_type": "Logger"
+  },
+  "340252529": {
     "name": "Ntaja Water Office",
     "latitude": -14.8676492,
     "longitude": 35.5283082,
     "monitoring_type": "Logger"
   },
-  {
-    "uid": 537640126,
+  "340252543": {
+    "name": "Mselema Police",
+    "latitude": -14.7225219,
+    "longitude": 35.5493548,
+    "monitoring_type": "Logger"
+  },
+  "340252567": {
+    "name": "KAWIYA CCAP",
+    "latitude": -15.3200048,
+    "longitude": 35.3988751,
+    "monitoring_type": "Logger"
+  },
+  "416244498": {
+    "name": "Balaka Water Office",
+    "latitude": -14.9923017,
+    "longitude": 34.95948,
+    "monitoring_type": "Logger"
+  },
+  "537640061": {
+    "name": "Thyolo Water Office",
+    "latitude": -16.069894,
+    "longitude": 35.1498,
+    "monitoring_type": "Telemetry"
+  },
+  "537640126": {
     "name": "Sekani Primary",
     "latitude": -16.282327,
     "longitude": 34.875266,
     "monitoring_type": "Logger"
   },
-  {
-    "uid": 537640061,
-    "name": "Thyolo Water Office",
-    "latitude": -16.069894,
-    "longitude": 35.1498,
-    "monitoring_type": "Telemetry"
+  "580184695": {
+    "name": "Mpatseabwire",
+    "latitude": -15.7062856,
+    "longitude": 34.7364662,
+    "monitoring_type": "Logger"
+  },
+  "936461975": {
+    "name": "CHIKWAWA POST OFFICE",
+    "latitude": -16.0224384,
+    "longitude": 34.7906859,
+    "monitoring_type": "Logger"
+  },
+  "936471958": {
+    "name": "Malaka Primary School",
+    "latitude": -15.4958948,
+    "longitude": 35.04738728,
+    "monitoring_type": "Logger"
   }
-]
+}
